@@ -1,0 +1,57 @@
+name: nightly-refresh
+
+on:
+  schedule:
+    # 06:00 UTC daily -- after the prior US trading day's after-hours
+    # SEC filings have settled and the company_tickers.json snapshot is
+    # stable for the day.
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+    env:
+      SECTORKIT_SEC_USER_AGENT: "sectorkit (https://github.com/userFRM/sectorkit; ${{ secrets.CONTACT_EMAIL || 'frederic.miesegaes@gmail.com' }})"
+      RUST_LOG: info
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Rust stable
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Cache cargo registry
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/registry
+            ~/.cargo/git
+            target
+          key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.lock') }}
+
+      - name: Build CLI
+        run: cargo build --release --bin sectorkit-cli
+
+      - name: Hydrate SEC submissions snapshot
+        run: ./target/release/sectorkit-cli hydrate
+
+      - name: Show snapshot summary
+        run: |
+          stamp=$(date -u +%Y-%m-%d)
+          ls -la data/$stamp/
+          ./target/release/sectorkit-cli summary --snapshot data/$stamp/sectors.parquet
+
+      - name: Commit if changed
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "github-actions"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(data): nightly $(date -u +%Y-%m-%d)"
+            git push
+          else
+            echo "no changes to commit"
+          fi

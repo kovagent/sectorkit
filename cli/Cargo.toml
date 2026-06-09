@@ -1,0 +1,26 @@
+[package]
+name = "sectorkit-cli"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+repository.workspace = true
+description = "CLI for sectorkit -- SEC EDGAR SIC industry/sector taxonomy hydration and lookup"
+keywords = ["sec", "edgar", "sic", "sector", "cli"]
+categories = ["command-line-utilities", "finance"]
+
+[[bin]]
+name = "sectorkit-cli"
+path = "src/main.rs"
+
+[dependencies]
+sectorkit = { path = "../crates/sectorkit", version = "0.1.0" }
+
+anyhow.workspace = true
+tokio.workspace = true
+chrono.workspace = true
+clap.workspace = true
+tracing.workspace = true
+tracing-subscriber.workspace = true
+serde_json.workspace = true
+reqwest.workspace = true

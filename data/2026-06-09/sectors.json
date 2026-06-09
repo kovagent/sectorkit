@@ -1,0 +1,7722 @@
+[
+  {
+    "ticker": "NVDA",
+    "cik": 1045810,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "NVIDIA CORP"
+  },
+  {
+    "ticker": "AAPL",
+    "cik": 320193,
+    "sic_code": 3571,
+    "sic_desc": "Electronic Computers",
+    "sector": "Manufacturing",
+    "name": "Apple Inc."
+  },
+  {
+    "ticker": "GOOGL",
+    "cik": 1652044,
+    "sic_code": 7370,
+    "sic_desc": "Services-Computer Programming, Data Processing, Etc.",
+    "sector": "Services",
+    "name": "Alphabet Inc."
+  },
+  {
+    "ticker": "MSFT",
+    "cik": 789019,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "MICROSOFT CORP"
+  },
+  {
+    "ticker": "AMZN",
+    "cik": 1018724,
+    "sic_code": 5961,
+    "sic_desc": "Retail-Catalog & Mail-Order Houses",
+    "sector": "RetailTrade",
+    "name": "AMAZON COM INC"
+  },
+  {
+    "ticker": "AVGO",
+    "cik": 1730168,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "Broadcom Inc."
+  },
+  {
+    "ticker": "META",
+    "cik": 1326801,
+    "sic_code": 7370,
+    "sic_desc": "Services-Computer Programming, Data Processing, Etc.",
+    "sector": "Services",
+    "name": "Meta Platforms, Inc."
+  },
+  {
+    "ticker": "TSLA",
+    "cik": 1318605,
+    "sic_code": 3711,
+    "sic_desc": "Motor Vehicles & Passenger Car Bodies",
+    "sector": "Manufacturing",
+    "name": "Tesla, Inc."
+  },
+  {
+    "ticker": "MU",
+    "cik": 723125,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "MICRON TECHNOLOGY INC"
+  },
+  {
+    "ticker": "BRK-B",
+    "cik": 1067983,
+    "sic_code": 6331,
+    "sic_desc": "Fire, Marine & Casualty Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "BERKSHIRE HATHAWAY INC"
+  },
+  {
+    "ticker": "LLY",
+    "cik": 59478,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "ELI LILLY & Co"
+  },
+  {
+    "ticker": "WMT",
+    "cik": 104169,
+    "sic_code": 5331,
+    "sic_desc": "Retail-Variety Stores",
+    "sector": "RetailTrade",
+    "name": "Walmart Inc."
+  },
+  {
+    "ticker": "AMD",
+    "cik": 2488,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "ADVANCED MICRO DEVICES INC"
+  },
+  {
+    "ticker": "ASML",
+    "cik": 937966,
+    "sic_code": 3559,
+    "sic_desc": "Special Industry Machinery, NEC",
+    "sector": "Manufacturing",
+    "name": "ASML HOLDING NV"
+  },
+  {
+    "ticker": "JPM",
+    "cik": 19617,
+    "sic_code": 6021,
+    "sic_desc": "National Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "JPMORGAN CHASE & CO"
+  },
+  {
+    "ticker": "ORCL",
+    "cik": 1341439,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "ORACLE CORP"
+  },
+  {
+    "ticker": "XOM",
+    "cik": 34088,
+    "sic_code": 2911,
+    "sic_desc": "Petroleum Refining",
+    "sector": "Manufacturing",
+    "name": "EXXON MOBIL CORP"
+  },
+  {
+    "ticker": "V",
+    "cik": 1403161,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "VISA INC."
+  },
+  {
+    "ticker": "INTC",
+    "cik": 50863,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "INTEL CORP"
+  },
+  {
+    "ticker": "JNJ",
+    "cik": 200406,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "JOHNSON & JOHNSON"
+  },
+  {
+    "ticker": "CSCO",
+    "cik": 858877,
+    "sic_code": 3576,
+    "sic_desc": "Computer Communications Equipment",
+    "sector": "Manufacturing",
+    "name": "CISCO SYSTEMS, INC."
+  },
+  {
+    "ticker": "CAT",
+    "cik": 18230,
+    "sic_code": 3531,
+    "sic_desc": "Construction Machinery & Equip",
+    "sector": "Manufacturing",
+    "name": "CATERPILLAR INC"
+  },
+  {
+    "ticker": "COST",
+    "cik": 909832,
+    "sic_code": 5331,
+    "sic_desc": "Retail-Variety Stores",
+    "sector": "RetailTrade",
+    "name": "COSTCO WHOLESALE CORP /NEW"
+  },
+  {
+    "ticker": "MA",
+    "cik": 1141391,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "Mastercard Inc"
+  },
+  {
+    "ticker": "LRCX",
+    "cik": 707549,
+    "sic_code": 3559,
+    "sic_desc": "Special Industry Machinery, NEC",
+    "sector": "Manufacturing",
+    "name": "LAM RESEARCH CORP"
+  },
+  {
+    "ticker": "ARM",
+    "cik": 1973239,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "ARM HOLDINGS PLC /UK"
+  },
+  {
+    "ticker": "AMAT",
+    "cik": 6951,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "APPLIED MATERIALS INC /DE"
+  },
+  {
+    "ticker": "ABBV",
+    "cik": 1551152,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "AbbVie Inc."
+  },
+  {
+    "ticker": "CVX",
+    "cik": 93410,
+    "sic_code": 2911,
+    "sic_desc": "Petroleum Refining",
+    "sector": "Manufacturing",
+    "name": "CHEVRON CORP"
+  },
+  {
+    "ticker": "BAC",
+    "cik": 70858,
+    "sic_code": 6021,
+    "sic_desc": "National Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "BANK OF AMERICA CORP /DE/"
+  },
+  {
+    "ticker": "UNH",
+    "cik": 731766,
+    "sic_code": 6324,
+    "sic_desc": "Hospital & Medical Service Plans",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "UNITEDHEALTH GROUP INC"
+  },
+  {
+    "ticker": "NFLX",
+    "cik": 1065280,
+    "sic_code": 7841,
+    "sic_desc": "Services-Video Tape Rental",
+    "sector": "Services",
+    "name": "NETFLIX INC"
+  },
+  {
+    "ticker": "MS",
+    "cik": 895421,
+    "sic_code": 6211,
+    "sic_desc": "Security Brokers, Dealers & Flotation Companies",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "MORGAN STANLEY"
+  },
+  {
+    "ticker": "GE",
+    "cik": 40545,
+    "sic_code": 3600,
+    "sic_desc": "Electronic & Other Electrical Equipment (No Computer Equip)",
+    "sector": "Manufacturing",
+    "name": "GENERAL ELECTRIC CO"
+  },
+  {
+    "ticker": "PLTR",
+    "cik": 1321655,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "Palantir Technologies Inc."
+  },
+  {
+    "ticker": "KO",
+    "cik": 21344,
+    "sic_code": 2080,
+    "sic_desc": "Beverages",
+    "sector": "Manufacturing",
+    "name": "COCA COLA CO"
+  },
+  {
+    "ticker": "PG",
+    "cik": 80424,
+    "sic_code": 2840,
+    "sic_desc": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+    "sector": "Manufacturing",
+    "name": "PROCTER & GAMBLE Co"
+  },
+  {
+    "ticker": "GS",
+    "cik": 886982,
+    "sic_code": 6211,
+    "sic_desc": "Security Brokers, Dealers & Flotation Companies",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "GOLDMAN SACHS GROUP INC"
+  },
+  {
+    "ticker": "HSBC",
+    "cik": 1089113,
+    "sic_code": 6035,
+    "sic_desc": "Savings Institution, Federally Chartered",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "HSBC HOLDINGS PLC"
+  },
+  {
+    "ticker": "HD",
+    "cik": 354950,
+    "sic_code": 5211,
+    "sic_desc": "Retail-Lumber & Other Building Materials Dealers",
+    "sector": "RetailTrade",
+    "name": "HOME DEPOT, INC."
+  },
+  {
+    "ticker": "BABA",
+    "cik": 1577552,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "Alibaba Group Holding Ltd"
+  },
+  {
+    "ticker": "MRK",
+    "cik": 310158,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "Merck & Co., Inc."
+  },
+  {
+    "ticker": "IBM",
+    "cik": 51143,
+    "sic_code": 3570,
+    "sic_desc": "Computer & office Equipment",
+    "sector": "Manufacturing",
+    "name": "INTERNATIONAL BUSINESS MACHINES CORP"
+  },
+  {
+    "ticker": "NVS",
+    "cik": 1114448,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "NOVARTIS AG"
+  },
+  {
+    "ticker": "AZN",
+    "cik": 901832,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "ASTRAZENECA PLC"
+  },
+  {
+    "ticker": "KLAC",
+    "cik": 319201,
+    "sic_code": 3827,
+    "sic_desc": "Optical Instruments & Lenses",
+    "sector": "Manufacturing",
+    "name": "KLA CORP"
+  },
+  {
+    "ticker": "MRVL",
+    "cik": 1835632,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "Marvell Technology, Inc."
+  },
+  {
+    "ticker": "TXN",
+    "cik": 97476,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "TEXAS INSTRUMENTS INC"
+  },
+  {
+    "ticker": "DELL",
+    "cik": 1571996,
+    "sic_code": 3571,
+    "sic_desc": "Electronic Computers",
+    "sector": "Manufacturing",
+    "name": "Dell Technologies Inc."
+  },
+  {
+    "ticker": "PM",
+    "cik": 1413329,
+    "sic_code": 2111,
+    "sic_desc": "Cigarettes",
+    "sector": "Manufacturing",
+    "name": "Philip Morris International Inc."
+  },
+  {
+    "ticker": "RY",
+    "cik": 1000275,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "ROYAL BANK OF CANADA"
+  },
+  {
+    "ticker": "SNDK",
+    "cik": 2023554,
+    "sic_code": 3572,
+    "sic_desc": "Computer Storage Devices",
+    "sector": "Manufacturing",
+    "name": "Sandisk Corp"
+  },
+  {
+    "ticker": "GEV",
+    "cik": 1996810,
+    "sic_code": 3600,
+    "sic_desc": "Electronic & Other Electrical Equipment (No Computer Equip)",
+    "sector": "Manufacturing",
+    "name": "GE Vernova Inc."
+  },
+  {
+    "ticker": "QCOM",
+    "cik": 804328,
+    "sic_code": 3663,
+    "sic_desc": "Radio & Tv Broadcasting & Communications Equipment",
+    "sector": "Manufacturing",
+    "name": "QUALCOMM INC/DE"
+  },
+  {
+    "ticker": "WFC",
+    "cik": 72971,
+    "sic_code": 6021,
+    "sic_desc": "National Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "WELLS FARGO & COMPANY/MN"
+  },
+  {
+    "ticker": "RTX",
+    "cik": 101829,
+    "sic_code": 3724,
+    "sic_desc": "Aircraft Engines & Engine Parts",
+    "sector": "Manufacturing",
+    "name": "RTX Corp"
+  },
+  {
+    "ticker": "SHEL",
+    "cik": 1306965,
+    "sic_code": 1311,
+    "sic_desc": "Crude Petroleum & Natural Gas",
+    "sector": "Mining",
+    "name": "Shell plc"
+  },
+  {
+    "ticker": "LIN",
+    "cik": 1707925,
+    "sic_code": 2810,
+    "sic_desc": "Industrial Inorganic Chemicals",
+    "sector": "Manufacturing",
+    "name": "LINDE PLC"
+  },
+  {
+    "ticker": "TM",
+    "cik": 1094517,
+    "sic_code": 3711,
+    "sic_desc": "Motor Vehicles & Passenger Car Bodies",
+    "sector": "Manufacturing",
+    "name": "TOYOTA MOTOR CORP/"
+  },
+  {
+    "ticker": "C",
+    "cik": 831001,
+    "sic_code": 6021,
+    "sic_desc": "National Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "CITIGROUP INC"
+  },
+  {
+    "ticker": "PANW",
+    "cik": 1327567,
+    "sic_code": 3577,
+    "sic_desc": "Computer Peripheral Equipment, NEC",
+    "sector": "Manufacturing",
+    "name": "Palo Alto Networks Inc"
+  },
+  {
+    "ticker": "MUFG",
+    "cik": 67088,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "MITSUBISHI UFJ FINANCIAL GROUP INC"
+  },
+  {
+    "ticker": "BHP",
+    "cik": 811809,
+    "sic_code": 1000,
+    "sic_desc": "Metal Mining",
+    "sector": "Mining",
+    "name": "BHP Group Ltd"
+  },
+  {
+    "ticker": "SAP",
+    "cik": 1000184,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "SAP SE"
+  },
+  {
+    "ticker": "RTNTF",
+    "cik": 887028,
+    "sic_code": 1000,
+    "sic_desc": "Metal Mining",
+    "sector": "Mining",
+    "name": "RIO TINTO LTD"
+  },
+  {
+    "ticker": "AXP",
+    "cik": 4962,
+    "sic_code": 6199,
+    "sic_desc": "Finance Services",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "AMERICAN EXPRESS CO"
+  },
+  {
+    "ticker": "ANET",
+    "cik": 1596532,
+    "sic_code": 3576,
+    "sic_desc": "Computer Communications Equipment",
+    "sector": "Manufacturing",
+    "name": "Arista Networks, Inc."
+  },
+  {
+    "ticker": "STX",
+    "cik": 1137789,
+    "sic_code": 3572,
+    "sic_desc": "Computer Storage Devices",
+    "sector": "Manufacturing",
+    "name": "Seagate Technology Holdings plc"
+  },
+  {
+    "ticker": "ADI",
+    "cik": 6281,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "ANALOG DEVICES INC"
+  },
+  {
+    "ticker": "TTE",
+    "cik": 879764,
+    "sic_code": 1311,
+    "sic_desc": "Crude Petroleum & Natural Gas",
+    "sector": "Mining",
+    "name": "TotalEnergies SE"
+  },
+  {
+    "ticker": "WDC",
+    "cik": 106040,
+    "sic_code": 3572,
+    "sic_desc": "Computer Storage Devices",
+    "sector": "Manufacturing",
+    "name": "WESTERN DIGITAL CORP"
+  },
+  {
+    "ticker": "PEP",
+    "cik": 77476,
+    "sic_code": 2080,
+    "sic_desc": "Beverages",
+    "sector": "Manufacturing",
+    "name": "PEPSICO INC"
+  },
+  {
+    "ticker": "NVO",
+    "cik": 353278,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "NOVO NORDISK A S"
+  },
+  {
+    "ticker": "MCD",
+    "cik": 63908,
+    "sic_code": 5812,
+    "sic_desc": "Retail-Eating  Places",
+    "sector": "RetailTrade",
+    "name": "MCDONALDS CORP"
+  },
+  {
+    "ticker": "TMUS",
+    "cik": 1283699,
+    "sic_code": 4812,
+    "sic_desc": "Radiotelephone Communications",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "T-Mobile US, Inc."
+  },
+  {
+    "ticker": "APP",
+    "cik": 1751008,
+    "sic_code": 7370,
+    "sic_desc": "Services-Computer Programming, Data Processing, Etc.",
+    "sector": "Services",
+    "name": "AppLovin Corp"
+  },
+  {
+    "ticker": "TD",
+    "cik": 947263,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "TORONTO DOMINION BANK"
+  },
+  {
+    "ticker": "VZ",
+    "cik": 732712,
+    "sic_code": 4813,
+    "sic_desc": "Telephone Communications (No Radiotelephone)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "VERIZON COMMUNICATIONS INC"
+  },
+  {
+    "ticker": "AMGN",
+    "cik": 318154,
+    "sic_code": 2836,
+    "sic_desc": "Biological Products, (No Diagnostic Substances)",
+    "sector": "Manufacturing",
+    "name": "AMGEN INC"
+  },
+  {
+    "ticker": "CRWD",
+    "cik": 1535527,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "CrowdStrike Holdings, Inc."
+  },
+  {
+    "ticker": "APH",
+    "cik": 820313,
+    "sic_code": 3678,
+    "sic_desc": "Electronic Connectors",
+    "sector": "Manufacturing",
+    "name": "AMPHENOL CORP /DE/"
+  },
+  {
+    "ticker": "SAN",
+    "cik": 891478,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Banco Santander, S.A."
+  },
+  {
+    "ticker": "NEE",
+    "cik": 753308,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "NEXTERA ENERGY INC"
+  },
+  {
+    "ticker": "TMO",
+    "cik": 97745,
+    "sic_code": 3829,
+    "sic_desc": "Measuring & Controlling Devices, NEC",
+    "sector": "Manufacturing",
+    "name": "THERMO FISHER SCIENTIFIC INC."
+  },
+  {
+    "ticker": "TJX",
+    "cik": 109198,
+    "sic_code": 5651,
+    "sic_desc": "Retail-Family Clothing Stores",
+    "sector": "RetailTrade",
+    "name": "TJX COMPANIES INC /DE/"
+  },
+  {
+    "ticker": "DIS",
+    "cik": 1744489,
+    "sic_code": 7990,
+    "sic_desc": "Services-Miscellaneous Amusement & Recreation",
+    "sector": "Services",
+    "name": "Walt Disney Co"
+  },
+  {
+    "ticker": "BA",
+    "cik": 12927,
+    "sic_code": 3721,
+    "sic_desc": "Aircraft",
+    "sector": "Manufacturing",
+    "name": "BOEING CO"
+  },
+  {
+    "ticker": "RIO",
+    "cik": 863064,
+    "sic_code": 1000,
+    "sic_desc": "Metal Mining",
+    "sector": "Mining",
+    "name": "RIO TINTO PLC"
+  },
+  {
+    "ticker": "GLW",
+    "cik": 24741,
+    "sic_code": 3357,
+    "sic_desc": "Drawing & Insulating of  Nonferrous Wire",
+    "sector": "Manufacturing",
+    "name": "CORNING INC /NY"
+  },
+  {
+    "ticker": "ETN",
+    "cik": 1551182,
+    "sic_code": 3590,
+    "sic_desc": "Misc Industrial & Commercial Machinery & Equipment",
+    "sector": "Manufacturing",
+    "name": "Eaton Corp plc"
+  },
+  {
+    "ticker": "SCCO",
+    "cik": 1001838,
+    "sic_code": 1000,
+    "sic_desc": "Metal Mining",
+    "sector": "Mining",
+    "name": "SOUTHERN COPPER CORP/"
+  },
+  {
+    "ticker": "GILD",
+    "cik": 882095,
+    "sic_code": 2836,
+    "sic_desc": "Biological Products, (No Diagnostic Substances)",
+    "sector": "Manufacturing",
+    "name": "GILEAD SCIENCES, INC."
+  },
+  {
+    "ticker": "BLK",
+    "cik": 2012383,
+    "sic_code": 6211,
+    "sic_desc": "Security Brokers, Dealers & Flotation Companies",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "BlackRock, Inc."
+  },
+  {
+    "ticker": "DE",
+    "cik": 315189,
+    "sic_code": 3523,
+    "sic_desc": "Farm Machinery & Equipment",
+    "sector": "Manufacturing",
+    "name": "DEERE & CO"
+  },
+  {
+    "ticker": "T",
+    "cik": 732717,
+    "sic_code": 4813,
+    "sic_desc": "Telephone Communications (No Radiotelephone)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "AT&T INC."
+  },
+  {
+    "ticker": "DTEGY",
+    "cik": 946770,
+    "sic_code": 4812,
+    "sic_desc": "Radiotelephone Communications",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "DEUTSCHE TELEKOM AG"
+  },
+  {
+    "ticker": "ABT",
+    "cik": 1800,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "ABBOTT LABORATORIES"
+  },
+  {
+    "ticker": "UNP",
+    "cik": 100885,
+    "sic_code": 4011,
+    "sic_desc": "Railroads, Line-Haul Operating",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "UNION PACIFIC CORP"
+  },
+  {
+    "ticker": "UBS",
+    "cik": 1610520,
+    "sic_code": 6021,
+    "sic_desc": "National Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "UBS Group AG"
+  },
+  {
+    "ticker": "CRM",
+    "cik": 1108524,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "Salesforce, Inc."
+  },
+  {
+    "ticker": "SCHW",
+    "cik": 316709,
+    "sic_code": 6211,
+    "sic_desc": "Security Brokers, Dealers & Flotation Companies",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "SCHWAB CHARLES CORP"
+  },
+  {
+    "ticker": "BUD",
+    "cik": 1668717,
+    "sic_code": 2082,
+    "sic_desc": "Malt Beverages",
+    "sector": "Manufacturing",
+    "name": "Anheuser-Busch InBev SA/NV"
+  },
+  {
+    "ticker": "SHOP",
+    "cik": 1594805,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "SHOPIFY INC."
+  },
+  {
+    "ticker": "SMFG",
+    "cik": 1022837,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "SUMITOMO MITSUI FINANCIAL GROUP, INC."
+  },
+  {
+    "ticker": "ISRG",
+    "cik": 1035267,
+    "sic_code": 3842,
+    "sic_desc": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+    "sector": "Manufacturing",
+    "name": "INTUITIVE SURGICAL INC"
+  },
+  {
+    "ticker": "HTHIY",
+    "cik": 47710,
+    "sic_code": 1600,
+    "sic_desc": "Heavy Construction Other Than Bldg Const - Contractors",
+    "sector": "Construction",
+    "name": "HITACHI LTD"
+  },
+  {
+    "ticker": "IBKR",
+    "cik": 1381197,
+    "sic_code": 6211,
+    "sic_desc": "Security Brokers, Dealers & Flotation Companies",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Interactive Brokers Group, Inc."
+  },
+  {
+    "ticker": "UBER",
+    "cik": 1543151,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "Uber Technologies, Inc"
+  },
+  {
+    "ticker": "PFE",
+    "cik": 78003,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "PFIZER INC"
+  },
+  {
+    "ticker": "BX",
+    "cik": 1393818,
+    "sic_code": 6282,
+    "sic_desc": "Investment Advice",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Blackstone Inc."
+  },
+  {
+    "ticker": "COP",
+    "cik": 1163165,
+    "sic_code": 2911,
+    "sic_desc": "Petroleum Refining",
+    "sector": "Manufacturing",
+    "name": "CONOCOPHILLIPS"
+  },
+  {
+    "ticker": "WELL",
+    "cik": 766704,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "WELLTOWER INC."
+  },
+  {
+    "ticker": "HON",
+    "cik": 773840,
+    "sic_code": 3724,
+    "sic_desc": "Aircraft Engines & Engine Parts",
+    "sector": "Manufacturing",
+    "name": "HONEYWELL INTERNATIONAL INC"
+  },
+  {
+    "ticker": "PLD",
+    "cik": 1045609,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Prologis, Inc."
+  },
+  {
+    "ticker": "DHR",
+    "cik": 313616,
+    "sic_code": 3823,
+    "sic_desc": "Industrial Instruments For Measurement, Display, and Control",
+    "sector": "Manufacturing",
+    "name": "DANAHER CORP /DE/"
+  },
+  {
+    "ticker": "SONY",
+    "cik": 313838,
+    "sic_code": 3651,
+    "sic_desc": "Household Audio & Video Equipment",
+    "sector": "Manufacturing",
+    "name": "Sony Group Corp"
+  },
+  {
+    "ticker": "BKNG",
+    "cik": 1075531,
+    "sic_code": 4700,
+    "sic_desc": "Transportation Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Booking Holdings Inc."
+  },
+  {
+    "ticker": "IFNNY",
+    "cik": 1107457,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "INFINEON TECHNOLOGIES AG"
+  },
+  {
+    "ticker": "ATEYY",
+    "cik": 1158838,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "ADVANTEST CORP"
+  },
+  {
+    "ticker": "BBVA",
+    "cik": 842180,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A."
+  },
+  {
+    "ticker": "BTI",
+    "cik": 1303523,
+    "sic_code": 2111,
+    "sic_desc": "Cigarettes",
+    "sector": "Manufacturing",
+    "name": "British American Tobacco p.l.c."
+  },
+  {
+    "ticker": "VRT",
+    "cik": 1674101,
+    "sic_code": 3679,
+    "sic_desc": "Electronic Components, NEC",
+    "sector": "Manufacturing",
+    "name": "Vertiv Holdings Co"
+  },
+  {
+    "ticker": "SPGI",
+    "cik": 64040,
+    "sic_code": 7320,
+    "sic_desc": "Services-Consumer Credit Reporting, Collection Agencies",
+    "sector": "Services",
+    "name": "S&P Global Inc."
+  },
+  {
+    "ticker": "ENB",
+    "cik": 895728,
+    "sic_code": 4610,
+    "sic_desc": "Pipe Lines (No Natural Gas)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "ENBRIDGE INC"
+  },
+  {
+    "ticker": "HDB",
+    "cik": 1144967,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "HDFC BANK LTD"
+  },
+  {
+    "ticker": "NOW",
+    "cik": 1373715,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "ServiceNow, Inc."
+  },
+  {
+    "ticker": "PDD",
+    "cik": 1737806,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "PDD Holdings Inc."
+  },
+  {
+    "ticker": "CB",
+    "cik": 896159,
+    "sic_code": 6331,
+    "sic_desc": "Fire, Marine & Casualty Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Chubb Ltd"
+  },
+  {
+    "ticker": "CVS",
+    "cik": 64803,
+    "sic_code": 5912,
+    "sic_desc": "Retail-Drug Stores and Proprietary Stores",
+    "sector": "RetailTrade",
+    "name": "CVS HEALTH Corp"
+  },
+  {
+    "ticker": "LMT",
+    "cik": 936468,
+    "sic_code": 3760,
+    "sic_desc": "Guided Missiles & Space Vehicles & Parts",
+    "sector": "Manufacturing",
+    "name": "LOCKHEED MARTIN CORP"
+  },
+  {
+    "ticker": "UL",
+    "cik": 217410,
+    "sic_code": 2840,
+    "sic_desc": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+    "sector": "Manufacturing",
+    "name": "UNILEVER PLC"
+  },
+  {
+    "ticker": "MFG",
+    "cik": 1335730,
+    "sic_code": 6021,
+    "sic_desc": "National Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "MIZUHO FINANCIAL GROUP INC"
+  },
+  {
+    "ticker": "MO",
+    "cik": 764180,
+    "sic_code": 2111,
+    "sic_desc": "Cigarettes",
+    "sector": "Manufacturing",
+    "name": "ALTRIA GROUP, INC."
+  },
+  {
+    "ticker": "LOW",
+    "cik": 60667,
+    "sic_code": 5211,
+    "sic_desc": "Retail-Lumber & Other Building Materials Dealers",
+    "sector": "RetailTrade",
+    "name": "LOWES COMPANIES INC"
+  },
+  {
+    "ticker": "PBR",
+    "cik": 1119639,
+    "sic_code": 1311,
+    "sic_desc": "Crude Petroleum & Natural Gas",
+    "sector": "Mining",
+    "name": "PETROBRAS - PETROLEO BRASILEIRO SA"
+  },
+  {
+    "ticker": "BMO",
+    "cik": 927971,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "BANK OF MONTREAL /CAN/"
+  },
+  {
+    "ticker": "NEM",
+    "cik": 1164727,
+    "sic_code": 1040,
+    "sic_desc": "Gold and Silver Ores",
+    "sector": "Mining",
+    "name": "NEWMONT Corp /DE/"
+  },
+  {
+    "ticker": "SYK",
+    "cik": 310764,
+    "sic_code": 3841,
+    "sic_desc": "Surgical & Medical Instruments & Apparatus",
+    "sector": "Manufacturing",
+    "name": "STRYKER CORP"
+  },
+  {
+    "ticker": "BMY",
+    "cik": 14272,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "BRISTOL MYERS SQUIBB CO"
+  },
+  {
+    "ticker": "COF",
+    "cik": 927628,
+    "sic_code": 6021,
+    "sic_desc": "National Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "CAPITAL ONE FINANCIAL CORP"
+  },
+  {
+    "ticker": "PGR",
+    "cik": 80661,
+    "sic_code": 6331,
+    "sic_desc": "Fire, Marine & Casualty Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "PROGRESSIVE CORP/OH/"
+  },
+  {
+    "ticker": "CDNS",
+    "cik": 813672,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "CADENCE DESIGN SYSTEMS INC"
+  },
+  {
+    "ticker": "BP",
+    "cik": 313807,
+    "sic_code": 2911,
+    "sic_desc": "Petroleum Refining",
+    "sector": "Manufacturing",
+    "name": "BP PLC"
+  },
+  {
+    "ticker": "VRTX",
+    "cik": 875320,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "VERTEX PHARMACEUTICALS INC / MA"
+  },
+  {
+    "ticker": "PH",
+    "cik": 76334,
+    "sic_code": 3490,
+    "sic_desc": "Miscellaneous Fabricated Metal Products",
+    "sector": "Manufacturing",
+    "name": "Parker-Hannifin Corp"
+  },
+  {
+    "ticker": "ACN",
+    "cik": 1467373,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "Accenture plc"
+  },
+  {
+    "ticker": "FTNT",
+    "cik": 1262039,
+    "sic_code": 3577,
+    "sic_desc": "Computer Peripheral Equipment, NEC",
+    "sector": "Manufacturing",
+    "name": "Fortinet, Inc."
+  },
+  {
+    "ticker": "PWR",
+    "cik": 1050915,
+    "sic_code": 1731,
+    "sic_desc": "Electrical Work",
+    "sector": "Construction",
+    "name": "QUANTA SERVICES, INC."
+  },
+  {
+    "ticker": "EQIX",
+    "cik": 1101239,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "EQUINIX INC"
+  },
+  {
+    "ticker": "SBUX",
+    "cik": 829224,
+    "sic_code": 5810,
+    "sic_desc": "Retail-Eating & Drinking Places",
+    "sector": "RetailTrade",
+    "name": "STARBUCKS CORP"
+  },
+  {
+    "ticker": "SNY",
+    "cik": 1121404,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "Sanofi"
+  },
+  {
+    "ticker": "MDT",
+    "cik": 1613103,
+    "sic_code": 3845,
+    "sic_desc": "Electromedical & Electrotherapeutic Apparatus",
+    "sector": "Manufacturing",
+    "name": "Medtronic plc"
+  },
+  {
+    "ticker": "ADBE",
+    "cik": 796343,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "ADOBE INC."
+  },
+  {
+    "ticker": "SO",
+    "cik": 92122,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "SOUTHERN CO"
+  },
+  {
+    "ticker": "GSK",
+    "cik": 1131399,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "GSK plc"
+  },
+  {
+    "ticker": "TT",
+    "cik": 1466258,
+    "sic_code": 3822,
+    "sic_desc": "Auto Controls For Regulating Residential & Comml Environments",
+    "sector": "Manufacturing",
+    "name": "Trane Technologies plc"
+  },
+  {
+    "ticker": "MAR",
+    "cik": 1048286,
+    "sic_code": 7011,
+    "sic_desc": "Hotels & Motels",
+    "sector": "Services",
+    "name": "MARRIOTT INTERNATIONAL INC /MD/"
+  },
+  {
+    "ticker": "SPOT",
+    "cik": 1639920,
+    "sic_code": 4832,
+    "sic_desc": "Radio Broadcasting Stations",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Spotify Technology S.A."
+  },
+  {
+    "ticker": "BN",
+    "cik": 1001085,
+    "sic_code": 6512,
+    "sic_desc": "Opeators of  Nonresidential Buildings",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "BROOKFIELD Corp /ON/"
+  },
+  {
+    "ticker": "FCX",
+    "cik": 831259,
+    "sic_code": 1000,
+    "sic_desc": "Metal Mining",
+    "sector": "Mining",
+    "name": "FREEPORT-MCMORAN INC"
+  },
+  {
+    "ticker": "BNS",
+    "cik": 9631,
+    "sic_code": 6022,
+    "sic_desc": "State Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "BANK OF NOVA SCOTIA"
+  },
+  {
+    "ticker": "CM",
+    "cik": 1045520,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "CANADIAN IMPERIAL BANK OF COMMERCE /CAN/"
+  },
+  {
+    "ticker": "HWM",
+    "cik": 4281,
+    "sic_code": 3350,
+    "sic_desc": "Rolling Drawing & Extruding of  Nonferrous Metals",
+    "sector": "Manufacturing",
+    "name": "Howmet Aerospace Inc."
+  },
+  {
+    "ticker": "CNQ",
+    "cik": 1017413,
+    "sic_code": 1311,
+    "sic_desc": "Crude Petroleum & Natural Gas",
+    "sector": "Mining",
+    "name": "CANADIAN NATURAL RESOURCES LTD"
+  },
+  {
+    "ticker": "BNY",
+    "cik": 1390777,
+    "sic_code": 6022,
+    "sic_desc": "State Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Bank of New York Mellon Corp"
+  },
+  {
+    "ticker": "NET",
+    "cik": 1477333,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "Cloudflare, Inc."
+  },
+  {
+    "ticker": "DUK",
+    "cik": 1326160,
+    "sic_code": 4931,
+    "sic_desc": "Electric & Other Services Combined",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Duke Energy CORP"
+  },
+  {
+    "ticker": "SNPS",
+    "cik": 883241,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "SYNOPSYS INC"
+  },
+  {
+    "ticker": "CEG",
+    "cik": 1868275,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Constellation Energy Corp"
+  },
+  {
+    "ticker": "EQNR",
+    "cik": 1140625,
+    "sic_code": 2911,
+    "sic_desc": "Petroleum Refining",
+    "sector": "Manufacturing",
+    "name": "EQUINOR ASA"
+  },
+  {
+    "ticker": "UPS",
+    "cik": 1090727,
+    "sic_code": 4210,
+    "sic_desc": "Trucking & Courier Services (No Air)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "UNITED PARCEL SERVICE INC"
+  },
+  {
+    "ticker": "IBN",
+    "cik": 1103838,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "ICICI BANK LTD"
+  },
+  {
+    "ticker": "CMI",
+    "cik": 26172,
+    "sic_code": 3510,
+    "sic_desc": "Engines & Turbines",
+    "sector": "Manufacturing",
+    "name": "CUMMINS INC"
+  },
+  {
+    "ticker": "NOK",
+    "cik": 924613,
+    "sic_code": 3663,
+    "sic_desc": "Radio & Tv Broadcasting & Communications Equipment",
+    "sector": "Manufacturing",
+    "name": "NOKIA CORP"
+  },
+  {
+    "ticker": "ADP",
+    "cik": 8670,
+    "sic_code": 7374,
+    "sic_desc": "Services-Computer Processing & Data Preparation",
+    "sector": "Services",
+    "name": "AUTOMATIC DATA PROCESSING INC"
+  },
+  {
+    "ticker": "CME",
+    "cik": 1156375,
+    "sic_code": 6200,
+    "sic_desc": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "CME GROUP INC."
+  },
+  {
+    "ticker": "GD",
+    "cik": 40533,
+    "sic_code": 3730,
+    "sic_desc": "Ship & Boat Building & Repairing",
+    "sector": "Manufacturing",
+    "name": "GENERAL DYNAMICS CORP"
+  },
+  {
+    "ticker": "PNC",
+    "cik": 713676,
+    "sic_code": 6021,
+    "sic_desc": "National Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "PNC FINANCIAL SERVICES GROUP, INC."
+  },
+  {
+    "ticker": "MCK",
+    "cik": 927653,
+    "sic_code": 5122,
+    "sic_desc": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
+    "sector": "WholesaleTrade",
+    "name": "MCKESSON CORP"
+  },
+  {
+    "ticker": "AMT",
+    "cik": 1053507,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "AMERICAN TOWER CORP /MA/"
+  },
+  {
+    "ticker": "JCI",
+    "cik": 833444,
+    "sic_code": 3585,
+    "sic_desc": "Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip",
+    "sector": "Manufacturing",
+    "name": "Johnson Controls International plc"
+  },
+  {
+    "ticker": "ELV",
+    "cik": 1156039,
+    "sic_code": 6324,
+    "sic_desc": "Hospital & Medical Service Plans",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Elevance Health, Inc."
+  },
+  {
+    "ticker": "KKR",
+    "cik": 1404912,
+    "sic_code": 6282,
+    "sic_desc": "Investment Advice",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "KKR & Co. Inc."
+  },
+  {
+    "ticker": "WMB",
+    "cik": 107263,
+    "sic_code": 4922,
+    "sic_desc": "Natural Gas Transmission",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "WILLIAMS COMPANIES, INC."
+  },
+  {
+    "ticker": "AEM",
+    "cik": 2809,
+    "sic_code": 1040,
+    "sic_desc": "Gold and Silver Ores",
+    "sector": "Mining",
+    "name": "AGNICO EAGLE MINES LTD"
+  },
+  {
+    "ticker": "WM",
+    "cik": 823768,
+    "sic_code": 4953,
+    "sic_desc": "Refuse Systems",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "WASTE MANAGEMENT INC"
+  },
+  {
+    "ticker": "ING",
+    "cik": 1039765,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "ING GROEP NV"
+  },
+  {
+    "ticker": "DDOG",
+    "cik": 1561550,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "Datadog, Inc."
+  },
+  {
+    "ticker": "MNST",
+    "cik": 865752,
+    "sic_code": 2086,
+    "sic_desc": "Bottled & Canned Soft Drinks & Carbonated Waters",
+    "sector": "Manufacturing",
+    "name": "Monster Beverage Corp"
+  },
+  {
+    "ticker": "SLB",
+    "cik": 87347,
+    "sic_code": 1389,
+    "sic_desc": "Oil & Gas Field Services, NEC",
+    "sector": "Mining",
+    "name": "SLB LIMITED/NV"
+  },
+  {
+    "ticker": "USB",
+    "cik": 36104,
+    "sic_code": 6021,
+    "sic_desc": "National Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "US BANCORP \\DE\\"
+  },
+  {
+    "ticker": "CSX",
+    "cik": 277948,
+    "sic_code": 4011,
+    "sic_desc": "Railroads, Line-Haul Operating",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "CSX CORP"
+  },
+  {
+    "ticker": "SNOW",
+    "cik": 1640147,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "Snowflake Inc."
+  },
+  {
+    "ticker": "BCS",
+    "cik": 312069,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "BARCLAYS PLC"
+  },
+  {
+    "ticker": "ITUB",
+    "cik": 1132597,
+    "sic_code": 6022,
+    "sic_desc": "State Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Itau Unibanco Holding S.A."
+  },
+  {
+    "ticker": "CMCSA",
+    "cik": 1166691,
+    "sic_code": 4841,
+    "sic_desc": "Cable & Other Pay Television Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "COMCAST CORP"
+  },
+  {
+    "ticker": "ASX",
+    "cik": 1122411,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "ASE Technology Holding Co., Ltd."
+  },
+  {
+    "ticker": "MELI",
+    "cik": 1099590,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "MERCADOLIBRE INC"
+  },
+  {
+    "ticker": "COHR",
+    "cik": 820318,
+    "sic_code": 3827,
+    "sic_desc": "Optical Instruments & Lenses",
+    "sector": "Manufacturing",
+    "name": "COHERENT CORP."
+  },
+  {
+    "ticker": "INTU",
+    "cik": 896878,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "INTUIT INC."
+  },
+  {
+    "ticker": "BE",
+    "cik": 1664703,
+    "sic_code": 3620,
+    "sic_desc": "Electrical Industrial Apparatus",
+    "sector": "Manufacturing",
+    "name": "Bloom Energy Corp"
+  },
+  {
+    "ticker": "EPD",
+    "cik": 1061219,
+    "sic_code": 4922,
+    "sic_desc": "Natural Gas Transmission",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "ENTERPRISE PRODUCTS PARTNERS L.P."
+  },
+  {
+    "ticker": "NXPI",
+    "cik": 1413447,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "NXP Semiconductors N.V."
+  },
+  {
+    "ticker": "MPWR",
+    "cik": 1280452,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "MONOLITHIC POWER SYSTEMS INC"
+  },
+  {
+    "ticker": "NGG",
+    "cik": 1004315,
+    "sic_code": 4922,
+    "sic_desc": "Natural Gas Transmission",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "NATIONAL GRID PLC"
+  },
+  {
+    "ticker": "ICE",
+    "cik": 1571949,
+    "sic_code": 6200,
+    "sic_desc": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Intercontinental Exchange, Inc."
+  },
+  {
+    "ticker": "HCA",
+    "cik": 860730,
+    "sic_code": 8062,
+    "sic_desc": "Services-General Medical & Surgical Hospitals, NEC",
+    "sector": "Services",
+    "name": "HCA Healthcare, Inc."
+  },
+  {
+    "ticker": "E",
+    "cik": 1002242,
+    "sic_code": 1311,
+    "sic_desc": "Crude Petroleum & Natural Gas",
+    "sector": "Mining",
+    "name": "ENI SPA"
+  },
+  {
+    "ticker": "EMR",
+    "cik": 32604,
+    "sic_code": 3600,
+    "sic_desc": "Electronic & Other Electrical Equipment (No Computer Equip)",
+    "sector": "Manufacturing",
+    "name": "EMERSON ELECTRIC CO"
+  },
+  {
+    "ticker": "MMM",
+    "cik": 66740,
+    "sic_code": 3841,
+    "sic_desc": "Surgical & Medical Instruments & Apparatus",
+    "sector": "Manufacturing",
+    "name": "3M CO"
+  },
+  {
+    "ticker": "HOOD",
+    "cik": 1783879,
+    "sic_code": 6211,
+    "sic_desc": "Security Brokers, Dealers & Flotation Companies",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Robinhood Markets, Inc."
+  },
+  {
+    "ticker": "LYG",
+    "cik": 1160106,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Lloyds Banking Group plc"
+  },
+  {
+    "ticker": "ABNB",
+    "cik": 1559720,
+    "sic_code": 7340,
+    "sic_desc": "Services-To Dwellings & Other Buildings",
+    "sector": "Services",
+    "name": "Airbnb, Inc."
+  },
+  {
+    "ticker": "CP",
+    "cik": 16875,
+    "sic_code": 4011,
+    "sic_desc": "Railroads, Line-Haul Operating",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "CANADIAN PACIFIC KANSAS CITY LTD/CN"
+  },
+  {
+    "ticker": "RCL",
+    "cik": 884887,
+    "sic_code": 4400,
+    "sic_desc": "Water Transportation",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "ROYAL CARIBBEAN CRUISES LTD"
+  },
+  {
+    "ticker": "NTES",
+    "cik": 1110646,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "NetEase, Inc."
+  },
+  {
+    "ticker": "MCO",
+    "cik": 1059556,
+    "sic_code": 7320,
+    "sic_desc": "Services-Consumer Credit Reporting, Collection Agencies",
+    "sector": "Services",
+    "name": "MOODYS CORP /DE/"
+  },
+  {
+    "ticker": "SPG",
+    "cik": 1063761,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "SIMON PROPERTY GROUP INC."
+  },
+  {
+    "ticker": "MDLZ",
+    "cik": 1103982,
+    "sic_code": 2000,
+    "sic_desc": "Food and Kindred Products",
+    "sector": "Manufacturing",
+    "name": "Mondelez International, Inc."
+  },
+  {
+    "ticker": "FDX",
+    "cik": 1048911,
+    "sic_code": 4513,
+    "sic_desc": "Air Courier Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "FEDEX CORP"
+  },
+  {
+    "ticker": "MPC",
+    "cik": 1510295,
+    "sic_code": 2911,
+    "sic_desc": "Petroleum Refining",
+    "sector": "Manufacturing",
+    "name": "Marathon Petroleum Corp"
+  },
+  {
+    "ticker": "MRSH",
+    "cik": 62709,
+    "sic_code": 6411,
+    "sic_desc": "Insurance Agents, Brokers & Service",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "MARSH & MCLENNAN COMPANIES, INC."
+  },
+  {
+    "ticker": "NOC",
+    "cik": 1133421,
+    "sic_code": 3812,
+    "sic_desc": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+    "sector": "Manufacturing",
+    "name": "NORTHROP GRUMMAN CORP /DE/"
+  },
+  {
+    "ticker": "SU",
+    "cik": 311337,
+    "sic_code": 2911,
+    "sic_desc": "Petroleum Refining",
+    "sector": "Manufacturing",
+    "name": "SUNCOR ENERGY INC"
+  },
+  {
+    "ticker": "HLT",
+    "cik": 1585689,
+    "sic_code": 7011,
+    "sic_desc": "Hotels & Motels",
+    "sector": "Services",
+    "name": "Hilton Worldwide Holdings Inc."
+  },
+  {
+    "ticker": "VLO",
+    "cik": 1035002,
+    "sic_code": 2911,
+    "sic_desc": "Petroleum Refining",
+    "sector": "Manufacturing",
+    "name": "VALERO ENERGY CORP/TX"
+  },
+  {
+    "ticker": "CIEN",
+    "cik": 936395,
+    "sic_code": 3661,
+    "sic_desc": "Telephone & Telegraph Apparatus",
+    "sector": "Manufacturing",
+    "name": "CIENA CORP"
+  },
+  {
+    "ticker": "AMX",
+    "cik": 1129137,
+    "sic_code": 4813,
+    "sic_desc": "Telephone Communications (No Radiotelephone)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "AMERICA MOVIL SAB DE CV/"
+  },
+  {
+    "ticker": "GM",
+    "cik": 1467858,
+    "sic_code": 3711,
+    "sic_desc": "Motor Vehicles & Passenger Car Bodies",
+    "sector": "Manufacturing",
+    "name": "General Motors Co"
+  },
+  {
+    "ticker": "EOG",
+    "cik": 821189,
+    "sic_code": 1311,
+    "sic_desc": "Crude Petroleum & Natural Gas",
+    "sector": "Mining",
+    "name": "EOG RESOURCES INC"
+  },
+  {
+    "ticker": "ROST",
+    "cik": 745732,
+    "sic_code": 5651,
+    "sic_desc": "Retail-Family Clothing Stores",
+    "sector": "RetailTrade",
+    "name": "ROSS STORES, INC."
+  },
+  {
+    "ticker": "APO",
+    "cik": 1858681,
+    "sic_code": 6282,
+    "sic_desc": "Investment Advice",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Apollo Global Management, Inc."
+  },
+  {
+    "ticker": "BAM",
+    "cik": 1937926,
+    "sic_code": 6282,
+    "sic_desc": "Investment Advice",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Brookfield Asset Management Ltd."
+  },
+  {
+    "ticker": "CI",
+    "cik": 1739940,
+    "sic_code": 6324,
+    "sic_desc": "Hospital & Medical Service Plans",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Cigna Group"
+  },
+  {
+    "ticker": "SHW",
+    "cik": 89800,
+    "sic_code": 5200,
+    "sic_desc": "Retail-Building Materials, Hardware, Garden Supply",
+    "sector": "RetailTrade",
+    "name": "SHERWIN WILLIAMS CO"
+  },
+  {
+    "ticker": "PSX",
+    "cik": 1534701,
+    "sic_code": 2911,
+    "sic_desc": "Petroleum Refining",
+    "sector": "Manufacturing",
+    "name": "Phillips 66"
+  },
+  {
+    "ticker": "LITE",
+    "cik": 1633978,
+    "sic_code": 3669,
+    "sic_desc": "Communications Equipment, NEC",
+    "sector": "Manufacturing",
+    "name": "Lumentum Holdings Inc."
+  },
+  {
+    "ticker": "ORLY",
+    "cik": 898173,
+    "sic_code": 5531,
+    "sic_desc": "Retail-Auto & Home Supply Stores",
+    "sector": "RetailTrade",
+    "name": "O REILLY AUTOMOTIVE INC"
+  },
+  {
+    "ticker": "CVNA",
+    "cik": 1690820,
+    "sic_code": 5500,
+    "sic_desc": "Retail-Auto Dealers & Gasoline Stations",
+    "sector": "RetailTrade",
+    "name": "CARVANA CO."
+  },
+  {
+    "ticker": "CNI",
+    "cik": 16868,
+    "sic_code": 4011,
+    "sic_desc": "Railroads, Line-Haul Operating",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "CANADIAN NATIONAL RAILWAY CO"
+  },
+  {
+    "ticker": "BSX",
+    "cik": 885725,
+    "sic_code": 3841,
+    "sic_desc": "Surgical & Medical Instruments & Apparatus",
+    "sector": "Manufacturing",
+    "name": "BOSTON SCIENTIFIC CORP"
+  },
+  {
+    "ticker": "ITW",
+    "cik": 49826,
+    "sic_code": 3560,
+    "sic_desc": "General Industrial Machinery & Equipment",
+    "sector": "Manufacturing",
+    "name": "ILLINOIS TOOL WORKS INC"
+  },
+  {
+    "ticker": "CTAS",
+    "cik": 723254,
+    "sic_code": 2320,
+    "sic_desc": "Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",
+    "sector": "Manufacturing",
+    "name": "CINTAS CORP"
+  },
+  {
+    "ticker": "B",
+    "cik": 756894,
+    "sic_code": 1040,
+    "sic_desc": "Gold and Silver Ores",
+    "sector": "Mining",
+    "name": "BARRICK MINING CORP"
+  },
+  {
+    "ticker": "TRP",
+    "cik": 1232384,
+    "sic_code": 4922,
+    "sic_desc": "Natural Gas Transmission",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "TC ENERGY CORP"
+  },
+  {
+    "ticker": "ECL",
+    "cik": 31462,
+    "sic_code": 2840,
+    "sic_desc": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+    "sector": "Manufacturing",
+    "name": "ECOLAB INC."
+  },
+  {
+    "ticker": "CRH",
+    "cik": 849395,
+    "sic_code": 3241,
+    "sic_desc": "Cement, Hydraulic",
+    "sector": "Manufacturing",
+    "name": "CRH PUBLIC LTD CO"
+  },
+  {
+    "ticker": "HPE",
+    "cik": 1645590,
+    "sic_code": 3570,
+    "sic_desc": "Computer & office Equipment",
+    "sector": "Manufacturing",
+    "name": "Hewlett Packard Enterprise Co"
+  },
+  {
+    "ticker": "KMI",
+    "cik": 1506307,
+    "sic_code": 4922,
+    "sic_desc": "Natural Gas Transmission",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "KINDER MORGAN, INC."
+  },
+  {
+    "ticker": "DASH",
+    "cik": 1792789,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "DoorDash, Inc."
+  },
+  {
+    "ticker": "STM",
+    "cik": 932787,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "STMicroelectronics N.V."
+  },
+  {
+    "ticker": "AEP",
+    "cik": 4904,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "AMERICAN ELECTRIC POWER CO INC"
+  },
+  {
+    "ticker": "RKLB",
+    "cik": 1819994,
+    "sic_code": 3760,
+    "sic_desc": "Guided Missiles & Space Vehicles & Parts",
+    "sector": "Manufacturing",
+    "name": "Rocket Lab Corp"
+  },
+  {
+    "ticker": "NSC",
+    "cik": 702165,
+    "sic_code": 4011,
+    "sic_desc": "Railroads, Line-Haul Operating",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "NORFOLK SOUTHERN CORP"
+  },
+  {
+    "ticker": "TDG",
+    "cik": 1260221,
+    "sic_code": 3728,
+    "sic_desc": "Aircraft Parts & Auxiliary Equipment, NEC",
+    "sector": "Manufacturing",
+    "name": "TransDigm Group INC"
+  },
+  {
+    "ticker": "AON",
+    "cik": 315293,
+    "sic_code": 6411,
+    "sic_desc": "Insurance Agents, Brokers & Service",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Aon plc"
+  },
+  {
+    "ticker": "MSI",
+    "cik": 68505,
+    "sic_code": 3663,
+    "sic_desc": "Radio & Tv Broadcasting & Communications Equipment",
+    "sector": "Manufacturing",
+    "name": "Motorola Solutions, Inc."
+  },
+  {
+    "ticker": "CL",
+    "cik": 21665,
+    "sic_code": 2844,
+    "sic_desc": "Perfumes, Cosmetics & Other Toilet Preparations",
+    "sector": "Manufacturing",
+    "name": "COLGATE PALMOLIVE CO"
+  },
+  {
+    "ticker": "URI",
+    "cik": 1067701,
+    "sic_code": 7359,
+    "sic_desc": "Services-Equipment Rental & Leasing, NEC",
+    "sector": "Services",
+    "name": "UNITED RENTALS, INC."
+  },
+  {
+    "ticker": "WBD",
+    "cik": 1437107,
+    "sic_code": 4841,
+    "sic_desc": "Cable & Other Pay Television Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Warner Bros. Discovery, Inc."
+  },
+  {
+    "ticker": "DLR",
+    "cik": 1297996,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "DIGITAL REALTY TRUST, INC."
+  },
+  {
+    "ticker": "ET",
+    "cik": 1276187,
+    "sic_code": 4922,
+    "sic_desc": "Natural Gas Transmission",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Energy Transfer LP"
+  },
+  {
+    "ticker": "FIX",
+    "cik": 1035983,
+    "sic_code": 1731,
+    "sic_desc": "Electrical Work",
+    "sector": "Construction",
+    "name": "COMFORT SYSTEMS USA INC"
+  },
+  {
+    "ticker": "VALE",
+    "cik": 917851,
+    "sic_code": 1000,
+    "sic_desc": "Metal Mining",
+    "sector": "Mining",
+    "name": "Vale S.A."
+  },
+  {
+    "ticker": "NBIS",
+    "cik": 1513845,
+    "sic_code": 7370,
+    "sic_desc": "Services-Computer Programming, Data Processing, Etc.",
+    "sector": "Services",
+    "name": "Nebius Group N.V."
+  },
+  {
+    "ticker": "REGN",
+    "cik": 872589,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "REGENERON PHARMACEUTICALS, INC."
+  },
+  {
+    "ticker": "BKR",
+    "cik": 1701605,
+    "sic_code": 3533,
+    "sic_desc": "Oil & Gas Field Machinery & Equipment",
+    "sector": "Manufacturing",
+    "name": "Baker Hughes Co"
+  },
+  {
+    "ticker": "NKE",
+    "cik": 320187,
+    "sic_code": 3021,
+    "sic_desc": "Rubber & Plastics Footwear",
+    "sector": "Manufacturing",
+    "name": "NIKE, Inc."
+  },
+  {
+    "ticker": "NWG",
+    "cik": 844150,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "NatWest Group plc"
+  },
+  {
+    "ticker": "TEL",
+    "cik": 1385157,
+    "sic_code": 5065,
+    "sic_desc": "Wholesale-Electronic Parts & Equipment, NEC",
+    "sector": "WholesaleTrade",
+    "name": "TE Connectivity plc"
+  },
+  {
+    "ticker": "MFC",
+    "cik": 1086888,
+    "sic_code": 6311,
+    "sic_desc": "Life Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "MANULIFE FINANCIAL CORP"
+  },
+  {
+    "ticker": "RSG",
+    "cik": 1060391,
+    "sic_code": 4953,
+    "sic_desc": "Refuse Systems",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "REPUBLIC SERVICES, INC."
+  },
+  {
+    "ticker": "TER",
+    "cik": 97210,
+    "sic_code": 3825,
+    "sic_desc": "Instruments For Meas & Testing of  Electricity & Elec Signals",
+    "sector": "Manufacturing",
+    "name": "TERADYNE, INC"
+  },
+  {
+    "ticker": "APD",
+    "cik": 2969,
+    "sic_code": 2810,
+    "sic_desc": "Industrial Inorganic Chemicals",
+    "sector": "Manufacturing",
+    "name": "Air Products & Chemicals, Inc."
+  },
+  {
+    "ticker": "IMO",
+    "cik": 49938,
+    "sic_code": 2911,
+    "sic_desc": "Petroleum Refining",
+    "sector": "Manufacturing",
+    "name": "IMPERIAL OIL LTD"
+  },
+  {
+    "ticker": "TRV",
+    "cik": 86312,
+    "sic_code": 6331,
+    "sic_desc": "Fire, Marine & Casualty Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "TRAVELERS COMPANIES, INC."
+  },
+  {
+    "ticker": "PCAR",
+    "cik": 75362,
+    "sic_code": 3711,
+    "sic_desc": "Motor Vehicles & Passenger Car Bodies",
+    "sector": "Manufacturing",
+    "name": "PACCAR INC"
+  },
+  {
+    "ticker": "RACE",
+    "cik": 1648416,
+    "sic_code": 3711,
+    "sic_desc": "Motor Vehicles & Passenger Car Bodies",
+    "sector": "Manufacturing",
+    "name": "Ferrari N.V."
+  },
+  {
+    "ticker": "DB",
+    "cik": 1159508,
+    "sic_code": 6022,
+    "sic_desc": "State Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "DEUTSCHE BANK AKTIENGESELLSCHAFT"
+  },
+  {
+    "ticker": "ALAB",
+    "cik": 1736297,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "Astera Labs, Inc."
+  },
+  {
+    "ticker": "TFC",
+    "cik": 92230,
+    "sic_code": 6021,
+    "sic_desc": "National Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "TRUIST FINANCIAL CORP"
+  },
+  {
+    "ticker": "F",
+    "cik": 37996,
+    "sic_code": 3711,
+    "sic_desc": "Motor Vehicles & Passenger Car Bodies",
+    "sector": "Manufacturing",
+    "name": "FORD MOTOR CO"
+  },
+  {
+    "ticker": "GWW",
+    "cik": 277135,
+    "sic_code": 5000,
+    "sic_desc": "Wholesale-Durable Goods",
+    "sector": "WholesaleTrade",
+    "name": "W.W. GRAINGER, INC."
+  },
+  {
+    "ticker": "RELX",
+    "cik": 929869,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "RELX PLC"
+  },
+  {
+    "ticker": "NUE",
+    "cik": 73309,
+    "sic_code": 3312,
+    "sic_desc": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+    "sector": "Manufacturing",
+    "name": "NUCOR CORP"
+  },
+  {
+    "ticker": "SRE",
+    "cik": 1032208,
+    "sic_code": 4932,
+    "sic_desc": "Gas & Other Services Combined",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "SEMPRA"
+  },
+  {
+    "ticker": "CRWV",
+    "cik": 1769628,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "CoreWeave, Inc."
+  },
+  {
+    "ticker": "NU",
+    "cik": 1691493,
+    "sic_code": 6199,
+    "sic_desc": "Finance Services",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Nu Holdings Ltd."
+  },
+  {
+    "ticker": "AFL",
+    "cik": 4977,
+    "sic_code": 6321,
+    "sic_desc": "Accident & Health Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "AFLAC INC"
+  },
+  {
+    "ticker": "KEYS",
+    "cik": 1601046,
+    "sic_code": 3823,
+    "sic_desc": "Industrial Instruments For Measurement, Display, and Control",
+    "sector": "Manufacturing",
+    "name": "Keysight Technologies, Inc."
+  },
+  {
+    "ticker": "D",
+    "cik": 715957,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "DOMINION ENERGY, INC"
+  },
+  {
+    "ticker": "FLEX",
+    "cik": 866374,
+    "sic_code": 3672,
+    "sic_desc": "Printed Circuit Boards",
+    "sector": "Manufacturing",
+    "name": "FLEX LTD."
+  },
+  {
+    "ticker": "OXY",
+    "cik": 797468,
+    "sic_code": 1311,
+    "sic_desc": "Crude Petroleum & Natural Gas",
+    "sector": "Mining",
+    "name": "OCCIDENTAL PETROLEUM CORP /DE/"
+  },
+  {
+    "ticker": "WPM",
+    "cik": 1323404,
+    "sic_code": 1040,
+    "sic_desc": "Gold and Silver Ores",
+    "sector": "Mining",
+    "name": "Wheaton Precious Metals Corp."
+  },
+  {
+    "ticker": "LHX",
+    "cik": 202058,
+    "sic_code": 3812,
+    "sic_desc": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+    "sector": "Manufacturing",
+    "name": "L3HARRIS TECHNOLOGIES, INC. /DE/"
+  },
+  {
+    "ticker": "TRGP",
+    "cik": 1389170,
+    "sic_code": 4922,
+    "sic_desc": "Natural Gas Transmission",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Targa Resources Corp."
+  },
+  {
+    "ticker": "MPLX",
+    "cik": 1552000,
+    "sic_code": 4610,
+    "sic_desc": "Pipe Lines (No Natural Gas)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "MPLX LP"
+  },
+  {
+    "ticker": "FANG",
+    "cik": 1539838,
+    "sic_code": 1311,
+    "sic_desc": "Crude Petroleum & Natural Gas",
+    "sector": "Mining",
+    "name": "Diamondback Energy, Inc."
+  },
+  {
+    "ticker": "CARR",
+    "cik": 1783180,
+    "sic_code": 3585,
+    "sic_desc": "Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip",
+    "sector": "Manufacturing",
+    "name": "CARRIER GLOBAL Corp"
+  },
+  {
+    "ticker": "SE",
+    "cik": 1703399,
+    "sic_code": 7380,
+    "sic_desc": "Services-Miscellaneous Business Services",
+    "sector": "Services",
+    "name": "Sea Ltd"
+  },
+  {
+    "ticker": "TGT",
+    "cik": 27419,
+    "sic_code": 5331,
+    "sic_desc": "Retail-Variety Stores",
+    "sector": "RetailTrade",
+    "name": "TARGET CORP"
+  },
+  {
+    "ticker": "OKE",
+    "cik": 1039684,
+    "sic_code": 4923,
+    "sic_desc": "Natural Gas Transmisison & Distribution",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "ONEOK INC /NEW/"
+  },
+  {
+    "ticker": "O",
+    "cik": 726728,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "REALTY INCOME CORP"
+  },
+  {
+    "ticker": "CVE",
+    "cik": 1475260,
+    "sic_code": 1311,
+    "sic_desc": "Crude Petroleum & Natural Gas",
+    "sector": "Mining",
+    "name": "CENOVUS ENERGY INC."
+  },
+  {
+    "ticker": "EONGY",
+    "cik": 1136808,
+    "sic_code": 4900,
+    "sic_desc": "Electric, Gas & Sanitary Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "E.ON SE"
+  },
+  {
+    "ticker": "MT",
+    "cik": 1243429,
+    "sic_code": 3312,
+    "sic_desc": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+    "sector": "Manufacturing",
+    "name": "ArcelorMittal"
+  },
+  {
+    "ticker": "FAST",
+    "cik": 815556,
+    "sic_code": 5200,
+    "sic_desc": "Retail-Building Materials, Hardware, Garden Supply",
+    "sector": "RetailTrade",
+    "name": "FASTENAL CO"
+  },
+  {
+    "ticker": "ALL",
+    "cik": 899051,
+    "sic_code": 6331,
+    "sic_desc": "Fire, Marine & Casualty Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "ALLSTATE CORP"
+  },
+  {
+    "ticker": "PSA",
+    "cik": 1393311,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Public Storage"
+  },
+  {
+    "ticker": "AJG",
+    "cik": 354190,
+    "sic_code": 6411,
+    "sic_desc": "Insurance Agents, Brokers & Service",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Arthur J. Gallagher & Co."
+  },
+  {
+    "ticker": "MET",
+    "cik": 1099219,
+    "sic_code": 6311,
+    "sic_desc": "Life Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "METLIFE INC"
+  },
+  {
+    "ticker": "DVN",
+    "cik": 1090012,
+    "sic_code": 1311,
+    "sic_desc": "Crude Petroleum & Natural Gas",
+    "sector": "Mining",
+    "name": "DEVON ENERGY CORP/DE"
+  },
+  {
+    "ticker": "ARGX",
+    "cik": 1697862,
+    "sic_code": 2836,
+    "sic_desc": "Biological Products, (No Diagnostic Substances)",
+    "sector": "Manufacturing",
+    "name": "ARGENX SE"
+  },
+  {
+    "ticker": "AME",
+    "cik": 1037868,
+    "sic_code": 3823,
+    "sic_desc": "Industrial Instruments For Measurement, Display, and Control",
+    "sector": "Manufacturing",
+    "name": "AMETEK INC/"
+  },
+  {
+    "ticker": "COR",
+    "cik": 1140859,
+    "sic_code": 5122,
+    "sic_desc": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
+    "sector": "WholesaleTrade",
+    "name": "Cencora, Inc."
+  },
+  {
+    "ticker": "MCHP",
+    "cik": 827054,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "MICROCHIP TECHNOLOGY INC"
+  },
+  {
+    "ticker": "UMC",
+    "cik": 1033767,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "UNITED MICROELECTRONICS CORP"
+  },
+  {
+    "ticker": "DAL",
+    "cik": 27904,
+    "sic_code": 4512,
+    "sic_desc": "Air Transportation, Scheduled",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "DELTA AIR LINES, INC."
+  },
+  {
+    "ticker": "CTVA",
+    "cik": 1755672,
+    "sic_code": 100,
+    "sic_desc": "Agricultural Production-Crops",
+    "sector": "AgricultureForestryFishing",
+    "name": "Corteva, Inc."
+  },
+  {
+    "ticker": "VST",
+    "cik": 1692819,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Vistra Corp."
+  },
+  {
+    "ticker": "ROK",
+    "cik": 1024478,
+    "sic_code": 3829,
+    "sic_desc": "Measuring & Controlling Devices, NEC",
+    "sector": "Manufacturing",
+    "name": "ROCKWELL AUTOMATION, INC"
+  },
+  {
+    "ticker": "GWLIF",
+    "cik": 850918,
+    "sic_code": 6311,
+    "sic_desc": "Life Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "GREAT-WEST LIFECO INC."
+  },
+  {
+    "ticker": "ON",
+    "cik": 1097864,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "ON SEMICONDUCTOR CORP"
+  },
+  {
+    "ticker": "ODFL",
+    "cik": 878927,
+    "sic_code": 4213,
+    "sic_desc": "Trucking (No Local)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "OLD DOMINION FREIGHT LINE, INC."
+  },
+  {
+    "ticker": "EA",
+    "cik": 712515,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "ELECTRONIC ARTS INC."
+  },
+  {
+    "ticker": "INFY",
+    "cik": 1067491,
+    "sic_code": 7371,
+    "sic_desc": "Services-Computer Programming Services",
+    "sector": "Services",
+    "name": "Infosys Ltd"
+  },
+  {
+    "ticker": "LNG",
+    "cik": 3570,
+    "sic_code": 4924,
+    "sic_desc": "Natural Gas Distribution",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Cheniere Energy, Inc."
+  },
+  {
+    "ticker": "EW",
+    "cik": 1099800,
+    "sic_code": 3842,
+    "sic_desc": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+    "sector": "Manufacturing",
+    "name": "Edwards Lifesciences Corp"
+  },
+  {
+    "ticker": "AZO",
+    "cik": 866787,
+    "sic_code": 5531,
+    "sic_desc": "Retail-Auto & Home Supply Stores",
+    "sector": "RetailTrade",
+    "name": "AUTOZONE INC"
+  },
+  {
+    "ticker": "ETR",
+    "cik": 65984,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "ENTERGY CORP /DE/"
+  },
+  {
+    "ticker": "NDAQ",
+    "cik": 1120193,
+    "sic_code": 6200,
+    "sic_desc": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "NASDAQ, INC."
+  },
+  {
+    "ticker": "CCJ",
+    "cik": 1009001,
+    "sic_code": 1090,
+    "sic_desc": "Miscellaneous Metal Ores",
+    "sector": "Mining",
+    "name": "CAMECO CORP"
+  },
+  {
+    "ticker": "BMWKY",
+    "cik": 1446250,
+    "sic_code": 8880,
+    "sic_desc": "American Depositary Receipts",
+    "sector": "Services",
+    "name": "Bayerische Motoren Werke AG/ADR"
+  },
+  {
+    "ticker": "ADSK",
+    "cik": 769397,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "Autodesk, Inc."
+  },
+  {
+    "ticker": "TAK",
+    "cik": 1395064,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "TAKEDA PHARMACEUTICAL CO LTD"
+  },
+  {
+    "ticker": "CLS",
+    "cik": 1030894,
+    "sic_code": 3672,
+    "sic_desc": "Printed Circuit Boards",
+    "sector": "Manufacturing",
+    "name": "CELESTICA INC"
+  },
+  {
+    "ticker": "ABEV",
+    "cik": 1565025,
+    "sic_code": 2080,
+    "sic_desc": "Beverages",
+    "sector": "Manufacturing",
+    "name": "AMBEV S.A."
+  },
+  {
+    "ticker": "XEL",
+    "cik": 72903,
+    "sic_code": 4931,
+    "sic_desc": "Electric & Other Services Combined",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "XCEL ENERGY INC"
+  },
+  {
+    "ticker": "EBAY",
+    "cik": 1065088,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "EBAY INC"
+  },
+  {
+    "ticker": "FER",
+    "cik": 1468522,
+    "sic_code": 1600,
+    "sic_desc": "Heavy Construction Other Than Bldg Const - Contractors",
+    "sector": "Construction",
+    "name": "Ferrovial N.V."
+  },
+  {
+    "ticker": "CBRS",
+    "cik": 2021728,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "Cerebras Systems Inc."
+  },
+  {
+    "ticker": "CAH",
+    "cik": 721371,
+    "sic_code": 5122,
+    "sic_desc": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
+    "sector": "WholesaleTrade",
+    "name": "CARDINAL HEALTH INC"
+  },
+  {
+    "ticker": "FITB",
+    "cik": 35527,
+    "sic_code": 6022,
+    "sic_desc": "State Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "FIFTH THIRD BANCORP"
+  },
+  {
+    "ticker": "GRMN",
+    "cik": 1121788,
+    "sic_code": 3812,
+    "sic_desc": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+    "sector": "Manufacturing",
+    "name": "GARMIN LTD"
+  },
+  {
+    "ticker": "HEI",
+    "cik": 46619,
+    "sic_code": 3724,
+    "sic_desc": "Aircraft Engines & Engine Parts",
+    "sector": "Manufacturing",
+    "name": "HEICO CORP"
+  },
+  {
+    "ticker": "GFS",
+    "cik": 1709048,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "GLOBALFOUNDRIES Inc."
+  },
+  {
+    "ticker": "AU",
+    "cik": 1973832,
+    "sic_code": 1040,
+    "sic_desc": "Gold and Silver Ores",
+    "sector": "Mining",
+    "name": "AngloGold Ashanti PLC"
+  },
+  {
+    "ticker": "BIDU",
+    "cik": 1329099,
+    "sic_code": 7370,
+    "sic_desc": "Services-Computer Programming, Data Processing, Etc.",
+    "sector": "Services",
+    "name": "Baidu, Inc."
+  },
+  {
+    "ticker": "EXC",
+    "cik": 1109357,
+    "sic_code": 4931,
+    "sic_desc": "Electric & Other Services Combined",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "EXELON CORP"
+  },
+  {
+    "ticker": "MSTR",
+    "cik": 1050446,
+    "sic_code": 6199,
+    "sic_desc": "Finance Services",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Strategy Inc"
+  },
+  {
+    "ticker": "FNV",
+    "cik": 1456346,
+    "sic_code": 1040,
+    "sic_desc": "Gold and Silver Ores",
+    "sector": "Mining",
+    "name": "FRANCO NEVADA Corp"
+  },
+  {
+    "ticker": "MDLN",
+    "cik": 2046386,
+    "sic_code": 3841,
+    "sic_desc": "Surgical & Medical Instruments & Apparatus",
+    "sector": "Manufacturing",
+    "name": "Medline Inc."
+  },
+  {
+    "ticker": "MSCI",
+    "cik": 1408198,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "MSCI Inc."
+  },
+  {
+    "ticker": "STT",
+    "cik": 93751,
+    "sic_code": 6022,
+    "sic_desc": "State Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "STATE STREET CORP"
+  },
+  {
+    "ticker": "FERG",
+    "cik": 2011641,
+    "sic_code": 5070,
+    "sic_desc": "Wholesale-Hardware & Plumbing & Heating Equipment & Supplies",
+    "sector": "WholesaleTrade",
+    "name": "Ferguson Enterprises Inc. /DE/"
+  },
+  {
+    "ticker": "IDXX",
+    "cik": 874716,
+    "sic_code": 2835,
+    "sic_desc": "In Vitro & In Vivo Diagnostic Substances",
+    "sector": "Manufacturing",
+    "name": "IDEXX LABORATORIES INC /DE"
+  },
+  {
+    "ticker": "WAB",
+    "cik": 943452,
+    "sic_code": 3743,
+    "sic_desc": "Railroad Equipment",
+    "sector": "Manufacturing",
+    "name": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP"
+  },
+  {
+    "ticker": "ERIC",
+    "cik": 717826,
+    "sic_code": 3663,
+    "sic_desc": "Radio & Tv Broadcasting & Communications Equipment",
+    "sector": "Manufacturing",
+    "name": "ERICSSON LM TELEPHONE CO"
+  },
+  {
+    "ticker": "DEO",
+    "cik": 835403,
+    "sic_code": 2080,
+    "sic_desc": "Beverages",
+    "sector": "Manufacturing",
+    "name": "DIAGEO PLC"
+  },
+  {
+    "ticker": "IX",
+    "cik": 1070304,
+    "sic_code": 6159,
+    "sic_desc": "Miscellaneous Business Credit Institution",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "ORIX CORP"
+  },
+  {
+    "ticker": "COIN",
+    "cik": 1679788,
+    "sic_code": 6199,
+    "sic_desc": "Finance Services",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Coinbase Global, Inc."
+  },
+  {
+    "ticker": "ARES",
+    "cik": 1176948,
+    "sic_code": 6282,
+    "sic_desc": "Investment Advice",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Ares Management Corp"
+  },
+  {
+    "ticker": "SCMWY",
+    "cik": 1069336,
+    "sic_code": 4813,
+    "sic_desc": "Telephone Communications (No Radiotelephone)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "SWISSCOM AG"
+  },
+  {
+    "ticker": "XYZ",
+    "cik": 1512673,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "Block, Inc."
+  },
+  {
+    "ticker": "HUM",
+    "cik": 49071,
+    "sic_code": 6324,
+    "sic_desc": "Hospital & Medical Service Plans",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "HUMANA INC"
+  },
+  {
+    "ticker": "ASTS",
+    "cik": 1780312,
+    "sic_code": 4899,
+    "sic_desc": "Communications Services, NEC",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "AST SpaceMobile, Inc."
+  },
+  {
+    "ticker": "FMX",
+    "cik": 1061736,
+    "sic_code": 2086,
+    "sic_desc": "Bottled & Canned Soft Drinks & Carbonated Waters",
+    "sector": "Manufacturing",
+    "name": "MEXICAN ECONOMIC DEVELOPMENT INC"
+  },
+  {
+    "ticker": "DHI",
+    "cik": 882184,
+    "sic_code": 1531,
+    "sic_desc": "Operative Builders",
+    "sector": "Construction",
+    "name": "HORTON D R INC /DE/"
+  },
+  {
+    "ticker": "AXON",
+    "cik": 1069183,
+    "sic_code": 3480,
+    "sic_desc": "Ordnance & Accessories, (No Vehicles/Guided Missiles)",
+    "sector": "Manufacturing",
+    "name": "AXON ENTERPRISE, INC."
+  },
+  {
+    "ticker": "BDX",
+    "cik": 10795,
+    "sic_code": 3841,
+    "sic_desc": "Surgical & Medical Instruments & Apparatus",
+    "sector": "Manufacturing",
+    "name": "BECTON DICKINSON & CO"
+  },
+  {
+    "ticker": "AMP",
+    "cik": 820027,
+    "sic_code": 6282,
+    "sic_desc": "Investment Advice",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "AMERIPRISE FINANCIAL INC"
+  },
+  {
+    "ticker": "CCI",
+    "cik": 1051470,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "CROWN CASTLE INC."
+  },
+  {
+    "ticker": "KDP",
+    "cik": 1418135,
+    "sic_code": 2080,
+    "sic_desc": "Beverages",
+    "sector": "Manufacturing",
+    "name": "Keurig Dr Pepper Inc."
+  },
+  {
+    "ticker": "CCEP",
+    "cik": 1650107,
+    "sic_code": 2086,
+    "sic_desc": "Bottled & Canned Soft Drinks & Carbonated Waters",
+    "sector": "Manufacturing",
+    "name": "COCA-COLA EUROPACIFIC PARTNERS plc"
+  },
+  {
+    "ticker": "YUM",
+    "cik": 1041061,
+    "sic_code": 5812,
+    "sic_desc": "Retail-Eating  Places",
+    "sector": "RetailTrade",
+    "name": "YUM BRANDS INC"
+  },
+  {
+    "ticker": "ALNY",
+    "cik": 1178670,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "ALNYLAM PHARMACEUTICALS, INC."
+  },
+  {
+    "ticker": "SLF",
+    "cik": 1097362,
+    "sic_code": 6311,
+    "sic_desc": "Life Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "SUN LIFE FINANCIAL INC"
+  },
+  {
+    "ticker": "TTWO",
+    "cik": 946581,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "TAKE TWO INTERACTIVE SOFTWARE INC"
+  },
+  {
+    "ticker": "VIK",
+    "cik": 1745201,
+    "sic_code": 4400,
+    "sic_desc": "Water Transportation",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Viking Holdings Ltd"
+  },
+  {
+    "ticker": "ADM",
+    "cik": 7084,
+    "sic_code": 2070,
+    "sic_desc": "Fats & Oils",
+    "sector": "Manufacturing",
+    "name": "Archer-Daniels-Midland Co"
+  },
+  {
+    "ticker": "TEVA",
+    "cik": 818686,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "TEVA PHARMACEUTICAL INDUSTRIES LTD"
+  },
+  {
+    "ticker": "CRDO",
+    "cik": 1807794,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "Credo Technology Group Holding Ltd"
+  },
+  {
+    "ticker": "BSBR",
+    "cik": 1471055,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Banco Santander (Brasil) S.A."
+  },
+  {
+    "ticker": "STLD",
+    "cik": 1022671,
+    "sic_code": 3312,
+    "sic_desc": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+    "sector": "Manufacturing",
+    "name": "STEEL DYNAMICS INC"
+  },
+  {
+    "ticker": "HLN",
+    "cik": 1900304,
+    "sic_code": 2844,
+    "sic_desc": "Perfumes, Cosmetics & Other Toilet Preparations",
+    "sector": "Manufacturing",
+    "name": "Haleon plc"
+  },
+  {
+    "ticker": "JBL",
+    "cik": 898293,
+    "sic_code": 3672,
+    "sic_desc": "Printed Circuit Boards",
+    "sector": "Manufacturing",
+    "name": "JABIL INC"
+  },
+  {
+    "ticker": "JD",
+    "cik": 1549802,
+    "sic_code": 5990,
+    "sic_desc": "Retail-Retail Stores, NEC",
+    "sector": "RetailTrade",
+    "name": "JD.com, Inc."
+  },
+  {
+    "ticker": "ESLT",
+    "cik": 1027664,
+    "sic_code": 3728,
+    "sic_desc": "Aircraft Parts & Auxiliary Equipment, NEC",
+    "sector": "Manufacturing",
+    "name": "ELBIT SYSTEMS LTD"
+  },
+  {
+    "ticker": "WCN",
+    "cik": 1318220,
+    "sic_code": 4953,
+    "sic_desc": "Refuse Systems",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Waste Connections, Inc."
+  },
+  {
+    "ticker": "PEG",
+    "cik": 788784,
+    "sic_code": 4931,
+    "sic_desc": "Electric & Other Services Combined",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "PUBLIC SERVICE ENTERPRISE GROUP INC"
+  },
+  {
+    "ticker": "A",
+    "cik": 1090872,
+    "sic_code": 3826,
+    "sic_desc": "Laboratory Analytical Instruments",
+    "sector": "Manufacturing",
+    "name": "AGILENT TECHNOLOGIES, INC."
+  },
+  {
+    "ticker": "AIG",
+    "cik": 5272,
+    "sic_code": 6331,
+    "sic_desc": "Fire, Marine & Casualty Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "AMERICAN INTERNATIONAL GROUP, INC."
+  },
+  {
+    "ticker": "IRM",
+    "cik": 1020569,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "IRON MOUNTAIN INC"
+  },
+  {
+    "ticker": "TKO",
+    "cik": 1973266,
+    "sic_code": 7900,
+    "sic_desc": "Services-Amusement & Recreation Services",
+    "sector": "Services",
+    "name": "TKO Group Holdings, Inc."
+  },
+  {
+    "ticker": "CCL",
+    "cik": 815097,
+    "sic_code": 4400,
+    "sic_desc": "Water Transportation",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Carnival Corp Ltd."
+  },
+  {
+    "ticker": "VTR",
+    "cik": 740260,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Ventas, Inc."
+  },
+  {
+    "ticker": "ED",
+    "cik": 1047862,
+    "sic_code": 4931,
+    "sic_desc": "Electric & Other Services Combined",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "CONSOLIDATED EDISON INC"
+  },
+  {
+    "ticker": "KR",
+    "cik": 56873,
+    "sic_code": 5411,
+    "sic_desc": "Retail-Grocery Stores",
+    "sector": "RetailTrade",
+    "name": "KROGER CO"
+  },
+  {
+    "ticker": "CBRE",
+    "cik": 1138118,
+    "sic_code": 6500,
+    "sic_desc": "Real Estate",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "CBRE GROUP, INC."
+  },
+  {
+    "ticker": "KB",
+    "cik": 1445930,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "KB Financial Group Inc."
+  },
+  {
+    "ticker": "EME",
+    "cik": 105634,
+    "sic_code": 1731,
+    "sic_desc": "Electrical Work",
+    "sector": "Construction",
+    "name": "EMCOR Group, Inc."
+  },
+  {
+    "ticker": "PYPL",
+    "cik": 1633917,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "PayPal Holdings, Inc."
+  },
+  {
+    "ticker": "LYV",
+    "cik": 1335258,
+    "sic_code": 7900,
+    "sic_desc": "Services-Amusement & Recreation Services",
+    "sector": "Services",
+    "name": "Live Nation Entertainment, Inc."
+  },
+  {
+    "ticker": "RKT",
+    "cik": 1805284,
+    "sic_code": 6162,
+    "sic_desc": "Mortgage Bankers & Loan Correspondents",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Rocket Companies, Inc."
+  },
+  {
+    "ticker": "TRI",
+    "cik": 1075124,
+    "sic_code": 2741,
+    "sic_desc": "Miscellaneous Publishing",
+    "sector": "Manufacturing",
+    "name": "THOMSON REUTERS CORP /CAN/"
+  },
+  {
+    "ticker": "HSY",
+    "cik": 47111,
+    "sic_code": 2060,
+    "sic_desc": "Sugar & Confectionery Products",
+    "sector": "Manufacturing",
+    "name": "HERSHEY CO"
+  },
+  {
+    "ticker": "PCG",
+    "cik": 1004980,
+    "sic_code": 4931,
+    "sic_desc": "Electric & Other Services Combined",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "PG&E Corp"
+  },
+  {
+    "ticker": "WAT",
+    "cik": 1000697,
+    "sic_code": 3826,
+    "sic_desc": "Laboratory Analytical Instruments",
+    "sector": "Manufacturing",
+    "name": "WATERS CORP /DE/"
+  },
+  {
+    "ticker": "VMC",
+    "cik": 1396009,
+    "sic_code": 1400,
+    "sic_desc": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+    "sector": "Mining",
+    "name": "Vulcan Materials CO"
+  },
+  {
+    "ticker": "WDAY",
+    "cik": 1327811,
+    "sic_code": 7374,
+    "sic_desc": "Services-Computer Processing & Data Preparation",
+    "sector": "Services",
+    "name": "Workday, Inc."
+  },
+  {
+    "ticker": "HMC",
+    "cik": 715153,
+    "sic_code": 3711,
+    "sic_desc": "Motor Vehicles & Passenger Car Bodies",
+    "sector": "Manufacturing",
+    "name": "HONDA MOTOR CO LTD"
+  },
+  {
+    "ticker": "WEC",
+    "cik": 783325,
+    "sic_code": 4931,
+    "sic_desc": "Electric & Other Services Combined",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "WEC ENERGY GROUP, INC."
+  },
+  {
+    "ticker": "CMG",
+    "cik": 1058090,
+    "sic_code": 5812,
+    "sic_desc": "Retail-Eating  Places",
+    "sector": "RetailTrade",
+    "name": "CHIPOTLE MEXICAN GRILL INC"
+  },
+  {
+    "ticker": "SATS",
+    "cik": 1415404,
+    "sic_code": 4899,
+    "sic_desc": "Communications Services, NEC",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "EchoStar CORP"
+  },
+  {
+    "ticker": "TWLO",
+    "cik": 1447669,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "TWILIO INC"
+  },
+  {
+    "ticker": "PRU",
+    "cik": 1137774,
+    "sic_code": 6311,
+    "sic_desc": "Life Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "PRUDENTIAL FINANCIAL INC"
+  },
+  {
+    "ticker": "BBD",
+    "cik": 1160330,
+    "sic_code": 6022,
+    "sic_desc": "State Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "BANK BRADESCO"
+  },
+  {
+    "ticker": "PAYX",
+    "cik": 723531,
+    "sic_code": 8700,
+    "sic_desc": "Services-Engineering, Accounting, Research, Management",
+    "sector": "Services",
+    "name": "PAYCHEX INC"
+  },
+  {
+    "ticker": "SYY",
+    "cik": 96021,
+    "sic_code": 5140,
+    "sic_desc": "Wholesale-Groceries & Related Products",
+    "sector": "WholesaleTrade",
+    "name": "SYSCO CORP"
+  },
+  {
+    "ticker": "NTAP",
+    "cik": 1002047,
+    "sic_code": 3572,
+    "sic_desc": "Computer Storage Devices",
+    "sector": "Manufacturing",
+    "name": "NetApp, Inc."
+  },
+  {
+    "ticker": "RDDT",
+    "cik": 1713445,
+    "sic_code": 7374,
+    "sic_desc": "Services-Computer Processing & Data Preparation",
+    "sector": "Services",
+    "name": "Reddit, Inc."
+  },
+  {
+    "ticker": "UI",
+    "cik": 1511737,
+    "sic_code": 3663,
+    "sic_desc": "Radio & Tv Broadcasting & Communications Equipment",
+    "sector": "Manufacturing",
+    "name": "Ubiquiti Inc."
+  },
+  {
+    "ticker": "CHT",
+    "cik": 1132924,
+    "sic_code": 4812,
+    "sic_desc": "Radiotelephone Communications",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "CHUNGHWA TELECOM CO LTD"
+  },
+  {
+    "ticker": "GFI",
+    "cik": 1172724,
+    "sic_code": 1040,
+    "sic_desc": "Gold and Silver Ores",
+    "sector": "Mining",
+    "name": "GOLD FIELDS LTD"
+  },
+  {
+    "ticker": "HIG",
+    "cik": 874766,
+    "sic_code": 6331,
+    "sic_desc": "Fire, Marine & Casualty Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "HARTFORD INSURANCE GROUP, INC."
+  },
+  {
+    "ticker": "MLM",
+    "cik": 916076,
+    "sic_code": 1400,
+    "sic_desc": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+    "sector": "Mining",
+    "name": "MARTIN MARIETTA MATERIALS INC"
+  },
+  {
+    "ticker": "VOD",
+    "cik": 839923,
+    "sic_code": 4812,
+    "sic_desc": "Radiotelephone Communications",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "VODAFONE GROUP PUBLIC LTD CO"
+  },
+  {
+    "ticker": "EQT",
+    "cik": 33213,
+    "sic_code": 1311,
+    "sic_desc": "Crude Petroleum & Natural Gas",
+    "sector": "Mining",
+    "name": "EQT Corp"
+  },
+  {
+    "ticker": "HAL",
+    "cik": 45012,
+    "sic_code": 1389,
+    "sic_desc": "Oil & Gas Field Services, NEC",
+    "sector": "Mining",
+    "name": "HALLIBURTON CO"
+  },
+  {
+    "ticker": "KGC",
+    "cik": 701818,
+    "sic_code": 1040,
+    "sic_desc": "Gold and Silver Ores",
+    "sector": "Mining",
+    "name": "KINROSS GOLD CORP"
+  },
+  {
+    "ticker": "UAL",
+    "cik": 100517,
+    "sic_code": 4512,
+    "sic_desc": "Air Transportation, Scheduled",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "United Airlines Holdings, Inc."
+  },
+  {
+    "ticker": "FSLR",
+    "cik": 1274494,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "FIRST SOLAR, INC."
+  },
+  {
+    "ticker": "LVS",
+    "cik": 1300514,
+    "sic_code": 7011,
+    "sic_desc": "Hotels & Motels",
+    "sector": "Services",
+    "name": "LAS VEGAS SANDS CORP"
+  },
+  {
+    "ticker": "SUNB",
+    "cik": 2083785,
+    "sic_code": 7359,
+    "sic_desc": "Services-Equipment Rental & Leasing, NEC",
+    "sector": "Services",
+    "name": "Sunbelt Rentals Holdings, Inc."
+  },
+  {
+    "ticker": "HBAN",
+    "cik": 49196,
+    "sic_code": 6021,
+    "sic_desc": "National Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "HUNTINGTON BANCSHARES INC /MD/"
+  },
+  {
+    "ticker": "ROP",
+    "cik": 882835,
+    "sic_code": 3823,
+    "sic_desc": "Industrial Instruments For Measurement, Display, and Control",
+    "sector": "Manufacturing",
+    "name": "ROPER TECHNOLOGIES INC"
+  },
+  {
+    "ticker": "ZTS",
+    "cik": 1555280,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "Zoetis Inc."
+  },
+  {
+    "ticker": "NTR",
+    "cik": 1725964,
+    "sic_code": 2870,
+    "sic_desc": "Agricultural Chemicals",
+    "sector": "Manufacturing",
+    "name": "Nutrien Ltd."
+  },
+  {
+    "ticker": "RVMD",
+    "cik": 1628171,
+    "sic_code": 2836,
+    "sic_desc": "Biological Products, (No Diagnostic Substances)",
+    "sector": "Manufacturing",
+    "name": "Revolution Medicines, Inc."
+  },
+  {
+    "ticker": "TECK",
+    "cik": 886986,
+    "sic_code": 1400,
+    "sic_desc": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+    "sector": "Mining",
+    "name": "TECK RESOURCES LTD"
+  },
+  {
+    "ticker": "QSR",
+    "cik": 1618756,
+    "sic_code": 5812,
+    "sic_desc": "Retail-Eating  Places",
+    "sector": "RetailTrade",
+    "name": "Restaurant Brands International Inc."
+  },
+  {
+    "ticker": "PUK",
+    "cik": 1116578,
+    "sic_code": 6311,
+    "sic_desc": "Life Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "PRUDENTIAL PLC"
+  },
+  {
+    "ticker": "VG",
+    "cik": 2007855,
+    "sic_code": 4924,
+    "sic_desc": "Natural Gas Distribution",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Venture Global, Inc."
+  },
+  {
+    "ticker": "FRFHF",
+    "cik": 915191,
+    "sic_code": 6331,
+    "sic_desc": "Fire, Marine & Casualty Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "FAIRFAX FINANCIAL HOLDINGS LTD/ CAN"
+  },
+  {
+    "ticker": "MTB",
+    "cik": 36270,
+    "sic_code": 6022,
+    "sic_desc": "State Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "M&T BANK CORP"
+  },
+  {
+    "ticker": "ALC",
+    "cik": 1167379,
+    "sic_code": 3851,
+    "sic_desc": "Ophthalmic Goods",
+    "sector": "Manufacturing",
+    "name": "ALCON INC"
+  },
+  {
+    "ticker": "KVUE",
+    "cik": 1944048,
+    "sic_code": 2844,
+    "sic_desc": "Perfumes, Cosmetics & Other Toilet Preparations",
+    "sector": "Manufacturing",
+    "name": "Kenvue Inc."
+  },
+  {
+    "ticker": "Q",
+    "cik": 2058873,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "Qnity Electronics, Inc."
+  },
+  {
+    "ticker": "TS",
+    "cik": 1190723,
+    "sic_code": 3312,
+    "sic_desc": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+    "sector": "Manufacturing",
+    "name": "TENARIS SA"
+  },
+  {
+    "ticker": "EXR",
+    "cik": 1289490,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Extra Space Storage Inc."
+  },
+  {
+    "ticker": "EC",
+    "cik": 1444406,
+    "sic_code": 1311,
+    "sic_desc": "Crude Petroleum & Natural Gas",
+    "sector": "Mining",
+    "name": "ECOPETROL S.A."
+  },
+  {
+    "ticker": "NTRS",
+    "cik": 73124,
+    "sic_code": 6022,
+    "sic_desc": "State Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "NORTHERN TRUST CORP"
+  },
+  {
+    "ticker": "NTRA",
+    "cik": 1604821,
+    "sic_code": 8071,
+    "sic_desc": "Services-Medical Laboratories",
+    "sector": "Services",
+    "name": "Natera, Inc."
+  },
+  {
+    "ticker": "RPRX",
+    "cik": 1802768,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "Royalty Pharma plc"
+  },
+  {
+    "ticker": "KMB",
+    "cik": 55785,
+    "sic_code": 2670,
+    "sic_desc": "Converted Paper & Paperboard Prods (No Contaners/Boxes)",
+    "sector": "Manufacturing",
+    "name": "KIMBERLY CLARK CORP"
+  },
+  {
+    "ticker": "IQV",
+    "cik": 1478242,
+    "sic_code": 8731,
+    "sic_desc": "Services-Commercial Physical & Biological Research",
+    "sector": "Services",
+    "name": "IQVIA HOLDINGS INC."
+  },
+  {
+    "ticker": "CQP",
+    "cik": 1383650,
+    "sic_code": 4924,
+    "sic_desc": "Natural Gas Distribution",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Cheniere Energy Partners, L.P."
+  },
+  {
+    "ticker": "SHG",
+    "cik": 1263043,
+    "sic_code": 6021,
+    "sic_desc": "National Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "SHINHAN FINANCIAL GROUP CO LTD"
+  },
+  {
+    "ticker": "TSEM",
+    "cik": 928876,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "TOWER SEMICONDUCTOR LTD"
+  },
+  {
+    "ticker": "RBLX",
+    "cik": 1315098,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "Roblox Corp"
+  },
+  {
+    "ticker": "ACGL",
+    "cik": 947484,
+    "sic_code": 6331,
+    "sic_desc": "Fire, Marine & Casualty Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "ARCH CAPITAL GROUP LTD."
+  },
+  {
+    "ticker": "CNC",
+    "cik": 1071739,
+    "sic_code": 6324,
+    "sic_desc": "Hospital & Medical Service Plans",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "CENTENE CORP"
+  },
+  {
+    "ticker": "ZM",
+    "cik": 1585521,
+    "sic_code": 7370,
+    "sic_desc": "Services-Computer Programming, Data Processing, Etc.",
+    "sector": "Services",
+    "name": "Zoom Communications, Inc."
+  },
+  {
+    "ticker": "MDB",
+    "cik": 1441816,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "MongoDB, Inc."
+  },
+  {
+    "ticker": "STRL",
+    "cik": 874238,
+    "sic_code": 1600,
+    "sic_desc": "Heavy Construction Other Than Bldg Const - Contractors",
+    "sector": "Construction",
+    "name": "STERLING INFRASTRUCTURE, INC."
+  },
+  {
+    "ticker": "TCOM",
+    "cik": 1269238,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "Trip.com Group Ltd"
+  },
+  {
+    "ticker": "AMRZ",
+    "cik": 2035989,
+    "sic_code": 3241,
+    "sic_desc": "Cement, Hydraulic",
+    "sector": "Manufacturing",
+    "name": "Amrize Ltd"
+  },
+  {
+    "ticker": "FISV",
+    "cik": 798354,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "FISERV INC"
+  },
+  {
+    "ticker": "EL",
+    "cik": 1001250,
+    "sic_code": 2844,
+    "sic_desc": "Perfumes, Cosmetics & Other Toilet Preparations",
+    "sector": "Manufacturing",
+    "name": "ESTEE LAUDER COMPANIES INC"
+  },
+  {
+    "ticker": "CBOE",
+    "cik": 1374310,
+    "sic_code": 6200,
+    "sic_desc": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Cboe Global Markets, Inc."
+  },
+  {
+    "ticker": "DTE",
+    "cik": 936340,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "DTE ENERGY CO"
+  },
+  {
+    "ticker": "CPNG",
+    "cik": 1834584,
+    "sic_code": 5961,
+    "sic_desc": "Retail-Catalog & Mail-Order Houses",
+    "sector": "RetailTrade",
+    "name": "Coupang, Inc."
+  },
+  {
+    "ticker": "RYAAY",
+    "cik": 1038683,
+    "sic_code": 4512,
+    "sic_desc": "Air Transportation, Scheduled",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "RYANAIR HOLDINGS PLC"
+  },
+  {
+    "ticker": "MTZ",
+    "cik": 15615,
+    "sic_code": 1623,
+    "sic_desc": "Water, Sewer, Pipeline, Comm & Power Line Construction",
+    "sector": "Construction",
+    "name": "MASTEC INC"
+  },
+  {
+    "ticker": "AEE",
+    "cik": 1002910,
+    "sic_code": 4931,
+    "sic_desc": "Electric & Other Services Combined",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "AMEREN CORP"
+  },
+  {
+    "ticker": "RJF",
+    "cik": 720005,
+    "sic_code": 6211,
+    "sic_desc": "Security Brokers, Dealers & Flotation Companies",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "RAYMOND JAMES FINANCIAL INC"
+  },
+  {
+    "ticker": "VICI",
+    "cik": 1705696,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "VICI PROPERTIES INC."
+  },
+  {
+    "ticker": "MTSI",
+    "cik": 1493594,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "MACOM Technology Solutions Holdings, Inc."
+  },
+  {
+    "ticker": "VEEV",
+    "cik": 1393052,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "VEEVA SYSTEMS INC"
+  },
+  {
+    "ticker": "BIIB",
+    "cik": 875045,
+    "sic_code": 2836,
+    "sic_desc": "Biological Products, (No Diagnostic Substances)",
+    "sector": "Manufacturing",
+    "name": "BIOGEN INC."
+  },
+  {
+    "ticker": "ONC",
+    "cik": 1651308,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "BeOne Medicines Ltd."
+  },
+  {
+    "ticker": "GEHC",
+    "cik": 1932393,
+    "sic_code": 3844,
+    "sic_desc": "X-Ray Apparatus & Tubes & Related Irradiation Apparatus",
+    "sector": "Manufacturing",
+    "name": "GE HealthCare Technologies Inc."
+  },
+  {
+    "ticker": "KBGGY",
+    "cik": 1535759,
+    "sic_code": 8880,
+    "sic_desc": "American Depositary Receipts",
+    "sector": "Services",
+    "name": "Kongsberg Gruppen ASA/ADR"
+  },
+  {
+    "ticker": "DOV",
+    "cik": 29905,
+    "sic_code": 3530,
+    "sic_desc": "Construction, Mining & Materials Handling Machinery & Equip",
+    "sector": "Manufacturing",
+    "name": "DOVER Corp"
+  },
+  {
+    "ticker": "TDY",
+    "cik": 1094285,
+    "sic_code": 3812,
+    "sic_desc": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+    "sector": "Manufacturing",
+    "name": "TELEDYNE TECHNOLOGIES INC"
+  },
+  {
+    "ticker": "PBA",
+    "cik": 1546066,
+    "sic_code": 1382,
+    "sic_desc": "Oil & Gas Field Exploration Services",
+    "sector": "Mining",
+    "name": "PEMBINA PIPELINE CORP"
+  },
+  {
+    "ticker": "SYM",
+    "cik": 1837240,
+    "sic_code": 3569,
+    "sic_desc": "General Industrial Machinery & Equipment, NEC",
+    "sector": "Manufacturing",
+    "name": "Symbotic Inc."
+  },
+  {
+    "ticker": "CPRT",
+    "cik": 900075,
+    "sic_code": 5500,
+    "sic_desc": "Retail-Auto Dealers & Gasoline Stations",
+    "sector": "RetailTrade",
+    "name": "COPART INC"
+  },
+  {
+    "ticker": "TPR",
+    "cik": 1116132,
+    "sic_code": 3100,
+    "sic_desc": "Leather & Leather Products",
+    "sector": "Manufacturing",
+    "name": "TAPESTRY, INC."
+  },
+  {
+    "ticker": "SMCI",
+    "cik": 1375365,
+    "sic_code": 3571,
+    "sic_desc": "Electronic Computers",
+    "sector": "Manufacturing",
+    "name": "Super Micro Computer, Inc."
+  },
+  {
+    "ticker": "RMD",
+    "cik": 943819,
+    "sic_code": 3841,
+    "sic_desc": "Surgical & Medical Instruments & Apparatus",
+    "sector": "Manufacturing",
+    "name": "RESMED INC"
+  },
+  {
+    "ticker": "IR",
+    "cik": 1699150,
+    "sic_code": 3560,
+    "sic_desc": "General Industrial Machinery & Equipment",
+    "sector": "Manufacturing",
+    "name": "Ingersoll Rand Inc."
+  },
+  {
+    "ticker": "CASY",
+    "cik": 726958,
+    "sic_code": 5500,
+    "sic_desc": "Retail-Auto Dealers & Gasoline Stations",
+    "sector": "RetailTrade",
+    "name": "CASEYS GENERAL STORES INC"
+  },
+  {
+    "ticker": "NRG",
+    "cik": 1013871,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "NRG ENERGY, INC."
+  },
+  {
+    "ticker": "NVT",
+    "cik": 1720635,
+    "sic_code": 3550,
+    "sic_desc": "Special Industry Machinery (No Metalworking Machinery)",
+    "sector": "Manufacturing",
+    "name": "nVent Electric plc"
+  },
+  {
+    "ticker": "FTS",
+    "cik": 1666175,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Fortis Inc."
+  },
+  {
+    "ticker": "ATO",
+    "cik": 731802,
+    "sic_code": 4924,
+    "sic_desc": "Natural Gas Distribution",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "ATMOS ENERGY CORP"
+  },
+  {
+    "ticker": "TPL",
+    "cik": 1811074,
+    "sic_code": 6792,
+    "sic_desc": "Oil Royalty Traders",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Texas Pacific Land Corp"
+  },
+  {
+    "ticker": "DXCM",
+    "cik": 1093557,
+    "sic_code": 3841,
+    "sic_desc": "Surgical & Medical Instruments & Apparatus",
+    "sector": "Manufacturing",
+    "name": "DEXCOM INC"
+  },
+  {
+    "ticker": "EIX",
+    "cik": 827052,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "EDISON INTERNATIONAL"
+  },
+  {
+    "ticker": "FOXA",
+    "cik": 1754301,
+    "sic_code": 4833,
+    "sic_desc": "Television Broadcasting Stations",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Fox Corp"
+  },
+  {
+    "ticker": "FTI",
+    "cik": 1681459,
+    "sic_code": 3533,
+    "sic_desc": "Oil & Gas Field Machinery & Equipment",
+    "sector": "Manufacturing",
+    "name": "TechnipFMC plc"
+  },
+  {
+    "ticker": "CW",
+    "cik": 26324,
+    "sic_code": 3590,
+    "sic_desc": "Misc Industrial & Commercial Machinery & Equipment",
+    "sector": "Manufacturing",
+    "name": "CURTISS WRIGHT CORP"
+  },
+  {
+    "ticker": "CNP",
+    "cik": 1130310,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "CENTERPOINT ENERGY INC"
+  },
+  {
+    "ticker": "EXPE",
+    "cik": 1324424,
+    "sic_code": 4700,
+    "sic_desc": "Transportation Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Expedia Group, Inc."
+  },
+  {
+    "ticker": "FICO",
+    "cik": 814547,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "FAIR ISAAC CORP"
+  },
+  {
+    "ticker": "CFG",
+    "cik": 759944,
+    "sic_code": 6022,
+    "sic_desc": "State Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "CITIZENS FINANCIAL GROUP INC/RI"
+  },
+  {
+    "ticker": "OTIS",
+    "cik": 1781335,
+    "sic_code": 3600,
+    "sic_desc": "Electronic & Other Electrical Equipment (No Computer Equip)",
+    "sector": "Manufacturing",
+    "name": "Otis Worldwide Corp"
+  },
+  {
+    "ticker": "VRSN",
+    "cik": 1014473,
+    "sic_code": 7371,
+    "sic_desc": "Services-Computer Programming Services",
+    "sector": "Services",
+    "name": "VERISIGN INC/CA"
+  },
+  {
+    "ticker": "AVB",
+    "cik": 915912,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "AVALONBAY COMMUNITIES INC"
+  },
+  {
+    "ticker": "JBHT",
+    "cik": 728535,
+    "sic_code": 4213,
+    "sic_desc": "Trucking (No Local)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "HUNT J B TRANSPORT SERVICES INC"
+  },
+  {
+    "ticker": "KHC",
+    "cik": 1637459,
+    "sic_code": 2030,
+    "sic_desc": "Canned, Frozen & Preservd Fruit, Veg & Food Specialties",
+    "sector": "Manufacturing",
+    "name": "Kraft Heinz Co"
+  },
+  {
+    "ticker": "PPL",
+    "cik": 922224,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "PPL Corp"
+  },
+  {
+    "ticker": "FE",
+    "cik": 1031296,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "FIRSTENERGY CORP"
+  },
+  {
+    "ticker": "ES",
+    "cik": 72741,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "EVERSOURCE ENERGY"
+  },
+  {
+    "ticker": "EQR",
+    "cik": 906107,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "EQUITY RESIDENTIAL"
+  },
+  {
+    "ticker": "XYL",
+    "cik": 1524472,
+    "sic_code": 3561,
+    "sic_desc": "Pumps & Pumping Equipment",
+    "sector": "Manufacturing",
+    "name": "Xylem Inc."
+  },
+  {
+    "ticker": "P",
+    "cik": 1474432,
+    "sic_code": 3572,
+    "sic_desc": "Computer Storage Devices",
+    "sector": "Manufacturing",
+    "name": "Everpure, Inc."
+  },
+  {
+    "ticker": "BAP",
+    "cik": 1001290,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "CREDICORP LTD"
+  },
+  {
+    "ticker": "TEAM",
+    "cik": 1650372,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "Atlassian Corp"
+  },
+  {
+    "ticker": "XPO",
+    "cik": 1166003,
+    "sic_code": 4700,
+    "sic_desc": "Transportation Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "XPO, Inc."
+  },
+  {
+    "ticker": "FTAI",
+    "cik": 1590364,
+    "sic_code": 7350,
+    "sic_desc": "Services-Miscellaneous Equipment Rental & Leasing",
+    "sector": "Services",
+    "name": "FTAI Aviation Ltd."
+  },
+  {
+    "ticker": "HUBB",
+    "cik": 48898,
+    "sic_code": 3670,
+    "sic_desc": "Electronic Components & Accessories",
+    "sector": "Manufacturing",
+    "name": "HUBBELL INC"
+  },
+  {
+    "ticker": "FN",
+    "cik": 1408710,
+    "sic_code": 3661,
+    "sic_desc": "Telephone & Telegraph Apparatus",
+    "sector": "Manufacturing",
+    "name": "Fabrinet"
+  },
+  {
+    "ticker": "ILMN",
+    "cik": 1110803,
+    "sic_code": 3826,
+    "sic_desc": "Laboratory Analytical Instruments",
+    "sector": "Manufacturing",
+    "name": "ILLUMINA, INC."
+  },
+  {
+    "ticker": "PHG",
+    "cik": 313216,
+    "sic_code": 3844,
+    "sic_desc": "X-Ray Apparatus & Tubes & Related Irradiation Apparatus",
+    "sector": "Manufacturing",
+    "name": "KONINKLIJKE PHILIPS NV"
+  },
+  {
+    "ticker": "CTSH",
+    "cik": 1058290,
+    "sic_code": 7371,
+    "sic_desc": "Services-Computer Programming Services",
+    "sector": "Services",
+    "name": "COGNIZANT TECHNOLOGY SOLUTIONS CORP"
+  },
+  {
+    "ticker": "NMR",
+    "cik": 1163653,
+    "sic_code": 6211,
+    "sic_desc": "Security Brokers, Dealers & Flotation Companies",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "NOMURA HOLDINGS INC"
+  },
+  {
+    "ticker": "DOW",
+    "cik": 1751788,
+    "sic_code": 2821,
+    "sic_desc": "Plastic Materials, Synth Resins & Nonvulcan Elastomers",
+    "sector": "Manufacturing",
+    "name": "DOW INC."
+  },
+  {
+    "ticker": "BG",
+    "cik": 1996862,
+    "sic_code": 2070,
+    "sic_desc": "Fats & Oils",
+    "sector": "Manufacturing",
+    "name": "Bunge Global SA"
+  },
+  {
+    "ticker": "INIO",
+    "cik": 2109150,
+    "sic_code": 3621,
+    "sic_desc": "Motors & Generators",
+    "sector": "Manufacturing",
+    "name": "INNIO N.V."
+  },
+  {
+    "ticker": "PPG",
+    "cik": 79879,
+    "sic_code": 2851,
+    "sic_desc": "Paints, Varnishes, Lacquers, Enamels & Allied Prods",
+    "sector": "Manufacturing",
+    "name": "PPG INDUSTRIES INC"
+  },
+  {
+    "ticker": "CINF",
+    "cik": 20286,
+    "sic_code": 6331,
+    "sic_desc": "Fire, Marine & Casualty Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "CINCINNATI FINANCIAL CORP"
+  },
+  {
+    "ticker": "ATI",
+    "cik": 1018963,
+    "sic_code": 3317,
+    "sic_desc": "Steel Pipe & Tubes",
+    "sector": "Manufacturing",
+    "name": "ATI INC"
+  },
+  {
+    "ticker": "WRB",
+    "cik": 11544,
+    "sic_code": 6331,
+    "sic_desc": "Fire, Marine & Casualty Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "BERKLEY W R CORP"
+  },
+  {
+    "ticker": "WSM",
+    "cik": 719955,
+    "sic_code": 5700,
+    "sic_desc": "Retail-Home Furniture, Furnishings & Equipment Stores",
+    "sector": "RetailTrade",
+    "name": "WILLIAMS SONOMA INC"
+  },
+  {
+    "ticker": "IONQ",
+    "cik": 1824920,
+    "sic_code": 7373,
+    "sic_desc": "Services-Computer Integrated Systems Design",
+    "sector": "Services",
+    "name": "IonQ, Inc."
+  },
+  {
+    "ticker": "CRS",
+    "cik": 17843,
+    "sic_code": 3312,
+    "sic_desc": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+    "sector": "Manufacturing",
+    "name": "CARPENTER TECHNOLOGY CORP"
+  },
+  {
+    "ticker": "WTW",
+    "cik": 1140536,
+    "sic_code": 6411,
+    "sic_desc": "Insurance Agents, Brokers & Service",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "WILLIS TOWERS WATSON PLC"
+  },
+  {
+    "ticker": "RIVN",
+    "cik": 1874178,
+    "sic_code": 3711,
+    "sic_desc": "Motor Vehicles & Passenger Car Bodies",
+    "sector": "Manufacturing",
+    "name": "Rivian Automotive, Inc. / DE"
+  },
+  {
+    "ticker": "CRCL",
+    "cik": 1876042,
+    "sic_code": 6199,
+    "sic_desc": "Finance Services",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Circle Internet Group, Inc."
+  },
+  {
+    "ticker": "RF",
+    "cik": 1281761,
+    "sic_code": 6021,
+    "sic_desc": "National Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "REGIONS FINANCIAL CORP"
+  },
+  {
+    "ticker": "FSNUY",
+    "cik": 904868,
+    "sic_code": 3841,
+    "sic_desc": "Surgical & Medical Instruments & Apparatus",
+    "sector": "Manufacturing",
+    "name": "Fresenius SE & Co. KGaA"
+  },
+  {
+    "ticker": "HPQ",
+    "cik": 47217,
+    "sic_code": 3570,
+    "sic_desc": "Computer & office Equipment",
+    "sector": "Manufacturing",
+    "name": "HP INC"
+  },
+  {
+    "ticker": "AWK",
+    "cik": 1410636,
+    "sic_code": 4941,
+    "sic_desc": "Water Supply",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "American Water Works Company, Inc."
+  },
+  {
+    "ticker": "MTD",
+    "cik": 1037646,
+    "sic_code": 3826,
+    "sic_desc": "Laboratory Analytical Instruments",
+    "sector": "Manufacturing",
+    "name": "METTLER TOLEDO INTERNATIONAL INC/"
+  },
+  {
+    "ticker": "IHG",
+    "cik": 858446,
+    "sic_code": 7011,
+    "sic_desc": "Hotels & Motels",
+    "sector": "Services",
+    "name": "INTERCONTINENTAL HOTELS GROUP PLC /NEW/"
+  },
+  {
+    "ticker": "SYF",
+    "cik": 1601712,
+    "sic_code": 6199,
+    "sic_desc": "Finance Services",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Synchrony Financial"
+  },
+  {
+    "ticker": "STZ",
+    "cik": 16918,
+    "sic_code": 2080,
+    "sic_desc": "Beverages",
+    "sector": "Manufacturing",
+    "name": "CONSTELLATION BRANDS, INC."
+  },
+  {
+    "ticker": "FCNCA",
+    "cik": 798941,
+    "sic_code": 6022,
+    "sic_desc": "State Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "FIRST CITIZENS BANCSHARES INC /DE/"
+  },
+  {
+    "ticker": "VRSK",
+    "cik": 1442145,
+    "sic_code": 7374,
+    "sic_desc": "Services-Computer Processing & Data Preparation",
+    "sector": "Services",
+    "name": "Verisk Analytics, Inc."
+  },
+  {
+    "ticker": "FDXF",
+    "cik": 2082247,
+    "sic_code": 4513,
+    "sic_desc": "Air Courier Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "FedEx Freight Holding Company, Inc."
+  },
+  {
+    "ticker": "BEP",
+    "cik": 1533232,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Brookfield Renewable Partners L.P."
+  },
+  {
+    "ticker": "KEY",
+    "cik": 91576,
+    "sic_code": 6021,
+    "sic_desc": "National Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "KEYCORP /NEW/"
+  },
+  {
+    "ticker": "CPAY",
+    "cik": 1175454,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "CORPAY, INC."
+  },
+  {
+    "ticker": "LPLA",
+    "cik": 1397911,
+    "sic_code": 6200,
+    "sic_desc": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "LPL Financial Holdings Inc."
+  },
+  {
+    "ticker": "AKAM",
+    "cik": 1086222,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "AKAMAI TECHNOLOGIES INC"
+  },
+  {
+    "ticker": "YPF",
+    "cik": 904851,
+    "sic_code": 2911,
+    "sic_desc": "Petroleum Refining",
+    "sector": "Manufacturing",
+    "name": "YPF SOCIEDAD ANONIMA"
+  },
+  {
+    "ticker": "UTHR",
+    "cik": 1082554,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "UNITED THERAPEUTICS Corp"
+  },
+  {
+    "ticker": "FFIV",
+    "cik": 1048695,
+    "sic_code": 3576,
+    "sic_desc": "Computer Communications Equipment",
+    "sector": "Manufacturing",
+    "name": "F5, INC."
+  },
+  {
+    "ticker": "AFRM",
+    "cik": 1820953,
+    "sic_code": 6141,
+    "sic_desc": "Personal Credit Institutions",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Affirm Holdings, Inc."
+  },
+  {
+    "ticker": "TROW",
+    "cik": 1113169,
+    "sic_code": 6282,
+    "sic_desc": "Investment Advice",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "PRICE T ROWE GROUP INC"
+  },
+  {
+    "ticker": "NXT",
+    "cik": 1852131,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "Nextpower Inc."
+  },
+  {
+    "ticker": "DG",
+    "cik": 29534,
+    "sic_code": 5331,
+    "sic_desc": "Retail-Variety Stores",
+    "sector": "RetailTrade",
+    "name": "DOLLAR GENERAL CORP"
+  },
+  {
+    "ticker": "INSM",
+    "cik": 1104506,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "INSMED Inc"
+  },
+  {
+    "ticker": "LEN",
+    "cik": 920760,
+    "sic_code": 1520,
+    "sic_desc": "General Bldg Contractors - Residential Bldgs",
+    "sector": "Construction",
+    "name": "LENNAR CORP /NEW/"
+  },
+  {
+    "ticker": "BNTX",
+    "cik": 1776985,
+    "sic_code": 2836,
+    "sic_desc": "Biological Products, (No Diagnostic Substances)",
+    "sector": "Manufacturing",
+    "name": "BioNTech SE"
+  },
+  {
+    "ticker": "PHM",
+    "cik": 822416,
+    "sic_code": 1531,
+    "sic_desc": "Operative Builders",
+    "sector": "Construction",
+    "name": "PULTEGROUP INC/MI/"
+  },
+  {
+    "ticker": "AXIA",
+    "cik": 1439124,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "AXIA Energia S.A."
+  },
+  {
+    "ticker": "WST",
+    "cik": 105770,
+    "sic_code": 3841,
+    "sic_desc": "Surgical & Medical Instruments & Apparatus",
+    "sector": "Manufacturing",
+    "name": "WEST PHARMACEUTICAL SERVICES INC"
+  },
+  {
+    "ticker": "KOF",
+    "cik": 910631,
+    "sic_code": 2086,
+    "sic_desc": "Bottled & Canned Soft Drinks & Carbonated Waters",
+    "sector": "Manufacturing",
+    "name": "COCA COLA FEMSA SAB DE CV"
+  },
+  {
+    "ticker": "BCE",
+    "cik": 718940,
+    "sic_code": 4813,
+    "sic_desc": "Telephone Communications (No Radiotelephone)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "BCE INC"
+  },
+  {
+    "ticker": "ROL",
+    "cik": 84839,
+    "sic_code": 7340,
+    "sic_desc": "Services-To Dwellings & Other Buildings",
+    "sector": "Services",
+    "name": "ROLLINS INC"
+  },
+  {
+    "ticker": "SNX",
+    "cik": 1177394,
+    "sic_code": 5045,
+    "sic_desc": "Wholesale-Computers & Peripheral Equipment & Software",
+    "sector": "WholesaleTrade",
+    "name": "TD SYNNEX CORP"
+  },
+  {
+    "ticker": "PFG",
+    "cik": 1126328,
+    "sic_code": 6321,
+    "sic_desc": "Accident & Health Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "PRINCIPAL FINANCIAL GROUP INC"
+  },
+  {
+    "ticker": "PAAS",
+    "cik": 771992,
+    "sic_code": 1040,
+    "sic_desc": "Gold and Silver Ores",
+    "sector": "Mining",
+    "name": "PAN AMERICAN SILVER CORP"
+  },
+  {
+    "ticker": "EXE",
+    "cik": 895126,
+    "sic_code": 1311,
+    "sic_desc": "Crude Petroleum & Natural Gas",
+    "sector": "Mining",
+    "name": "EXPAND ENERGY Corp"
+  },
+  {
+    "ticker": "MKSI",
+    "cik": 1049502,
+    "sic_code": 3823,
+    "sic_desc": "Industrial Instruments For Measurement, Display, and Control",
+    "sector": "Manufacturing",
+    "name": "MKS INC"
+  },
+  {
+    "ticker": "MKL",
+    "cik": 1096343,
+    "sic_code": 6331,
+    "sic_desc": "Fire, Marine & Casualty Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "MARKEL GROUP INC."
+  },
+  {
+    "ticker": "CHD",
+    "cik": 313927,
+    "sic_code": 2840,
+    "sic_desc": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+    "sector": "Manufacturing",
+    "name": "CHURCH & DWIGHT CO INC /DE/"
+  },
+  {
+    "ticker": "DRI",
+    "cik": 940944,
+    "sic_code": 5812,
+    "sic_desc": "Retail-Eating  Places",
+    "sector": "RetailTrade",
+    "name": "DARDEN RESTAURANTS INC"
+  },
+  {
+    "ticker": "SQM",
+    "cik": 909037,
+    "sic_code": 1400,
+    "sic_desc": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+    "sector": "Mining",
+    "name": "CHEMICAL & MINING CO OF CHILE INC"
+  },
+  {
+    "ticker": "SW",
+    "cik": 2005951,
+    "sic_code": 2650,
+    "sic_desc": "Paperboard Containers & Boxes",
+    "sector": "Manufacturing",
+    "name": "Smurfit Westrock plc"
+  },
+  {
+    "ticker": "IREN",
+    "cik": 1878848,
+    "sic_code": 6199,
+    "sic_desc": "Finance Services",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "IREN Ltd"
+  },
+  {
+    "ticker": "SBAC",
+    "cik": 1034054,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "SBA COMMUNICATIONS CORP"
+  },
+  {
+    "ticker": "TELNY",
+    "cik": 1126113,
+    "sic_code": 4813,
+    "sic_desc": "Telephone Communications (No Radiotelephone)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "TELENOR ASA"
+  },
+  {
+    "ticker": "SOFI",
+    "cik": 1818874,
+    "sic_code": 6199,
+    "sic_desc": "Finance Services",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "SoFi Technologies, Inc."
+  },
+  {
+    "ticker": "NI",
+    "cik": 1111711,
+    "sic_code": 4931,
+    "sic_desc": "Electric & Other Services Combined",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "NISOURCE INC."
+  },
+  {
+    "ticker": "TW",
+    "cik": 1758730,
+    "sic_code": 6200,
+    "sic_desc": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Tradeweb Markets Inc."
+  },
+  {
+    "ticker": "ZS",
+    "cik": 1713683,
+    "sic_code": 7371,
+    "sic_desc": "Services-Computer Programming Services",
+    "sector": "Services",
+    "name": "Zscaler, Inc."
+  },
+  {
+    "ticker": "RL",
+    "cik": 1037038,
+    "sic_code": 2320,
+    "sic_desc": "Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",
+    "sector": "Manufacturing",
+    "name": "RALPH LAUREN CORP"
+  },
+  {
+    "ticker": "MAIR",
+    "cik": 2098430,
+    "sic_code": 3564,
+    "sic_desc": "Industrial & Commercial Fans & Blowers & Air Purifing Equip",
+    "sector": "Manufacturing",
+    "name": "Madison Air Solutions Corp"
+  },
+  {
+    "ticker": "CHRW",
+    "cik": 1043277,
+    "sic_code": 4731,
+    "sic_desc": "Arrangement of  Transportation of  Freight & Cargo",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "C. H. ROBINSON WORLDWIDE, INC."
+  },
+  {
+    "ticker": "CMS",
+    "cik": 811156,
+    "sic_code": 4931,
+    "sic_desc": "Electric & Other Services Combined",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "CMS ENERGY CORP"
+  },
+  {
+    "ticker": "WIT",
+    "cik": 1123799,
+    "sic_code": 7371,
+    "sic_desc": "Services-Computer Programming Services",
+    "sector": "Services",
+    "name": "WIPRO LTD"
+  },
+  {
+    "ticker": "DGX",
+    "cik": 1022079,
+    "sic_code": 8071,
+    "sic_desc": "Services-Medical Laboratories",
+    "sector": "Services",
+    "name": "QUEST DIAGNOSTICS INC"
+  },
+  {
+    "ticker": "L",
+    "cik": 60086,
+    "sic_code": 6331,
+    "sic_desc": "Fire, Marine & Casualty Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "LOEWS CORP"
+  },
+  {
+    "ticker": "AER",
+    "cik": 1378789,
+    "sic_code": 7359,
+    "sic_desc": "Services-Equipment Rental & Leasing, NEC",
+    "sector": "Services",
+    "name": "AerCap Holdings N.V."
+  },
+  {
+    "ticker": "OMC",
+    "cik": 29989,
+    "sic_code": 7311,
+    "sic_desc": "Services-Advertising Agencies",
+    "sector": "Services",
+    "name": "OMNICOM GROUP INC."
+  },
+  {
+    "ticker": "WWD",
+    "cik": 108312,
+    "sic_code": 3620,
+    "sic_desc": "Electrical Industrial Apparatus",
+    "sector": "Manufacturing",
+    "name": "Woodward, Inc."
+  },
+  {
+    "ticker": "OKTA",
+    "cik": 1660134,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "Okta, Inc."
+  },
+  {
+    "ticker": "FIS",
+    "cik": 1136893,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "Fidelity National Information Services, Inc."
+  },
+  {
+    "ticker": "STLA",
+    "cik": 1605484,
+    "sic_code": 3711,
+    "sic_desc": "Motor Vehicles & Passenger Car Bodies",
+    "sector": "Manufacturing",
+    "name": "Stellantis N.V."
+  },
+  {
+    "ticker": "LH",
+    "cik": 920148,
+    "sic_code": 8071,
+    "sic_desc": "Services-Medical Laboratories",
+    "sector": "Services",
+    "name": "LABCORP HOLDINGS INC."
+  },
+  {
+    "ticker": "LYB",
+    "cik": 1489393,
+    "sic_code": 2860,
+    "sic_desc": "Industrial Organic Chemicals",
+    "sector": "Manufacturing",
+    "name": "LyondellBasell Industries N.V."
+  },
+  {
+    "ticker": "ENTG",
+    "cik": 1101302,
+    "sic_code": 3089,
+    "sic_desc": "Plastics Products, NEC",
+    "sector": "Manufacturing",
+    "name": "ENTEGRIS INC"
+  },
+  {
+    "ticker": "ROIV",
+    "cik": 1635088,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "Roivant Sciences Ltd."
+  },
+  {
+    "ticker": "EDPFY",
+    "cik": 1039610,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "EDP ENERGIAS DE PORTUGAL SA"
+  },
+  {
+    "ticker": "VIV",
+    "cik": 1066119,
+    "sic_code": 4813,
+    "sic_desc": "Telephone Communications (No Radiotelephone)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "TELEFONICA BRASIL S.A."
+  },
+  {
+    "ticker": "DLTR",
+    "cik": 935703,
+    "sic_code": 5331,
+    "sic_desc": "Retail-Variety Stores",
+    "sector": "RetailTrade",
+    "name": "DOLLAR TREE, INC."
+  },
+  {
+    "ticker": "EXPD",
+    "cik": 746515,
+    "sic_code": 4731,
+    "sic_desc": "Arrangement of  Transportation of  Freight & Cargo",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "EXPEDITORS INTERNATIONAL OF WASHINGTON INC"
+  },
+  {
+    "ticker": "LSCC",
+    "cik": 855658,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "LATTICE SEMICONDUCTOR CORP"
+  },
+  {
+    "ticker": "VLTO",
+    "cik": 1967680,
+    "sic_code": 3825,
+    "sic_desc": "Instruments For Meas & Testing of  Electricity & Elec Signals",
+    "sector": "Manufacturing",
+    "name": "Veralto Corp"
+  },
+  {
+    "ticker": "AA",
+    "cik": 1675149,
+    "sic_code": 3334,
+    "sic_desc": "Primary Production of  Aluminum",
+    "sector": "Manufacturing",
+    "name": "Alcoa Corp"
+  },
+  {
+    "ticker": "STE",
+    "cik": 1757898,
+    "sic_code": 3842,
+    "sic_desc": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+    "sector": "Manufacturing",
+    "name": "STERIS plc"
+  },
+  {
+    "ticker": "FPS",
+    "cik": 2080126,
+    "sic_code": 3620,
+    "sic_desc": "Electrical Industrial Apparatus",
+    "sector": "Manufacturing",
+    "name": "Forgent Power Solutions, Inc."
+  },
+  {
+    "ticker": "EFX",
+    "cik": 33185,
+    "sic_code": 7320,
+    "sic_desc": "Services-Consumer Credit Reporting, Collection Agencies",
+    "sector": "Services",
+    "name": "EQUIFAX INC"
+  },
+  {
+    "ticker": "RCI",
+    "cik": 733099,
+    "sic_code": 4841,
+    "sic_desc": "Cable & Other Pay Television Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "ROGERS COMMUNICATIONS INC"
+  },
+  {
+    "ticker": "IOT",
+    "cik": 1642896,
+    "sic_code": 7373,
+    "sic_desc": "Services-Computer Integrated Systems Design",
+    "sector": "Services",
+    "name": "Samsara Inc."
+  },
+  {
+    "ticker": "MRNA",
+    "cik": 1682852,
+    "sic_code": 2836,
+    "sic_desc": "Biological Products, (No Diagnostic Substances)",
+    "sector": "Manufacturing",
+    "name": "Moderna, Inc."
+  },
+  {
+    "ticker": "RS",
+    "cik": 861884,
+    "sic_code": 5051,
+    "sic_desc": "Wholesale-Metals Service Centers & of fices",
+    "sector": "WholesaleTrade",
+    "name": "RELIANCE, INC."
+  },
+  {
+    "ticker": "INCY",
+    "cik": 879169,
+    "sic_code": 8731,
+    "sic_desc": "Services-Commercial Physical & Biological Research",
+    "sector": "Services",
+    "name": "INCYTE CORP"
+  },
+  {
+    "ticker": "BURL",
+    "cik": 1579298,
+    "sic_code": 5311,
+    "sic_desc": "Retail-Department Stores",
+    "sector": "RetailTrade",
+    "name": "Burlington Stores, Inc."
+  },
+  {
+    "ticker": "LUV",
+    "cik": 92380,
+    "sic_code": 4512,
+    "sic_desc": "Air Transportation, Scheduled",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "SOUTHWEST AIRLINES CO"
+  },
+  {
+    "ticker": "PKX",
+    "cik": 889132,
+    "sic_code": 3312,
+    "sic_desc": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+    "sector": "Manufacturing",
+    "name": "POSCO HOLDINGS INC."
+  },
+  {
+    "ticker": "CHTR",
+    "cik": 1091667,
+    "sic_code": 4841,
+    "sic_desc": "Cable & Other Pay Television Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "CHARTER COMMUNICATIONS, INC. /MO/"
+  },
+  {
+    "ticker": "AS",
+    "cik": 1988894,
+    "sic_code": 2300,
+    "sic_desc": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
+    "sector": "Manufacturing",
+    "name": "Amer Sports, Inc."
+  },
+  {
+    "ticker": "TSN",
+    "cik": 100493,
+    "sic_code": 2015,
+    "sic_desc": "Poultry Slaughtering and Processing",
+    "sector": "Manufacturing",
+    "name": "TYSON FOODS, INC."
+  },
+  {
+    "ticker": "PKG",
+    "cik": 75677,
+    "sic_code": 2650,
+    "sic_desc": "Paperboard Containers & Boxes",
+    "sector": "Manufacturing",
+    "name": "PACKAGING CORP OF AMERICA"
+  },
+  {
+    "ticker": "ULS",
+    "cik": 1901440,
+    "sic_code": 8734,
+    "sic_desc": "Services-Testing Laboratories",
+    "sector": "Services",
+    "name": "UL Solutions Inc."
+  },
+  {
+    "ticker": "ULTA",
+    "cik": 1403568,
+    "sic_code": 5990,
+    "sic_desc": "Retail-Retail Stores, NEC",
+    "sector": "RetailTrade",
+    "name": "Ulta Beauty, Inc."
+  },
+  {
+    "ticker": "FWONA",
+    "cik": 1560385,
+    "sic_code": 4833,
+    "sic_desc": "Television Broadcasting Stations",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Liberty Media Corp"
+  },
+  {
+    "ticker": "RBA",
+    "cik": 1046102,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "RB GLOBAL INC."
+  },
+  {
+    "ticker": "SNA",
+    "cik": 91440,
+    "sic_code": 3420,
+    "sic_desc": "Cutlery, Handtools & General Hardware",
+    "sector": "Manufacturing",
+    "name": "Snap-on Inc"
+  },
+  {
+    "ticker": "ESS",
+    "cik": 920522,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "ESSEX PROPERTY TRUST, INC."
+  },
+  {
+    "ticker": "DKS",
+    "cik": 1089063,
+    "sic_code": 5940,
+    "sic_desc": "Retail-Miscellaneous Shopping Goods Stores",
+    "sector": "RetailTrade",
+    "name": "DICK'S SPORTING GOODS, INC."
+  },
+  {
+    "ticker": "ALB",
+    "cik": 915913,
+    "sic_code": 2821,
+    "sic_desc": "Plastic Materials, Synth Resins & Nonvulcan Elastomers",
+    "sector": "Manufacturing",
+    "name": "ALBEMARLE CORP"
+  },
+  {
+    "ticker": "BRO",
+    "cik": 79282,
+    "sic_code": 6411,
+    "sic_desc": "Insurance Agents, Brokers & Service",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "BROWN & BROWN, INC."
+  },
+  {
+    "ticker": "DD",
+    "cik": 1666700,
+    "sic_code": 2821,
+    "sic_desc": "Plastic Materials, Synth Resins & Nonvulcan Elastomers",
+    "sector": "Manufacturing",
+    "name": "DuPont de Nemours, Inc."
+  },
+  {
+    "ticker": "SBS",
+    "cik": 1170858,
+    "sic_code": 4941,
+    "sic_desc": "Water Supply",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "COMPANHIA DE SANEAMENTO BASICO DO ESTADO DE SAO PAULO-SABESP"
+  },
+  {
+    "ticker": "TTMI",
+    "cik": 1116942,
+    "sic_code": 3672,
+    "sic_desc": "Printed Circuit Boards",
+    "sector": "Manufacturing",
+    "name": "TTM TECHNOLOGIES INC"
+  },
+  {
+    "ticker": "TU",
+    "cik": 868675,
+    "sic_code": 4812,
+    "sic_desc": "Radiotelephone Communications",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "TELUS CORP"
+  },
+  {
+    "ticker": "CDE",
+    "cik": 215466,
+    "sic_code": 1040,
+    "sic_desc": "Gold and Silver Ores",
+    "sector": "Mining",
+    "name": "Coeur Mining, Inc."
+  },
+  {
+    "ticker": "DOCN",
+    "cik": 1582961,
+    "sic_code": 7370,
+    "sic_desc": "Services-Computer Programming, Data Processing, Etc.",
+    "sector": "Services",
+    "name": "DigitalOcean Holdings, Inc."
+  },
+  {
+    "ticker": "EVRG",
+    "cik": 1711269,
+    "sic_code": 4931,
+    "sic_desc": "Electric & Other Services Combined",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Evergy, Inc."
+  },
+  {
+    "ticker": "BCH",
+    "cik": 1161125,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "BANK OF CHILE"
+  },
+  {
+    "ticker": "FTV",
+    "cik": 1659166,
+    "sic_code": 3823,
+    "sic_desc": "Industrial Instruments For Measurement, Display, and Control",
+    "sector": "Manufacturing",
+    "name": "Fortive Corp"
+  },
+  {
+    "ticker": "IFF",
+    "cik": 51253,
+    "sic_code": 2860,
+    "sic_desc": "Industrial Organic Chemicals",
+    "sector": "Manufacturing",
+    "name": "INTERNATIONAL FLAVORS & FRAGRANCES INC"
+  },
+  {
+    "ticker": "CX",
+    "cik": 1076378,
+    "sic_code": 3241,
+    "sic_desc": "Cement, Hydraulic",
+    "sector": "Manufacturing",
+    "name": "CEMEX SAB DE CV"
+  },
+  {
+    "ticker": "RGLD",
+    "cik": 85535,
+    "sic_code": 6795,
+    "sic_desc": "Mineral Royalty Traders",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "ROYAL GOLD INC"
+  },
+  {
+    "ticker": "SITM",
+    "cik": 1451809,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "SITIME Corp"
+  },
+  {
+    "ticker": "RBC",
+    "cik": 1324948,
+    "sic_code": 3562,
+    "sic_desc": "Ball & Roller Bearings",
+    "sector": "Manufacturing",
+    "name": "RBC Bearings INC"
+  },
+  {
+    "ticker": "MGA",
+    "cik": 749098,
+    "sic_code": 3714,
+    "sic_desc": "Motor Vehicle Parts & Accessories",
+    "sector": "Manufacturing",
+    "name": "MAGNA INTERNATIONAL INC"
+  },
+  {
+    "ticker": "GPN",
+    "cik": 1123360,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "GLOBAL PAYMENTS INC"
+  },
+  {
+    "ticker": "ROKU",
+    "cik": 1428439,
+    "sic_code": 4841,
+    "sic_desc": "Cable & Other Pay Television Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "ROKU, INC"
+  },
+  {
+    "ticker": "VTRS",
+    "cik": 1792044,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "Viatris Inc"
+  },
+  {
+    "ticker": "BEKE",
+    "cik": 1809587,
+    "sic_code": 6531,
+    "sic_desc": "Real Estate Agents & Managers (For Others)",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "KE Holdings Inc."
+  },
+  {
+    "ticker": "AMKR",
+    "cik": 1047127,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "AMKOR TECHNOLOGY, INC."
+  },
+  {
+    "ticker": "LNT",
+    "cik": 352541,
+    "sic_code": 4931,
+    "sic_desc": "Electric & Other Services Combined",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "ALLIANT ENERGY CORP"
+  },
+  {
+    "ticker": "APG",
+    "cik": 1796209,
+    "sic_code": 7340,
+    "sic_desc": "Services-To Dwellings & Other Buildings",
+    "sector": "Services",
+    "name": "APi Group Corp"
+  },
+  {
+    "ticker": "RMBS",
+    "cik": 917273,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "RAMBUS INC"
+  },
+  {
+    "ticker": "USFD",
+    "cik": 1665918,
+    "sic_code": 5140,
+    "sic_desc": "Wholesale-Groceries & Related Products",
+    "sector": "WholesaleTrade",
+    "name": "US Foods Holding Corp."
+  },
+  {
+    "ticker": "CF",
+    "cik": 1324404,
+    "sic_code": 2870,
+    "sic_desc": "Agricultural Chemicals",
+    "sector": "Manufacturing",
+    "name": "CF Industries Holdings, Inc."
+  },
+  {
+    "ticker": "LII",
+    "cik": 1069202,
+    "sic_code": 3585,
+    "sic_desc": "Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip",
+    "sector": "Manufacturing",
+    "name": "LENNOX INTERNATIONAL INC"
+  },
+  {
+    "ticker": "IP",
+    "cik": 51434,
+    "sic_code": 2621,
+    "sic_desc": "Paper Mills",
+    "sector": "Manufacturing",
+    "name": "INTERNATIONAL PAPER CO /NEW/"
+  },
+  {
+    "ticker": "CDW",
+    "cik": 1402057,
+    "sic_code": 5961,
+    "sic_desc": "Retail-Catalog & Mail-Order Houses",
+    "sector": "RetailTrade",
+    "name": "CDW Corp"
+  },
+  {
+    "ticker": "WY",
+    "cik": 106535,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "WEYERHAEUSER CO"
+  },
+  {
+    "ticker": "H",
+    "cik": 1468174,
+    "sic_code": 7011,
+    "sic_desc": "Hotels & Motels",
+    "sector": "Services",
+    "name": "Hyatt Hotels Corp"
+  },
+  {
+    "ticker": "WCC",
+    "cik": 929008,
+    "sic_code": 5063,
+    "sic_desc": "Wholesale-Electrical Apparatus & Equipment, Wiring Supplies ",
+    "sector": "WholesaleTrade",
+    "name": "WESCO INTERNATIONAL INC"
+  },
+  {
+    "ticker": "BR",
+    "cik": 1383312,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "BROADRIDGE FINANCIAL SOLUTIONS, INC."
+  },
+  {
+    "ticker": "WES",
+    "cik": 1423902,
+    "sic_code": 4922,
+    "sic_desc": "Natural Gas Transmission",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Western Midstream Partners, LP"
+  },
+  {
+    "ticker": "GH",
+    "cik": 1576280,
+    "sic_code": 8071,
+    "sic_desc": "Services-Medical Laboratories",
+    "sector": "Services",
+    "name": "Guardant Health, Inc."
+  },
+  {
+    "ticker": "INVH",
+    "cik": 1687229,
+    "sic_code": 6510,
+    "sic_desc": "Real Estate Operators (No Developers) & Lessors",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Invitation Homes Inc."
+  },
+  {
+    "ticker": "FLUT",
+    "cik": 1635327,
+    "sic_code": 7370,
+    "sic_desc": "Services-Computer Programming, Data Processing, Etc.",
+    "sector": "Services",
+    "name": "Flutter Entertainment plc"
+  },
+  {
+    "ticker": "SN",
+    "cik": 1957132,
+    "sic_code": 3630,
+    "sic_desc": "Household Appliances",
+    "sector": "Manufacturing",
+    "name": "SharkNinja, Inc."
+  },
+  {
+    "ticker": "BWXT",
+    "cik": 1486957,
+    "sic_code": 3510,
+    "sic_desc": "Engines & Turbines",
+    "sector": "Manufacturing",
+    "name": "BWX Technologies, Inc."
+  },
+  {
+    "ticker": "ARXS",
+    "cik": 2093536,
+    "sic_code": 3728,
+    "sic_desc": "Aircraft Parts & Auxiliary Equipment, NEC",
+    "sector": "Manufacturing",
+    "name": "Arxis, Inc."
+  },
+  {
+    "ticker": "PR",
+    "cik": 1658566,
+    "sic_code": 1311,
+    "sic_desc": "Crude Petroleum & Natural Gas",
+    "sector": "Mining",
+    "name": "Permian Resources Corp"
+  },
+  {
+    "ticker": "ITT",
+    "cik": 216228,
+    "sic_code": 3561,
+    "sic_desc": "Pumps & Pumping Equipment",
+    "sector": "Manufacturing",
+    "name": "ITT INC."
+  },
+  {
+    "ticker": "AMCR",
+    "cik": 1748790,
+    "sic_code": 3990,
+    "sic_desc": "Miscellaneous Manufacturing Industries",
+    "sector": "Manufacturing",
+    "name": "Amcor plc"
+  },
+  {
+    "ticker": "TLN",
+    "cik": 1622536,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Talen Energy Corp"
+  },
+  {
+    "ticker": "ZTO",
+    "cik": 1677250,
+    "sic_code": 4210,
+    "sic_desc": "Trucking & Courier Services (No Air)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "ZTO Express (Cayman) Inc."
+  },
+  {
+    "ticker": "GIS",
+    "cik": 40704,
+    "sic_code": 2040,
+    "sic_desc": "Grain Mill Products",
+    "sector": "Manufacturing",
+    "name": "GENERAL MILLS INC"
+  },
+  {
+    "ticker": "EWBC",
+    "cik": 1069157,
+    "sic_code": 6022,
+    "sic_desc": "State Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "EAST WEST BANCORP INC"
+  },
+  {
+    "ticker": "CIB",
+    "cik": 2058897,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Grupo Cibest S.A."
+  },
+  {
+    "ticker": "LOGI",
+    "cik": 1032975,
+    "sic_code": 3577,
+    "sic_desc": "Computer Peripheral Equipment, NEC",
+    "sector": "Manufacturing",
+    "name": "LOGITECH INTERNATIONAL S.A."
+  },
+  {
+    "ticker": "HST",
+    "cik": 1070750,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "HOST HOTELS & RESORTS, INC."
+  },
+  {
+    "ticker": "NBIX",
+    "cik": 914475,
+    "sic_code": 2836,
+    "sic_desc": "Biological Products, (No Diagnostic Substances)",
+    "sector": "Manufacturing",
+    "name": "NEUROCRINE BIOSCIENCES INC"
+  },
+  {
+    "ticker": "ZBH",
+    "cik": 1136869,
+    "sic_code": 3842,
+    "sic_desc": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+    "sector": "Manufacturing",
+    "name": "ZIMMER BIOMET HOLDINGS, INC."
+  },
+  {
+    "ticker": "AAOI",
+    "cik": 1158114,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "APPLIED OPTOELECTRONICS, INC."
+  },
+  {
+    "ticker": "SSNC",
+    "cik": 1402436,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "SS&C Technologies Holdings Inc"
+  },
+  {
+    "ticker": "NVR",
+    "cik": 906163,
+    "sic_code": 1531,
+    "sic_desc": "Operative Builders",
+    "sector": "Construction",
+    "name": "NVR INC"
+  },
+  {
+    "ticker": "OVV",
+    "cik": 1792580,
+    "sic_code": 1311,
+    "sic_desc": "Crude Petroleum & Natural Gas",
+    "sector": "Mining",
+    "name": "Ovintiv Inc."
+  },
+  {
+    "ticker": "VNOM",
+    "cik": 2074176,
+    "sic_code": 1311,
+    "sic_desc": "Crude Petroleum & Natural Gas",
+    "sector": "Mining",
+    "name": "Viper Energy, Inc."
+  },
+  {
+    "ticker": "BEN",
+    "cik": 38777,
+    "sic_code": 6282,
+    "sic_desc": "Investment Advice",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "FRANKLIN RESOURCES INC"
+  },
+  {
+    "ticker": "KEP",
+    "cik": 887225,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "KOREA ELECTRIC POWER CORP"
+  },
+  {
+    "ticker": "NVMI",
+    "cik": 1109345,
+    "sic_code": 3827,
+    "sic_desc": "Optical Instruments & Lenses",
+    "sector": "Manufacturing",
+    "name": "NOVA LTD."
+  },
+  {
+    "ticker": "WPC",
+    "cik": 1025378,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "W. P. Carey Inc."
+  },
+  {
+    "ticker": "GNRC",
+    "cik": 1474735,
+    "sic_code": 3621,
+    "sic_desc": "Motors & Generators",
+    "sector": "Manufacturing",
+    "name": "GENERAC HOLDINGS INC."
+  },
+  {
+    "ticker": "MAA",
+    "cik": 912595,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "MID AMERICA APARTMENT COMMUNITIES INC."
+  },
+  {
+    "ticker": "TPG",
+    "cik": 1880661,
+    "sic_code": 6282,
+    "sic_desc": "Investment Advice",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "TPG Inc."
+  },
+  {
+    "ticker": "KIM",
+    "cik": 879101,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "KIMCO REALTY CORP"
+  },
+  {
+    "ticker": "DIDIY",
+    "cik": 1764757,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "DiDi Global Inc."
+  },
+  {
+    "ticker": "PAA",
+    "cik": 1070423,
+    "sic_code": 4610,
+    "sic_desc": "Pipe Lines (No Natural Gas)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "PLAINS ALL AMERICAN PIPELINE LP"
+  },
+  {
+    "ticker": "PHYS",
+    "cik": 1477049,
+    "sic_code": 6221,
+    "sic_desc": "Commodity Contracts Brokers & Dealers",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Sprott Physical Gold Trust"
+  },
+  {
+    "ticker": "AGI",
+    "cik": 1178819,
+    "sic_code": 1040,
+    "sic_desc": "Gold and Silver Ores",
+    "sector": "Mining",
+    "name": "ALAMOS GOLD INC"
+  },
+  {
+    "ticker": "XPEV",
+    "cik": 1810997,
+    "sic_code": 3711,
+    "sic_desc": "Motor Vehicles & Passenger Car Bodies",
+    "sector": "Manufacturing",
+    "name": "XPENG INC."
+  },
+  {
+    "ticker": "PTC",
+    "cik": 857005,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "PTC INC."
+  },
+  {
+    "ticker": "IEX",
+    "cik": 832101,
+    "sic_code": 3561,
+    "sic_desc": "Pumps & Pumping Equipment",
+    "sector": "Manufacturing",
+    "name": "IDEX CORP /DE/"
+  },
+  {
+    "ticker": "GEN",
+    "cik": 849399,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "Gen Digital Inc."
+  },
+  {
+    "ticker": "NDSN",
+    "cik": 72331,
+    "sic_code": 3569,
+    "sic_desc": "General Industrial Machinery & Equipment, NEC",
+    "sector": "Manufacturing",
+    "name": "NORDSON CORP"
+  },
+  {
+    "ticker": "MOD",
+    "cik": 67347,
+    "sic_code": 3714,
+    "sic_desc": "Motor Vehicle Parts & Accessories",
+    "sector": "Manufacturing",
+    "name": "MODINE MANUFACTURING CO"
+  },
+  {
+    "ticker": "OWL",
+    "cik": 1823945,
+    "sic_code": 6282,
+    "sic_desc": "Investment Advice",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "BLUE OWL CAPITAL INC."
+  },
+  {
+    "ticker": "KSPI",
+    "cik": 1985487,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "Joint Stock Co Kaspi.kz"
+  },
+  {
+    "ticker": "RBRK",
+    "cik": 1943896,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "Rubrik, Inc."
+  },
+  {
+    "ticker": "TXT",
+    "cik": 217346,
+    "sic_code": 3720,
+    "sic_desc": "Aircraft & Parts",
+    "sector": "Manufacturing",
+    "name": "TEXTRON INC"
+  },
+  {
+    "ticker": "TLK",
+    "cik": 1001807,
+    "sic_code": 4813,
+    "sic_desc": "Telephone Communications (No Radiotelephone)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "PERUSAHAAN PERSEROAN PERSERO PT TELEKOMUNIKASI INDONESIA TBK"
+  },
+  {
+    "ticker": "SMTC",
+    "cik": 88941,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "SEMTECH CORP"
+  },
+  {
+    "ticker": "BWA",
+    "cik": 908255,
+    "sic_code": 3714,
+    "sic_desc": "Motor Vehicle Parts & Accessories",
+    "sector": "Manufacturing",
+    "name": "BORGWARNER INC"
+  },
+  {
+    "ticker": "SKM",
+    "cik": 1015650,
+    "sic_code": 4812,
+    "sic_desc": "Radiotelephone Communications",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "SK TELECOM CO LTD"
+  },
+  {
+    "ticker": "EMA",
+    "cik": 1127248,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "EMERA INC"
+  },
+  {
+    "ticker": "CG",
+    "cik": 1527166,
+    "sic_code": 6282,
+    "sic_desc": "Investment Advice",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Carlyle Group Inc."
+  },
+  {
+    "ticker": "SUI",
+    "cik": 912593,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "SUN COMMUNITIES INC"
+  },
+  {
+    "ticker": "LDOS",
+    "cik": 1336920,
+    "sic_code": 7373,
+    "sic_desc": "Services-Computer Integrated Systems Design",
+    "sector": "Services",
+    "name": "Leidos Holdings, Inc."
+  },
+  {
+    "ticker": "WMG",
+    "cik": 1319161,
+    "sic_code": 7900,
+    "sic_desc": "Services-Amusement & Recreation Services",
+    "sector": "Services",
+    "name": "Warner Music Group Corp."
+  },
+  {
+    "ticker": "NLY",
+    "cik": 1043219,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "ANNALY CAPITAL MANAGEMENT INC"
+  },
+  {
+    "ticker": "PL",
+    "cik": 1836833,
+    "sic_code": 3663,
+    "sic_desc": "Radio & Tv Broadcasting & Communications Equipment",
+    "sector": "Manufacturing",
+    "name": "Planet Labs PBC"
+  },
+  {
+    "ticker": "APTV",
+    "cik": 1521332,
+    "sic_code": 3714,
+    "sic_desc": "Motor Vehicle Parts & Accessories",
+    "sector": "Manufacturing",
+    "name": "Aptiv PLC"
+  },
+  {
+    "ticker": "TSCO",
+    "cik": 916365,
+    "sic_code": 5200,
+    "sic_desc": "Retail-Building Materials, Hardware, Garden Supply",
+    "sector": "RetailTrade",
+    "name": "TRACTOR SUPPLY CO /DE/"
+  },
+  {
+    "ticker": "PS",
+    "cik": 2026053,
+    "sic_code": 6282,
+    "sic_desc": "Investment Advice",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "PERSHING SQUARE INC."
+  },
+  {
+    "ticker": "LAMR",
+    "cik": 1090425,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "LAMAR ADVERTISING CO/NEW"
+  },
+  {
+    "ticker": "TME",
+    "cik": 1744676,
+    "sic_code": 4832,
+    "sic_desc": "Radio Broadcasting Stations",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Tencent Music Entertainment Group"
+  },
+  {
+    "ticker": "GMAB",
+    "cik": 1434265,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "GENMAB A/S"
+  },
+  {
+    "ticker": "CLH",
+    "cik": 822818,
+    "sic_code": 4955,
+    "sic_desc": "Hazardous Waste Management",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "CLEAN HARBORS INC"
+  },
+  {
+    "ticker": "DECK",
+    "cik": 910521,
+    "sic_code": 3021,
+    "sic_desc": "Rubber & Plastics Footwear",
+    "sector": "Manufacturing",
+    "name": "DECKERS OUTDOOR CORP"
+  },
+  {
+    "ticker": "JAZZ",
+    "cik": 1232524,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "Jazz Pharmaceuticals plc"
+  },
+  {
+    "ticker": "YUMC",
+    "cik": 1673358,
+    "sic_code": 5812,
+    "sic_desc": "Retail-Eating  Places",
+    "sector": "RetailTrade",
+    "name": "Yum China Holdings, Inc."
+  },
+  {
+    "ticker": "SANM",
+    "cik": 897723,
+    "sic_code": 3672,
+    "sic_desc": "Printed Circuit Boards",
+    "sector": "Manufacturing",
+    "name": "SANMINA CORP"
+  },
+  {
+    "ticker": "WSO",
+    "cik": 105016,
+    "sic_code": 5070,
+    "sic_desc": "Wholesale-Hardware & Plumbing & Heating Equipment & Supplies",
+    "sector": "WholesaleTrade",
+    "name": "WATSCO INC"
+  },
+  {
+    "ticker": "RTO",
+    "cik": 930157,
+    "sic_code": 8741,
+    "sic_desc": "Services-Management Services",
+    "sector": "Services",
+    "name": "RENTOKIL INITIAL PLC /FI"
+  },
+  {
+    "ticker": "LULU",
+    "cik": 1397187,
+    "sic_code": 2300,
+    "sic_desc": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
+    "sector": "Manufacturing",
+    "name": "lululemon athletica inc."
+  },
+  {
+    "ticker": "WF",
+    "cik": 1264136,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "WOORI FINANCIAL GROUP INC."
+  },
+  {
+    "ticker": "BBY",
+    "cik": 764478,
+    "sic_code": 5731,
+    "sic_desc": "Retail-Radio, Tv & Consumer Electronics Stores",
+    "sector": "RetailTrade",
+    "name": "BEST BUY CO INC"
+  },
+  {
+    "ticker": "PSLV",
+    "cik": 1494728,
+    "sic_code": 6221,
+    "sic_desc": "Commodity Contracts Brokers & Dealers",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Sprott Physical Silver Trust"
+  },
+  {
+    "ticker": "NTNX",
+    "cik": 1618732,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "Nutanix, Inc."
+  },
+  {
+    "ticker": "LI",
+    "cik": 1791706,
+    "sic_code": 3711,
+    "sic_desc": "Motor Vehicles & Passenger Car Bodies",
+    "sector": "Manufacturing",
+    "name": "Li Auto Inc."
+  },
+  {
+    "ticker": "IESC",
+    "cik": 1048268,
+    "sic_code": 1731,
+    "sic_desc": "Electrical Work",
+    "sector": "Construction",
+    "name": "IES Holdings, Inc."
+  },
+  {
+    "ticker": "PFGC",
+    "cik": 1618673,
+    "sic_code": 5141,
+    "sic_desc": "Wholesale-Groceries, General Line",
+    "sector": "WholesaleTrade",
+    "name": "Performance Food Group Co"
+  },
+  {
+    "ticker": "DY",
+    "cik": 67215,
+    "sic_code": 1623,
+    "sic_desc": "Water, Sewer, Pipeline, Comm & Power Line Construction",
+    "sector": "Construction",
+    "name": "DYCOM INDUSTRIES INC"
+  },
+  {
+    "ticker": "MLI",
+    "cik": 89439,
+    "sic_code": 3350,
+    "sic_desc": "Rolling Drawing & Extruding of  Nonferrous Metals",
+    "sector": "Manufacturing",
+    "name": "MUELLER INDUSTRIES INC"
+  },
+  {
+    "ticker": "SGI",
+    "cik": 1206264,
+    "sic_code": 2510,
+    "sic_desc": "Household Furniture",
+    "sector": "Manufacturing",
+    "name": "SOMNIGROUP INTERNATIONAL INC."
+  },
+  {
+    "ticker": "NWSA",
+    "cik": 1564708,
+    "sic_code": 2711,
+    "sic_desc": "Newspapers: Publishing or  Publishing & Printing",
+    "sector": "Manufacturing",
+    "name": "NEWS CORP"
+  },
+  {
+    "ticker": "TOST",
+    "cik": 1650164,
+    "sic_code": 7374,
+    "sic_desc": "Services-Computer Processing & Data Preparation",
+    "sector": "Services",
+    "name": "Toast, Inc."
+  },
+  {
+    "ticker": "TIGO",
+    "cik": 912958,
+    "sic_code": 4812,
+    "sic_desc": "Radiotelephone Communications",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "MILLICOM INTERNATIONAL CELLULAR SA"
+  },
+  {
+    "ticker": "LGN",
+    "cik": 2052568,
+    "sic_code": 1700,
+    "sic_desc": "Construction - Special Trade Contractors",
+    "sector": "Construction",
+    "name": "Legence Corp."
+  },
+  {
+    "ticker": "J",
+    "cik": 52988,
+    "sic_code": 1600,
+    "sic_desc": "Heavy Construction Other Than Bldg Const - Contractors",
+    "sector": "Construction",
+    "name": "JACOBS SOLUTIONS INC."
+  },
+  {
+    "ticker": "PNFP",
+    "cik": 2082866,
+    "sic_code": 6021,
+    "sic_desc": "National Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Pinnacle Financial Partners, Inc."
+  },
+  {
+    "ticker": "DTM",
+    "cik": 1842022,
+    "sic_code": 4922,
+    "sic_desc": "Natural Gas Transmission",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "DT Midstream, Inc."
+  },
+  {
+    "ticker": "LTM",
+    "cik": 1047716,
+    "sic_code": 4512,
+    "sic_desc": "Air Transportation, Scheduled",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "LATAM AIRLINES GROUP S.A."
+  },
+  {
+    "ticker": "BSAC",
+    "cik": 1027552,
+    "sic_code": 6029,
+    "sic_desc": "Commercial Banks, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "BANCO SANTANDER CHILE"
+  },
+  {
+    "ticker": "LECO",
+    "cik": 59527,
+    "sic_code": 3540,
+    "sic_desc": "Metalworkg Machinery & Equipment",
+    "sector": "Manufacturing",
+    "name": "LINCOLN ELECTRIC HOLDINGS INC"
+  },
+  {
+    "ticker": "UDR",
+    "cik": 74208,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "UDR, Inc."
+  },
+  {
+    "ticker": "HUT",
+    "cik": 1964789,
+    "sic_code": 6199,
+    "sic_desc": "Finance Services",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Hut 8 Corp."
+  },
+  {
+    "ticker": "REG",
+    "cik": 910606,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "REGENCY CENTERS CORP"
+  },
+  {
+    "ticker": "SOLV",
+    "cik": 1964738,
+    "sic_code": 3841,
+    "sic_desc": "Surgical & Medical Instruments & Apparatus",
+    "sector": "Manufacturing",
+    "name": "Solventum Corp"
+  },
+  {
+    "ticker": "PAC",
+    "cik": 1347557,
+    "sic_code": 4581,
+    "sic_desc": "Airports, Flying Fields & Airport Terminal Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Pacific Airport Group"
+  },
+  {
+    "ticker": "NIO",
+    "cik": 1736541,
+    "sic_code": 3711,
+    "sic_desc": "Motor Vehicles & Passenger Car Bodies",
+    "sector": "Manufacturing",
+    "name": "NIO Inc."
+  },
+  {
+    "ticker": "RRX",
+    "cik": 82811,
+    "sic_code": 3569,
+    "sic_desc": "General Industrial Machinery & Equipment, NEC",
+    "sector": "Manufacturing",
+    "name": "REGAL REXNORD CORP"
+  },
+  {
+    "ticker": "CHKP",
+    "cik": 1015922,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "CHECK POINT SOFTWARE TECHNOLOGIES LTD"
+  },
+  {
+    "ticker": "GIB",
+    "cik": 1061574,
+    "sic_code": 8742,
+    "sic_desc": "Services-Management Consulting Services",
+    "sector": "Services",
+    "name": "CGI INC"
+  },
+  {
+    "ticker": "GRAB",
+    "cik": 1855612,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "Grab Holdings Ltd"
+  },
+  {
+    "ticker": "MAS",
+    "cik": 62996,
+    "sic_code": 3430,
+    "sic_desc": "Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",
+    "sector": "Manufacturing",
+    "name": "MASCO CORP /DE/"
+  },
+  {
+    "ticker": "ARMK",
+    "cik": 1584509,
+    "sic_code": 5812,
+    "sic_desc": "Retail-Eating  Places",
+    "sector": "RetailTrade",
+    "name": "Aramark"
+  },
+  {
+    "ticker": "BALL",
+    "cik": 9389,
+    "sic_code": 3411,
+    "sic_desc": "Metal Cans",
+    "sector": "Manufacturing",
+    "name": "BALL Corp"
+  },
+  {
+    "ticker": "VICR",
+    "cik": 751978,
+    "sic_code": 3679,
+    "sic_desc": "Electronic Components, NEC",
+    "sector": "Manufacturing",
+    "name": "VICOR CORP"
+  },
+  {
+    "ticker": "THC",
+    "cik": 70318,
+    "sic_code": 8062,
+    "sic_desc": "Services-General Medical & Surgical Hospitals, NEC",
+    "sector": "Services",
+    "name": "TENET HEALTHCARE CORP"
+  },
+  {
+    "ticker": "CSL",
+    "cik": 790051,
+    "sic_code": 3060,
+    "sic_desc": "Fabricated Rubber Products, NEC",
+    "sector": "Manufacturing",
+    "name": "CARLISLE COMPANIES INC"
+  },
+  {
+    "ticker": "JLL",
+    "cik": 1037976,
+    "sic_code": 6531,
+    "sic_desc": "Real Estate Agents & Managers (For Others)",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "JONES LANG LASALLE INC"
+  },
+  {
+    "ticker": "DSEEY",
+    "cik": 1481045,
+    "sic_code": 8880,
+    "sic_desc": "American Depositary Receipts",
+    "sector": "Services",
+    "name": "Daiwa Securities Group Inc."
+  },
+  {
+    "ticker": "HTHT",
+    "cik": 1483994,
+    "sic_code": 7011,
+    "sic_desc": "Hotels & Motels",
+    "sector": "Services",
+    "name": "H World Group Ltd"
+  },
+  {
+    "ticker": "CSGP",
+    "cik": 1057352,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "COSTAR GROUP, INC."
+  },
+  {
+    "ticker": "YARIY",
+    "cik": 1279956,
+    "sic_code": 8880,
+    "sic_desc": "American Depositary Receipts",
+    "sector": "Services",
+    "name": "YARA INTERNATIONAL ASA"
+  },
+  {
+    "ticker": "GPC",
+    "cik": 40987,
+    "sic_code": 5013,
+    "sic_desc": "Wholesale-Motor Vehicle Supplies & New Parts",
+    "sector": "WholesaleTrade",
+    "name": "GENUINE PARTS CO"
+  },
+  {
+    "ticker": "ONTO",
+    "cik": 704532,
+    "sic_code": 3829,
+    "sic_desc": "Measuring & Controlling Devices, NEC",
+    "sector": "Manufacturing",
+    "name": "ONTO INNOVATION INC."
+  },
+  {
+    "ticker": "OHI",
+    "cik": 888491,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "OMEGA HEALTHCARE INVESTORS INC"
+  },
+  {
+    "ticker": "TRU",
+    "cik": 1552033,
+    "sic_code": 7320,
+    "sic_desc": "Services-Consumer Credit Reporting, Collection Agencies",
+    "sector": "Services",
+    "name": "TransUnion"
+  },
+  {
+    "ticker": "JHX",
+    "cik": 1159152,
+    "sic_code": 3272,
+    "sic_desc": "Concrete Products, Except Block & Brick",
+    "sector": "Manufacturing",
+    "name": "James Hardie Industries plc"
+  },
+  {
+    "ticker": "UNM",
+    "cik": 5513,
+    "sic_code": 6321,
+    "sic_desc": "Accident & Health Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Unum Group"
+  },
+  {
+    "ticker": "ASND",
+    "cik": 1612042,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "Ascendis Pharma A/S"
+  },
+  {
+    "ticker": "AUR",
+    "cik": 1828108,
+    "sic_code": 7373,
+    "sic_desc": "Services-Computer Integrated Systems Design",
+    "sector": "Services",
+    "name": "Aurora Innovation, Inc."
+  },
+  {
+    "ticker": "DOC",
+    "cik": 765880,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "HEALTHPEAK PROPERTIES, INC."
+  },
+  {
+    "ticker": "AMH",
+    "cik": 1562401,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "American Homes 4 Rent"
+  },
+  {
+    "ticker": "APA",
+    "cik": 1841666,
+    "sic_code": 1311,
+    "sic_desc": "Crude Petroleum & Natural Gas",
+    "sector": "Mining",
+    "name": "APA Corp"
+  },
+  {
+    "ticker": "FUTU",
+    "cik": 1754581,
+    "sic_code": 6211,
+    "sic_desc": "Security Brokers, Dealers & Flotation Companies",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Futu Holdings Ltd"
+  },
+  {
+    "ticker": "EVR",
+    "cik": 1360901,
+    "sic_code": 6282,
+    "sic_desc": "Investment Advice",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Evercore Inc."
+  },
+  {
+    "ticker": "CNH",
+    "cik": 1567094,
+    "sic_code": 3531,
+    "sic_desc": "Construction Machinery & Equip",
+    "sector": "Manufacturing",
+    "name": "CNH Industrial N.V."
+  },
+  {
+    "ticker": "LYTHF",
+    "cik": 1816319,
+    "sic_code": 7374,
+    "sic_desc": "Services-Computer Processing & Data Preparation",
+    "sector": "Services",
+    "name": "Lytus Technologies Holdings PTV. Ltd."
+  },
+  {
+    "ticker": "SOLS",
+    "cik": 2064953,
+    "sic_code": 2800,
+    "sic_desc": "Chemicals & Allied Products",
+    "sector": "Manufacturing",
+    "name": "Solstice Advanced Materials Inc."
+  },
+  {
+    "ticker": "RPM",
+    "cik": 110621,
+    "sic_code": 2851,
+    "sic_desc": "Paints, Varnishes, Lacquers, Enamels & Allied Prods",
+    "sector": "Manufacturing",
+    "name": "RPM INTERNATIONAL INC/DE/"
+  },
+  {
+    "ticker": "ENLT",
+    "cik": 1922641,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Enlight Renewable Energy Ltd."
+  },
+  {
+    "ticker": "BBIO",
+    "cik": 1743881,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "BridgeBio Pharma, Inc."
+  },
+  {
+    "ticker": "EXEL",
+    "cik": 939767,
+    "sic_code": 2836,
+    "sic_desc": "Biological Products, (No Diagnostic Substances)",
+    "sector": "Manufacturing",
+    "name": "EXELIXIS, INC."
+  },
+  {
+    "ticker": "TFII",
+    "cik": 1588823,
+    "sic_code": 4210,
+    "sic_desc": "Trucking & Courier Services (No Air)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "TFI International Inc."
+  },
+  {
+    "ticker": "VIAV",
+    "cik": 912093,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "VIAVI SOLUTIONS INC."
+  },
+  {
+    "ticker": "U",
+    "cik": 1810806,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "Unity Software Inc."
+  },
+  {
+    "ticker": "SNN",
+    "cik": 845982,
+    "sic_code": 3842,
+    "sic_desc": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+    "sector": "Manufacturing",
+    "name": "SMITH & NEPHEW PLC"
+  },
+  {
+    "ticker": "DINO",
+    "cik": 1915657,
+    "sic_code": 4610,
+    "sic_desc": "Pipe Lines (No Natural Gas)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "HF Sinclair Corp"
+  },
+  {
+    "ticker": "MEDP",
+    "cik": 1668397,
+    "sic_code": 8731,
+    "sic_desc": "Services-Commercial Physical & Biological Research",
+    "sector": "Services",
+    "name": "Medpace Holdings, Inc."
+  },
+  {
+    "ticker": "GLPI",
+    "cik": 1575965,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Gaming & Leisure Properties, Inc."
+  },
+  {
+    "ticker": "JBS",
+    "cik": 1791942,
+    "sic_code": 2011,
+    "sic_desc": "Meat Packing Plants",
+    "sector": "Manufacturing",
+    "name": "JBS N.V."
+  },
+  {
+    "ticker": "MINBY",
+    "cik": 1034983,
+    "sic_code": 3670,
+    "sic_desc": "Electronic Components & Accessories",
+    "sector": "Manufacturing",
+    "name": "MINEBEA MITSUMI Inc."
+  },
+  {
+    "ticker": "TOL",
+    "cik": 794170,
+    "sic_code": 1531,
+    "sic_desc": "Operative Builders",
+    "sector": "Construction",
+    "name": "Toll Brothers, Inc."
+  },
+  {
+    "ticker": "ONON",
+    "cik": 1858985,
+    "sic_code": 3021,
+    "sic_desc": "Rubber & Plastics Footwear",
+    "sector": "Manufacturing",
+    "name": "On Holding AG"
+  },
+  {
+    "ticker": "TRMB",
+    "cik": 864749,
+    "sic_code": 3829,
+    "sic_desc": "Measuring & Controlling Devices, NEC",
+    "sector": "Manufacturing",
+    "name": "TRIMBLE INC."
+  },
+  {
+    "ticker": "ALLY",
+    "cik": 40729,
+    "sic_code": 6022,
+    "sic_desc": "State Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Ally Financial Inc."
+  },
+  {
+    "ticker": "WULF",
+    "cik": 1083301,
+    "sic_code": 6199,
+    "sic_desc": "Finance Services",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "TERAWULF INC."
+  },
+  {
+    "ticker": "RGA",
+    "cik": 898174,
+    "sic_code": 6311,
+    "sic_desc": "Life Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "REINSURANCE GROUP OF AMERICA INC"
+  },
+  {
+    "ticker": "AEIS",
+    "cik": 927003,
+    "sic_code": 3679,
+    "sic_desc": "Electronic Components, NEC",
+    "sector": "Manufacturing",
+    "name": "ADVANCED ENERGY INDUSTRIES INC"
+  },
+  {
+    "ticker": "GFL",
+    "cik": 1780232,
+    "sic_code": 4953,
+    "sic_desc": "Refuse Systems",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "GFL Environmental Inc."
+  },
+  {
+    "ticker": "GWRE",
+    "cik": 1528396,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "Guidewire Software, Inc."
+  },
+  {
+    "ticker": "HRL",
+    "cik": 48465,
+    "sic_code": 2011,
+    "sic_desc": "Meat Packing Plants",
+    "sector": "Manufacturing",
+    "name": "HORMEL FOODS CORP /DE/"
+  },
+  {
+    "ticker": "KNX",
+    "cik": 1492691,
+    "sic_code": 4213,
+    "sic_desc": "Trucking (No Local)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Knight-Swift Transportation Holdings Inc."
+  },
+  {
+    "ticker": "TYL",
+    "cik": 860731,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "TYLER TECHNOLOGIES INC"
+  },
+  {
+    "ticker": "SUN",
+    "cik": 1552275,
+    "sic_code": 2911,
+    "sic_desc": "Petroleum Refining",
+    "sector": "Manufacturing",
+    "name": "Sunoco LP"
+  },
+  {
+    "ticker": "EG",
+    "cik": 1095073,
+    "sic_code": 6331,
+    "sic_desc": "Fire, Marine & Casualty Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "EVEREST GROUP, LTD."
+  },
+  {
+    "ticker": "DT",
+    "cik": 1773383,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "Dynatrace, Inc."
+  },
+  {
+    "ticker": "PEN",
+    "cik": 1321732,
+    "sic_code": 3841,
+    "sic_desc": "Surgical & Medical Instruments & Apparatus",
+    "sector": "Manufacturing",
+    "name": "Penumbra Inc"
+  },
+  {
+    "ticker": "DKNG",
+    "cik": 1883685,
+    "sic_code": 7990,
+    "sic_desc": "Services-Miscellaneous Amusement & Recreation",
+    "sector": "Services",
+    "name": "DraftKings Inc."
+  },
+  {
+    "ticker": "APLD",
+    "cik": 1144879,
+    "sic_code": 7374,
+    "sic_desc": "Services-Computer Processing & Data Preparation",
+    "sector": "Services",
+    "name": "Applied Digital Corp."
+  },
+  {
+    "ticker": "AEG",
+    "cik": 769218,
+    "sic_code": 6311,
+    "sic_desc": "Life Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "AEGON LTD."
+  },
+  {
+    "ticker": "SAIA",
+    "cik": 1177702,
+    "sic_code": 4213,
+    "sic_desc": "Trucking (No Local)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "SAIA INC"
+  },
+  {
+    "ticker": "MKC",
+    "cik": 63754,
+    "sic_code": 2090,
+    "sic_desc": "Miscellaneous Food Preparations & Kindred Products",
+    "sector": "Manufacturing",
+    "name": "MCCORMICK & CO INC"
+  },
+  {
+    "ticker": "IVZ",
+    "cik": 914208,
+    "sic_code": 6282,
+    "sic_desc": "Investment Advice",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Invesco Ltd."
+  },
+  {
+    "ticker": "DRS",
+    "cik": 1833756,
+    "sic_code": 3812,
+    "sic_desc": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+    "sector": "Manufacturing",
+    "name": "Leonardo DRS, Inc."
+  },
+  {
+    "ticker": "AIZ",
+    "cik": 1267238,
+    "sic_code": 6399,
+    "sic_desc": "Insurance Carriers, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "ASSURANT, INC."
+  },
+  {
+    "ticker": "IONS",
+    "cik": 874015,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "IONIS PHARMACEUTICALS INC"
+  },
+  {
+    "ticker": "FNF",
+    "cik": 1331875,
+    "sic_code": 6361,
+    "sic_desc": "Title Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Fidelity National Financial, Inc."
+  },
+  {
+    "ticker": "ELS",
+    "cik": 895417,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "EQUITY LIFESTYLE PROPERTIES INC"
+  },
+  {
+    "ticker": "BNT",
+    "cik": 1837429,
+    "sic_code": 6399,
+    "sic_desc": "Insurance Carriers, NEC",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Brookfield Wealth Solutions Ltd."
+  },
+  {
+    "ticker": "ELAN",
+    "cik": 1739104,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "Elanco Animal Health Inc"
+  },
+  {
+    "ticker": "DVA",
+    "cik": 927066,
+    "sic_code": 8090,
+    "sic_desc": "Services-Misc Health & Allied Services, NEC",
+    "sector": "Services",
+    "name": "DAVITA INC."
+  },
+  {
+    "ticker": "GGG",
+    "cik": 42888,
+    "sic_code": 3561,
+    "sic_desc": "Pumps & Pumping Equipment",
+    "sector": "Manufacturing",
+    "name": "GRACO INC"
+  },
+  {
+    "ticker": "SWK",
+    "cik": 93556,
+    "sic_code": 3420,
+    "sic_desc": "Cutlery, Handtools & General Hardware",
+    "sector": "Manufacturing",
+    "name": "STANLEY BLACK & DECKER, INC."
+  },
+  {
+    "ticker": "MGM",
+    "cik": 789570,
+    "sic_code": 7011,
+    "sic_desc": "Hotels & Motels",
+    "sector": "Services",
+    "name": "MGM Resorts International"
+  },
+  {
+    "ticker": "NYT",
+    "cik": 71691,
+    "sic_code": 2711,
+    "sic_desc": "Newspapers: Publishing or  Publishing & Printing",
+    "sector": "Manufacturing",
+    "name": "NEW YORK TIMES CO"
+  },
+  {
+    "ticker": "PNW",
+    "cik": 764622,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "PINNACLE WEST CAPITAL CORP"
+  },
+  {
+    "ticker": "LFUS",
+    "cik": 889331,
+    "sic_code": 3613,
+    "sic_desc": "Switchgear & Switchboard Apparatus",
+    "sector": "Manufacturing",
+    "name": "LITTELFUSE INC /DE"
+  },
+  {
+    "ticker": "COO",
+    "cik": 711404,
+    "sic_code": 3851,
+    "sic_desc": "Ophthalmic Goods",
+    "sector": "Manufacturing",
+    "name": "COOPER COMPANIES, INC."
+  },
+  {
+    "ticker": "PINS",
+    "cik": 1506293,
+    "sic_code": 7370,
+    "sic_desc": "Services-Computer Programming, Data Processing, Etc.",
+    "sector": "Services",
+    "name": "PINTEREST, INC."
+  },
+  {
+    "ticker": "CRBG",
+    "cik": 1889539,
+    "sic_code": 6311,
+    "sic_desc": "Life Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Corebridge Financial, Inc."
+  },
+  {
+    "ticker": "SWKS",
+    "cik": 4127,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "SKYWORKS SOLUTIONS, INC."
+  },
+  {
+    "ticker": "GL",
+    "cik": 320335,
+    "sic_code": 6311,
+    "sic_desc": "Life Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "GLOBE LIFE INC."
+  },
+  {
+    "ticker": "BF-A",
+    "cik": 14693,
+    "sic_code": 2080,
+    "sic_desc": "Beverages",
+    "sector": "Manufacturing",
+    "name": "BROWN FORMAN CORP"
+  },
+  {
+    "ticker": "HBM",
+    "cik": 1322422,
+    "sic_code": 1000,
+    "sic_desc": "Metal Mining",
+    "sector": "Mining",
+    "name": "Hudbay Minerals Inc."
+  },
+  {
+    "ticker": "PSKY",
+    "cik": 2041610,
+    "sic_code": 4833,
+    "sic_desc": "Television Broadcasting Stations",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Paramount Skydance Corp"
+  },
+  {
+    "ticker": "HAS",
+    "cik": 46080,
+    "sic_code": 3944,
+    "sic_desc": "Games, Toys & Children's Vehicles (No Dolls & Bicycles)",
+    "sector": "Manufacturing",
+    "name": "HASBRO, INC."
+  },
+  {
+    "ticker": "ALGN",
+    "cik": 1097149,
+    "sic_code": 3842,
+    "sic_desc": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+    "sector": "Manufacturing",
+    "name": "ALIGN TECHNOLOGY INC"
+  },
+  {
+    "ticker": "FIG",
+    "cik": 1579878,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "Figma, Inc."
+  },
+  {
+    "ticker": "KTOS",
+    "cik": 1069258,
+    "sic_code": 3760,
+    "sic_desc": "Guided Missiles & Space Vehicles & Parts",
+    "sector": "Manufacturing",
+    "name": "KRATOS DEFENSE & SECURITY SOLUTIONS, INC."
+  },
+  {
+    "ticker": "AXSM",
+    "cik": 1579428,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "Axsome Therapeutics, Inc."
+  },
+  {
+    "ticker": "AAON",
+    "cik": 824142,
+    "sic_code": 3585,
+    "sic_desc": "Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip",
+    "sector": "Manufacturing",
+    "name": "AAON, INC."
+  },
+  {
+    "ticker": "RNR",
+    "cik": 913144,
+    "sic_code": 6331,
+    "sic_desc": "Fire, Marine & Casualty Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "RENAISSANCERE HOLDINGS LTD"
+  },
+  {
+    "ticker": "AGNC",
+    "cik": 1423689,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "AGNC Investment Corp."
+  },
+  {
+    "ticker": "SPXC",
+    "cik": 88205,
+    "sic_code": 3540,
+    "sic_desc": "Metalworkg Machinery & Equipment",
+    "sector": "Manufacturing",
+    "name": "SPX Technologies, Inc."
+  },
+  {
+    "ticker": "WBS",
+    "cik": 801337,
+    "sic_code": 6021,
+    "sic_desc": "National Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "WEBSTER FINANCIAL CORP"
+  },
+  {
+    "ticker": "FMS",
+    "cik": 1333141,
+    "sic_code": 8090,
+    "sic_desc": "Services-Misc Health & Allied Services, NEC",
+    "sector": "Services",
+    "name": "Fresenius Medical Care AG"
+  },
+  {
+    "ticker": "PNR",
+    "cik": 77360,
+    "sic_code": 3550,
+    "sic_desc": "Special Industry Machinery (No Metalworking Machinery)",
+    "sector": "Manufacturing",
+    "name": "PENTAIR plc"
+  },
+  {
+    "ticker": "QXO",
+    "cik": 1236275,
+    "sic_code": 5030,
+    "sic_desc": "Wholesale-Lumber & Other Construction Materials",
+    "sector": "WholesaleTrade",
+    "name": "QXO, Inc."
+  },
+  {
+    "ticker": "MOG-A",
+    "cik": 67887,
+    "sic_code": 3590,
+    "sic_desc": "Misc Industrial & Commercial Machinery & Equipment",
+    "sector": "Manufacturing",
+    "name": "MOOG INC."
+  },
+  {
+    "ticker": "AVY",
+    "cik": 8818,
+    "sic_code": 2670,
+    "sic_desc": "Converted Paper & Paperboard Prods (No Contaners/Boxes)",
+    "sector": "Manufacturing",
+    "name": "Avery Dennison Corp"
+  },
+  {
+    "ticker": "CONE",
+    "cik": 2103884,
+    "sic_code": 6022,
+    "sic_desc": "State Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Compass Sub North, Inc."
+  },
+  {
+    "ticker": "ICLR",
+    "cik": 1060955,
+    "sic_code": 8731,
+    "sic_desc": "Services-Commercial Physical & Biological Research",
+    "sector": "Services",
+    "name": "ICON PLC"
+  },
+  {
+    "ticker": "ZBRA",
+    "cik": 877212,
+    "sic_code": 3560,
+    "sic_desc": "General Industrial Machinery & Equipment",
+    "sector": "Manufacturing",
+    "name": "ZEBRA TECHNOLOGIES CORP"
+  },
+  {
+    "ticker": "CACI",
+    "cik": 16058,
+    "sic_code": 7373,
+    "sic_desc": "Services-Computer Integrated Systems Design",
+    "sector": "Services",
+    "name": "CACI INTERNATIONAL INC /DE/"
+  },
+  {
+    "ticker": "MP",
+    "cik": 1801368,
+    "sic_code": 1000,
+    "sic_desc": "Metal Mining",
+    "sector": "Mining",
+    "name": "MP Materials Corp. / DE"
+  },
+  {
+    "ticker": "AIT",
+    "cik": 109563,
+    "sic_code": 5080,
+    "sic_desc": "Wholesale-Machinery, Equipment & Supplies",
+    "sector": "WholesaleTrade",
+    "name": "APPLIED INDUSTRIAL TECHNOLOGIES INC"
+  },
+  {
+    "ticker": "HII",
+    "cik": 1501585,
+    "sic_code": 3730,
+    "sic_desc": "Ship & Boat Building & Repairing",
+    "sector": "Manufacturing",
+    "name": "HUNTINGTON INGALLS INDUSTRIES, INC."
+  },
+  {
+    "ticker": "ARW",
+    "cik": 7536,
+    "sic_code": 5065,
+    "sic_desc": "Wholesale-Electronic Parts & Equipment, NEC",
+    "sector": "WholesaleTrade",
+    "name": "ARROW ELECTRONICS, INC."
+  },
+  {
+    "ticker": "SMMT",
+    "cik": 1599298,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "Summit Therapeutics Inc."
+  },
+  {
+    "ticker": "FHN",
+    "cik": 36966,
+    "sic_code": 6021,
+    "sic_desc": "National Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "FIRST HORIZON CORP"
+  },
+  {
+    "ticker": "AR",
+    "cik": 1433270,
+    "sic_code": 1311,
+    "sic_desc": "Crude Petroleum & Natural Gas",
+    "sector": "Mining",
+    "name": "ANTERO RESOURCES Corp"
+  },
+  {
+    "ticker": "ERIE",
+    "cik": 922621,
+    "sic_code": 6411,
+    "sic_desc": "Insurance Agents, Brokers & Service",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "ERIE INDEMNITY CO"
+  },
+  {
+    "ticker": "BLD",
+    "cik": 1633931,
+    "sic_code": 1700,
+    "sic_desc": "Construction - Special Trade Contractors",
+    "sector": "Construction",
+    "name": "TopBuild Corp"
+  },
+  {
+    "ticker": "FRVO",
+    "cik": 1853868,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Fervo Energy Co"
+  },
+  {
+    "ticker": "RVTY",
+    "cik": 31791,
+    "sic_code": 3826,
+    "sic_desc": "Laboratory Analytical Instruments",
+    "sector": "Manufacturing",
+    "name": "REVVITY, INC."
+  },
+  {
+    "ticker": "OKLO",
+    "cik": 1849056,
+    "sic_code": 4911,
+    "sic_desc": "Electric Services",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Oklo Inc."
+  },
+  {
+    "ticker": "CNA",
+    "cik": 21175,
+    "sic_code": 6331,
+    "sic_desc": "Fire, Marine & Casualty Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "CNA FINANCIAL CORP"
+  },
+  {
+    "ticker": "MDGL",
+    "cik": 1157601,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "MADRIGAL PHARMACEUTICALS, INC."
+  },
+  {
+    "ticker": "EQH",
+    "cik": 1333986,
+    "sic_code": 6411,
+    "sic_desc": "Insurance Agents, Brokers & Service",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Equitable Holdings, Inc."
+  },
+  {
+    "ticker": "BJ",
+    "cik": 1531152,
+    "sic_code": 5331,
+    "sic_desc": "Retail-Variety Stores",
+    "sector": "RetailTrade",
+    "name": "BJ's Wholesale Club Holdings, Inc."
+  },
+  {
+    "ticker": "COKE",
+    "cik": 317540,
+    "sic_code": 2086,
+    "sic_desc": "Bottled & Canned Soft Drinks & Carbonated Waters",
+    "sector": "Manufacturing",
+    "name": "Coca-Cola Consolidated, Inc."
+  },
+  {
+    "ticker": "HL",
+    "cik": 719413,
+    "sic_code": 1400,
+    "sic_desc": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+    "sector": "Mining",
+    "name": "HECLA MINING CO/DE/"
+  },
+  {
+    "ticker": "JEF",
+    "cik": 96223,
+    "sic_code": 6211,
+    "sic_desc": "Security Brokers, Dealers & Flotation Companies",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Jefferies Financial Group Inc."
+  },
+  {
+    "ticker": "PAG",
+    "cik": 1019849,
+    "sic_code": 5500,
+    "sic_desc": "Retail-Auto Dealers & Gasoline Stations",
+    "sector": "RetailTrade",
+    "name": "PENSKE AUTOMOTIVE GROUP, INC."
+  },
+  {
+    "ticker": "HUBS",
+    "cik": 1404655,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "HUBSPOT INC"
+  },
+  {
+    "ticker": "GDDY",
+    "cik": 1609711,
+    "sic_code": 7373,
+    "sic_desc": "Services-Computer Integrated Systems Design",
+    "sector": "Services",
+    "name": "GoDaddy Inc."
+  },
+  {
+    "ticker": "AKZOY",
+    "cik": 3124,
+    "sic_code": 2800,
+    "sic_desc": "Chemicals & Allied Products",
+    "sector": "Manufacturing",
+    "name": "AKZO NOBEL NV"
+  },
+  {
+    "ticker": "ALLE",
+    "cik": 1579241,
+    "sic_code": 7381,
+    "sic_desc": "Services-Detective, Guard & Armored Car Services",
+    "sector": "Services",
+    "name": "Allegion plc"
+  },
+  {
+    "ticker": "BTSG",
+    "cik": 1865782,
+    "sic_code": 8082,
+    "sic_desc": "Services-Home Health Care Services",
+    "sector": "Services",
+    "name": "BrightSpring Health Services, Inc."
+  },
+  {
+    "ticker": "CPT",
+    "cik": 906345,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "CAMDEN PROPERTY TRUST"
+  },
+  {
+    "ticker": "GLXY",
+    "cik": 1859392,
+    "sic_code": 6211,
+    "sic_desc": "Security Brokers, Dealers & Flotation Companies",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Galaxy Digital Inc."
+  },
+  {
+    "ticker": "VIRT",
+    "cik": 1592386,
+    "sic_code": 6211,
+    "sic_desc": "Security Brokers, Dealers & Flotation Companies",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Virtu Financial, Inc."
+  },
+  {
+    "ticker": "WSE",
+    "cik": 2099039,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "Wise Group plc"
+  },
+  {
+    "ticker": "BXP",
+    "cik": 1037540,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "BXP, Inc."
+  },
+  {
+    "ticker": "IT",
+    "cik": 749251,
+    "sic_code": 8741,
+    "sic_desc": "Services-Management Services",
+    "sector": "Services",
+    "name": "GARTNER INC"
+  },
+  {
+    "ticker": "RDY",
+    "cik": 1135951,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "DR REDDYS LABORATORIES LTD"
+  },
+  {
+    "ticker": "RGC",
+    "cik": 1829667,
+    "sic_code": 2833,
+    "sic_desc": "Medicinal Chemicals & Botanical Products",
+    "sector": "Manufacturing",
+    "name": "Regencell Bioscience Holdings Ltd"
+  },
+  {
+    "ticker": "SF",
+    "cik": 720672,
+    "sic_code": 6211,
+    "sic_desc": "Security Brokers, Dealers & Flotation Companies",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "STIFEL FINANCIAL CORP"
+  },
+  {
+    "ticker": "JOBY",
+    "cik": 1819848,
+    "sic_code": 3721,
+    "sic_desc": "Aircraft",
+    "sector": "Manufacturing",
+    "name": "Joby Aviation, Inc."
+  },
+  {
+    "ticker": "POWL",
+    "cik": 80420,
+    "sic_code": 3613,
+    "sic_desc": "Switchgear & Switchboard Apparatus",
+    "sector": "Manufacturing",
+    "name": "POWELL INDUSTRIES INC"
+  },
+  {
+    "ticker": "BMRN",
+    "cik": 1048477,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "BIOMARIN PHARMACEUTICAL INC"
+  },
+  {
+    "ticker": "HMY",
+    "cik": 1023514,
+    "sic_code": 1040,
+    "sic_desc": "Gold and Silver Ores",
+    "sector": "Mining",
+    "name": "HARMONY GOLD MINING CO LTD"
+  },
+  {
+    "ticker": "WLK",
+    "cik": 1262823,
+    "sic_code": 2860,
+    "sic_desc": "Industrial Organic Chemicals",
+    "sector": "Manufacturing",
+    "name": "WESTLAKE CORP"
+  },
+  {
+    "ticker": "CR",
+    "cik": 1944013,
+    "sic_code": 3490,
+    "sic_desc": "Miscellaneous Fabricated Metal Products",
+    "sector": "Manufacturing",
+    "name": "Crane Co"
+  },
+  {
+    "ticker": "GMED",
+    "cik": 1237831,
+    "sic_code": 3841,
+    "sic_desc": "Surgical & Medical Instruments & Apparatus",
+    "sector": "Manufacturing",
+    "name": "GLOBUS MEDICAL INC"
+  },
+  {
+    "ticker": "LINE",
+    "cik": 1868159,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Lineage, Inc."
+  },
+  {
+    "ticker": "CLX",
+    "cik": 21076,
+    "sic_code": 2842,
+    "sic_desc": "Specialty Cleaning, Polishing and Sanitation Preparations",
+    "sector": "Manufacturing",
+    "name": "CLOROX CO /DE/"
+  },
+  {
+    "ticker": "SJM",
+    "cik": 91419,
+    "sic_code": 2033,
+    "sic_desc": "Canned, Fruits, Veg, Preserves, Jams & Jellies",
+    "sector": "Manufacturing",
+    "name": "J M SMUCKER Co"
+  },
+  {
+    "ticker": "CGNX",
+    "cik": 851205,
+    "sic_code": 3823,
+    "sic_desc": "Industrial Instruments For Measurement, Display, and Control",
+    "sector": "Manufacturing",
+    "name": "COGNEX CORP"
+  },
+  {
+    "ticker": "WYNN",
+    "cik": 1174922,
+    "sic_code": 7011,
+    "sic_desc": "Hotels & Motels",
+    "sector": "Services",
+    "name": "WYNN RESORTS LTD"
+  },
+  {
+    "ticker": "UHAL",
+    "cik": 4457,
+    "sic_code": 7510,
+    "sic_desc": "Services-Auto Rental & Leasing (No Drivers)",
+    "sector": "Services",
+    "name": "U-Haul Holding Co /NV/"
+  },
+  {
+    "ticker": "GIL",
+    "cik": 1061894,
+    "sic_code": 2300,
+    "sic_desc": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
+    "sector": "Manufacturing",
+    "name": "Gildan Activewear Inc."
+  },
+  {
+    "ticker": "EGP",
+    "cik": 49600,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "EASTGROUP PROPERTIES INC"
+  },
+  {
+    "ticker": "AFG",
+    "cik": 1042046,
+    "sic_code": 6331,
+    "sic_desc": "Fire, Marine & Casualty Insurance",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "AMERICAN FINANCIAL GROUP INC"
+  },
+  {
+    "ticker": "PAYP",
+    "cik": 2080845,
+    "sic_code": 7389,
+    "sic_desc": "Services-Business Services, NEC",
+    "sector": "Services",
+    "name": "PayPay Corp"
+  },
+  {
+    "ticker": "SEIC",
+    "cik": 350894,
+    "sic_code": 6211,
+    "sic_desc": "Security Brokers, Dealers & Flotation Companies",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "SEI INVESTMENTS CO"
+  },
+  {
+    "ticker": "GSAT",
+    "cik": 1366868,
+    "sic_code": 4899,
+    "sic_desc": "Communications Services, NEC",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Globalstar, Inc."
+  },
+  {
+    "ticker": "ARWR",
+    "cik": 879407,
+    "sic_code": 2834,
+    "sic_desc": "Pharmaceutical Preparations",
+    "sector": "Manufacturing",
+    "name": "ARROWHEAD PHARMACEUTICALS, INC."
+  },
+  {
+    "ticker": "FIVE",
+    "cik": 1177609,
+    "sic_code": 5331,
+    "sic_desc": "Retail-Variety Stores",
+    "sector": "RetailTrade",
+    "name": "FIVE BELOW, INC"
+  },
+  {
+    "ticker": "TXRH",
+    "cik": 1289460,
+    "sic_code": 5812,
+    "sic_desc": "Retail-Eating  Places",
+    "sector": "RetailTrade",
+    "name": "Texas Roadhouse, Inc."
+  },
+  {
+    "ticker": "VMI",
+    "cik": 102729,
+    "sic_code": 3440,
+    "sic_desc": "Fabricated Structural Metal Products",
+    "sector": "Manufacturing",
+    "name": "VALMONT INDUSTRIES INC"
+  },
+  {
+    "ticker": "SAIL",
+    "cik": 2030781,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "SailPoint, Inc."
+  },
+  {
+    "ticker": "WTS",
+    "cik": 795403,
+    "sic_code": 3490,
+    "sic_desc": "Miscellaneous Fabricated Metal Products",
+    "sector": "Manufacturing",
+    "name": "WATTS WATER TECHNOLOGIES INC"
+  },
+  {
+    "ticker": "BZLFY",
+    "cik": 1072397,
+    "sic_code": 5141,
+    "sic_desc": "Wholesale-Groceries, General Line",
+    "sector": "WholesaleTrade",
+    "name": "BUNZL PLC"
+  },
+  {
+    "ticker": "FRT",
+    "cik": 34903,
+    "sic_code": 6798,
+    "sic_desc": "Real Estate Investment Trusts",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "FEDERAL REALTY INVESTMENT TRUST"
+  },
+  {
+    "ticker": "AES",
+    "cik": 874761,
+    "sic_code": 4991,
+    "sic_desc": "Cogeneration Services & Small Power Producers",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "AES CORP"
+  },
+  {
+    "ticker": "TIMB",
+    "cik": 1826168,
+    "sic_code": 4813,
+    "sic_desc": "Telephone Communications (No Radiotelephone)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "TIM S.A."
+  },
+  {
+    "ticker": "MICC",
+    "cik": 2071668,
+    "sic_code": 2024,
+    "sic_desc": "Ice Cream & Frozen Desserts",
+    "sector": "Manufacturing",
+    "name": "Magnum Ice Cream Co N.V."
+  },
+  {
+    "ticker": "FROG",
+    "cik": 1800667,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "JFrog Ltd"
+  },
+  {
+    "ticker": "CIFR",
+    "cik": 1819989,
+    "sic_code": 6199,
+    "sic_desc": "Finance Services",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Cipher Digital Inc."
+  },
+  {
+    "ticker": "WTRG",
+    "cik": 78128,
+    "sic_code": 4941,
+    "sic_desc": "Water Supply",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Essential Utilities, Inc."
+  },
+  {
+    "ticker": "CCK",
+    "cik": 1219601,
+    "sic_code": 3411,
+    "sic_desc": "Metal Cans",
+    "sector": "Manufacturing",
+    "name": "CROWN HOLDINGS, INC."
+  },
+  {
+    "ticker": "SFD",
+    "cik": 91388,
+    "sic_code": 2011,
+    "sic_desc": "Meat Packing Plants",
+    "sector": "Manufacturing",
+    "name": "SMITHFIELD FOODS INC"
+  },
+  {
+    "ticker": "RIOT",
+    "cik": 1167419,
+    "sic_code": 6199,
+    "sic_desc": "Finance Services",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "Riot Platforms, Inc."
+  },
+  {
+    "ticker": "AVAV",
+    "cik": 1368622,
+    "sic_code": 3721,
+    "sic_desc": "Aircraft",
+    "sector": "Manufacturing",
+    "name": "AeroVironment Inc"
+  },
+  {
+    "ticker": "WTFC",
+    "cik": 1015328,
+    "sic_code": 6022,
+    "sic_desc": "State Commercial Banks",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "WINTRUST FINANCIAL CORP"
+  },
+  {
+    "ticker": "R",
+    "cik": 85961,
+    "sic_code": 7510,
+    "sic_desc": "Services-Auto Rental & Leasing (No Drivers)",
+    "sector": "Services",
+    "name": "RYDER SYSTEM INC"
+  },
+  {
+    "ticker": "QBTS",
+    "cik": 1907982,
+    "sic_code": 7374,
+    "sic_desc": "Services-Computer Processing & Data Preparation",
+    "sector": "Services",
+    "name": "D-Wave Quantum Inc."
+  },
+  {
+    "ticker": "ESI",
+    "cik": 1590714,
+    "sic_code": 2890,
+    "sic_desc": "Miscellaneous Chemical Products",
+    "sector": "Manufacturing",
+    "name": "Element Solutions Inc"
+  },
+  {
+    "ticker": "DPZ",
+    "cik": 1286681,
+    "sic_code": 5140,
+    "sic_desc": "Wholesale-Groceries & Related Products",
+    "sector": "WholesaleTrade",
+    "name": "DOMINOS PIZZA INC"
+  },
+  {
+    "ticker": "AM",
+    "cik": 1623925,
+    "sic_code": 4922,
+    "sic_desc": "Natural Gas Transmission",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Antero Midstream Corp"
+  },
+  {
+    "ticker": "LUMN",
+    "cik": 18926,
+    "sic_code": 4813,
+    "sic_desc": "Telephone Communications (No Radiotelephone)",
+    "sector": "TransportationCommunicationsUtilities",
+    "name": "Lumen Technologies, Inc."
+  },
+  {
+    "ticker": "CNM",
+    "cik": 1856525,
+    "sic_code": 5099,
+    "sic_desc": "Wholesale-Durable Goods, NEC",
+    "sector": "WholesaleTrade",
+    "name": "Core & Main, Inc."
+  },
+  {
+    "ticker": "BMNR",
+    "cik": 1829311,
+    "sic_code": 6199,
+    "sic_desc": "Finance Services",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "BITMINE IMMERSION TECHNOLOGIES, INC."
+  },
+  {
+    "ticker": "PODD",
+    "cik": 1145197,
+    "sic_code": 3841,
+    "sic_desc": "Surgical & Medical Instruments & Apparatus",
+    "sector": "Manufacturing",
+    "name": "INSULET CORP"
+  },
+  {
+    "ticker": "BSY",
+    "cik": 1031308,
+    "sic_code": 7372,
+    "sic_desc": "Services-Prepackaged Software",
+    "sector": "Services",
+    "name": "BENTLEY SYSTEMS INC"
+  },
+  {
+    "ticker": "SNAP",
+    "cik": 1564408,
+    "sic_code": 7370,
+    "sic_desc": "Services-Computer Programming, Data Processing, Etc.",
+    "sector": "Services",
+    "name": "Snap Inc"
+  },
+  {
+    "ticker": "WMS",
+    "cik": 1604028,
+    "sic_code": 3086,
+    "sic_desc": "Plastics Foam Products",
+    "sector": "Manufacturing",
+    "name": "ADVANCED DRAINAGE SYSTEMS, INC."
+  },
+  {
+    "ticker": "MOH",
+    "cik": 1179929,
+    "sic_code": 6324,
+    "sic_desc": "Hospital & Medical Service Plans",
+    "sector": "FinanceInsuranceRealEstate",
+    "name": "MOLINA HEALTHCARE, INC."
+  },
+  {
+    "ticker": "ALGM",
+    "cik": 866291,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "ALLEGRO MICROSYSTEMS, INC."
+  },
+  {
+    "ticker": "EMBJ",
+    "cik": 1355444,
+    "sic_code": 3721,
+    "sic_desc": "Aircraft",
+    "sector": "Manufacturing",
+    "name": "EMBRAER S.A."
+  },
+  {
+    "ticker": "GME",
+    "cik": 1326380,
+    "sic_code": 5734,
+    "sic_desc": "Retail-Computer & Computer Software Stores",
+    "sector": "RetailTrade",
+    "name": "GameStop Corp."
+  },
+  {
+    "ticker": "SIMO",
+    "cik": 1329394,
+    "sic_code": 3674,
+    "sic_desc": "Semiconductors & Related Devices",
+    "sector": "Manufacturing",
+    "name": "Silicon Motion Technology CORP"
+  },
+  {
+    "ticker": "MUSA",
+    "cik": 1573516,
+    "sic_code": 5500,
+    "sic_desc": "Retail-Auto Dealers & Gasoline Stations",
+    "sector": "RetailTrade",
+    "name": "Murphy USA Inc."
+  },
+  {
+    "ticker": "BAX",
+    "cik": 10456,
+    "sic_code": 3841,
+    "sic_desc": "Surgical & Medical Instruments & Apparatus",
+    "sector": "Manufacturing",
+    "name": "BAXTER INTERNATIONAL INC"
+  }
+]

@@ -1,0 +1,28 @@
+[package]
+name = "sectorkit"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+repository.workspace = true
+description = "SEC EDGAR SIC industry/sector taxonomy per ticker for Rust -- companion to indexkit"
+keywords = ["sec", "edgar", "sic", "sector", "taxonomy"]
+categories = ["finance", "api-bindings"]
+
+[dependencies]
+anyhow.workspace = true
+thiserror.workspace = true
+tokio.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+tracing.workspace = true
+chrono.workspace = true
+reqwest.workspace = true
+bytes.workspace = true
+futures.workspace = true
+arrow.workspace = true
+parquet.workspace = true
+
+[dev-dependencies]
+tokio = { version = "1.52.1", features = ["full", "test-util"] }
+tempfile = "3.27.0"
