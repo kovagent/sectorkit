@@ -28,7 +28,7 @@ use std::time::Duration;
 /// example follows the bare `<name> <email>` form -- richer User-Agent
 /// strings with URLs and parentheses are rejected with HTTP 403.
 /// Overridable via the `SECTORKIT_SEC_USER_AGENT` environment variable.
-pub const DEFAULT_USER_AGENT: &str = "sectorkit frederic.miesegaes@gmail.com";
+pub const DEFAULT_USER_AGENT: &str = "sectorkit email@email.com";
 
 /// Resolve the User-Agent to send, preferring the env override when set.
 pub fn resolve_user_agent() -> String {
