@@ -15,7 +15,7 @@ jobs:
     permissions:
       contents: write
     env:
-      SECTORKIT_SEC_USER_AGENT: "sectorkit (https://github.com/userFRM/sectorkit; ${{ secrets.CONTACT_EMAIL || 'frederic.miesegaes@gmail.com' }})"
+      SECTORKIT_SEC_USER_AGENT: "sectorkit (https://github.com/userFRM/sectorkit; ${{ secrets.CONTACT_EMAIL || 'email@email.com' }})"
       RUST_LOG: info
     steps:
       - uses: actions/checkout@v4
