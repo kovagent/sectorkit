@@ -15,7 +15,9 @@ jobs:
     permissions:
       contents: write
     env:
-      SECTORKIT_SEC_USER_AGENT: "sectorkit (https://github.com/userFRM/sectorkit; ${{ secrets.CONTACT_EMAIL || 'email@email.com' }})"
+      # SEC's WAF rejects a parenthetical / URL-bearing User-Agent with a
+      # 403; it accepts only the documented bare `<name> <email>` form.
+      SECTORKIT_SEC_USER_AGENT: "sectorkit ${{ secrets.CONTACT_EMAIL || 'email@email.com' }}"
       RUST_LOG: info
     steps:
       - uses: actions/checkout@v4
