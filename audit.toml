@@ -2,9 +2,38 @@
 # Single source of truth for `cargo audit`; keep IN SYNC with deny.toml.
 
 [advisories]
+# Keep IN SYNC with deny.toml.
 ignore = [
-    # `paste` (RUSTSEC-2024-0436) — archived/unmaintained, no CVE, compile-time
-    # proc-macro only. Pulled in transitively by `parquet`, gated behind the
-    # default-on `parquet-loader` feature. Disable the feature to drop it.
+    # paste 1.0.15 — RUSTSEC-2024-0436, unmaintained (no CVE; the crate is
+    # feature-complete and the author archived it).
+    #
+    # Reachability: `paste` reaches this kit ONLY as a transitive proc-macro
+    # of `parquet`, which the kit uses to read its bundled vendor data.
+    # parquet is an unconditional dependency of this crate. No first-party
+    # code in this kit uses paste.
+    #
+    # Release-gate condition: remove this ignore when apache/arrow-rs drops the
+    # paste dependency from parquet, or by the review date below, whichever
+    # comes first.
+    # Tracking: apache/arrow-rs (drop paste dep, long-term).
+    # Review date: 2026-11-30.
     "RUSTSEC-2024-0436",
+
+    # thrift 0.17.0 — GHSA-2f9f-gq7v-9h6m, Apache Thrift memory-allocation
+    # with-excessive-size-value vulnerability. No fixed thrift crate has been
+    # published upstream as of the review date, so there is no version to
+    # upgrade to.
+    #
+    # Reachability: `thrift` ships inside the `parquet` metadata decoder on the
+    # same edge as paste above. The kit hits Apache Thrift only via parquet's
+    # internal metadata path on a successful read of bundled vendor data; the
+    # vulnerable unbounded-deserialisation path is not exercised on the kit's
+    # API surface.
+    #
+    # Release-gate condition: remove this ignore when Apache publishes a fixed
+    # thrift crate (and parquet rebumps), or by the review date, whichever
+    # comes first.
+    # Tracking: apache/thrift, apache/arrow-rs.
+    # Review date: 2026-11-30.
+    "GHSA-2f9f-gq7v-9h6m",
 ]
