@@ -10,7 +10,7 @@ members = [
 version = "0.1.0"
 edition = "2021"
 authors = ["userFRM"]
-license = "Apache-2.0"
+license = "MIT OR Apache-2.0"
 repository = "https://github.com/userFRM/sectorkit"
 documentation = "https://docs.rs/sectorkit"
 

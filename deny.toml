@@ -1,0 +1,47 @@
+# cargo-deny configuration for sectorkit.
+# https://embarkstudios.github.io/cargo-deny/
+
+[graph]
+all-features = false
+no-default-features = false
+
+[output]
+feature-depth = 1
+
+[advisories]
+db-path = "$CARGO_HOME/advisory-db"
+db-urls = ["https://github.com/rustsec/advisory-db"]
+yanked = "warn"
+# Keep IN SYNC with audit.toml.
+ignore = [
+    # `paste` is archived but pulled in transitively by `parquet`, which is
+    # gated behind the default-on `parquet-loader` feature. It is a
+    # compile-time proc-macro with no runtime surface and no CVE. Consumers
+    # can disable `parquet-loader` to drop it entirely. Revisit when upstream
+    # `parquet` drops `paste`.
+    "RUSTSEC-2024-0436",
+]
+
+[licenses]
+allow = [
+    "Apache-2.0",
+    "MIT",
+    "BSD-2-Clause",
+    "BSD-3-Clause",
+    "ISC",
+    "Unicode-3.0",
+    "MPL-2.0",
+    "CC0-1.0",
+    "CDLA-Permissive-2.0",
+]
+confidence-threshold = 0.93
+
+[bans]
+multiple-versions = "warn"
+wildcards = "deny"
+highlight = "all"
+
+[sources]
+unknown-registry = "deny"
+unknown-git = "deny"
+allow-registry = ["https://github.com/rust-lang/crates.io-index"]

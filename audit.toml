@@ -1,0 +1,10 @@
+# cargo-audit advisory exceptions for sectorkit.
+# Single source of truth for `cargo audit`; keep IN SYNC with deny.toml.
+
+[advisories]
+ignore = [
+    # `paste` (RUSTSEC-2024-0436) — archived/unmaintained, no CVE, compile-time
+    # proc-macro only. Pulled in transitively by `parquet`, gated behind the
+    # default-on `parquet-loader` feature. Disable the feature to drop it.
+    "RUSTSEC-2024-0436",
+]
