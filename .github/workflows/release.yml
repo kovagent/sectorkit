@@ -1,5 +1,7 @@
 name: Release
-on: { push: { tags: ["v[0-9]*"] } }
+on:
+  push:
+    tags: ["v[0-9]*"]
 jobs:
   release:
     uses: userFRM/kit-ci/.github/workflows/release.yml@28fc202d7ddafe5c5ee6886da01027f8342d3673
