@@ -2,6 +2,6 @@ name: Release
 on: { push: { tags: ["v[0-9]*"] } }
 jobs:
   release:
-    uses: userFRM/kit-ci/.github/workflows/release.yml@main
+    uses: userFRM/kit-ci/.github/workflows/release.yml@293185873c44fb33090f5e1257ab4e000fe71f92
     with: { crates: "sectorkit sectorkit-cli" }
     secrets: { CARGO_REGISTRY_TOKEN: ${{ secrets.CARGO_REGISTRY_TOKEN }} }

@@ -10,7 +10,7 @@ sectorkit = "0.1"
 tokio = { version = "1", features = ["full"] }
 ```
 
-Until it is published to crates.io, depend on the repository directly:
+To track unreleased changes, depend on the repository directly:
 
 ```toml
 sectorkit = { git = "https://github.com/userFRM/sectorkit" }

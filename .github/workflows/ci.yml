@@ -4,4 +4,4 @@ on:
   pull_request: { branches: [main] }
 jobs:
   ci:
-    uses: userFRM/kit-ci/.github/workflows/ci.yml@main
+    uses: userFRM/kit-ci/.github/workflows/ci.yml@293185873c44fb33090f5e1257ab4e000fe71f92
