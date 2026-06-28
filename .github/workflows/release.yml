@@ -5,5 +5,7 @@ on:
 jobs:
   release:
     uses: userFRM/kit-ci/.github/workflows/release.yml@28fc202d7ddafe5c5ee6886da01027f8342d3673
-    with: { crates: "sectorkit sectorkit-cli" }
-    secrets: { CARGO_REGISTRY_TOKEN: ${{ secrets.CARGO_REGISTRY_TOKEN }} }
+    with:
+      crates: "sectorkit sectorkit-cli"
+    secrets:
+      CARGO_REGISTRY_TOKEN: ${{ secrets.CARGO_REGISTRY_TOKEN }}
