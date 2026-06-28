@@ -1,0 +1,14 @@
+# Shared lint settings for the *kit data libraries.
+#
+# Fetcher state machines branch across retry, CDN mirror, stale-cache
+# fallback and staleness-ceiling overrides in one function, so the
+# cognitive-complexity ceiling is lifted from the default.
+cognitive-complexity-threshold = 30
+too-many-arguments-threshold = 8
+type-complexity-threshold = 250
+
+# Production code is held to the deny-level rule; tests may unwrap/expect/print.
+allow-unwrap-in-tests = true
+allow-expect-in-tests = true
+allow-panic-in-tests = true
+allow-print-in-tests = true

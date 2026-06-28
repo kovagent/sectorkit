@@ -200,8 +200,8 @@ pub struct SubmissionsRow {
 
 /// Hydrate the full universe by walking submissions for every ticker.
 ///
-/// Throttles to [`SUBMISSIONS_CONCURRENCY`] in-flight requests AND inserts
-/// a [`REQUEST_DELAY`] gap between dispatches to stay under the SEC's
+/// Throttles to `SUBMISSIONS_CONCURRENCY` in-flight requests AND inserts
+/// a `REQUEST_DELAY` gap between dispatches to stay under the SEC's
 /// published 10 req/s ceiling. Returns the successfully-resolved rows;
 /// failures are logged via `tracing::warn` and dropped (a single missing
 /// CIK does not abort the run).

@@ -44,7 +44,7 @@
 //! # Quick start
 //!
 //! ```no_run
-//! use sectorkit::{SectorTaxonomyCache, SnapshotSource, SecSector};
+//! use sectorkit::{SectorTaxonomyCache, SnapshotSource};
 //!
 //! # async fn run() -> sectorkit::Result<()> {
 //! let cache = SectorTaxonomyCache::hydrate(SnapshotSource::LatestFromRepo).await?;
@@ -52,9 +52,6 @@
 //! if let Some(row) = cache.resolve_ticker("AAPL") {
 //!     println!("{} -> SIC {} ({}) -> {}", row.ticker, row.sic_code, row.sic_desc, row.sector);
 //! }
-//!
-//! let banks = cache.resolve_sector(SecSector::FinanceInsuranceRealEstate);
-//! println!("{} financials tracked", banks.len());
 //! # Ok(())
 //! # }
 //! ```

@@ -1,0 +1,73 @@
+# cargo-deny configuration for sectorkit.
+# https://embarkstudios.github.io/cargo-deny/
+
+[graph]
+all-features = false
+no-default-features = false
+
+[output]
+feature-depth = 1
+
+[advisories]
+db-path = "$CARGO_HOME/advisory-db"
+db-urls = ["https://github.com/rustsec/advisory-db"]
+yanked = "warn"
+# Keep IN SYNC with audit.toml.
+ignore = [
+    # paste 1.0.15 — RUSTSEC-2024-0436, unmaintained (no CVE; the crate is
+    # feature-complete and the author archived it).
+    #
+    # Reachability: `paste` reaches this kit ONLY as a transitive proc-macro
+    # of `parquet`, which the kit uses to read its bundled vendor data.
+    # parquet is an unconditional dependency of this crate. No first-party
+    # code in this kit uses paste.
+    #
+    # Release-gate condition: remove this ignore when apache/arrow-rs drops the
+    # paste dependency from parquet, or by the review date below, whichever
+    # comes first.
+    # Tracking: apache/arrow-rs (drop paste dep, long-term).
+    # Review date: 2026-11-30.
+    "RUSTSEC-2024-0436",
+
+    # thrift 0.17.0 — GHSA-2f9f-gq7v-9h6m, Apache Thrift memory-allocation
+    # with-excessive-size-value vulnerability. No fixed thrift crate has been
+    # published upstream as of the review date, so there is no version to
+    # upgrade to.
+    #
+    # Reachability: `thrift` ships inside the `parquet` metadata decoder on the
+    # same edge as paste above. The kit hits Apache Thrift only via parquet's
+    # internal metadata path on a successful read of bundled vendor data; the
+    # vulnerable unbounded-deserialisation path is not exercised on the kit's
+    # API surface.
+    #
+    # Release-gate condition: remove this ignore when Apache publishes a fixed
+    # thrift crate (and parquet rebumps), or by the review date, whichever
+    # comes first.
+    # Tracking: apache/thrift, apache/arrow-rs.
+    # Review date: 2026-11-30.
+    "GHSA-2f9f-gq7v-9h6m",
+]
+
+[licenses]
+allow = [
+    "Apache-2.0",
+    "MIT",
+    "BSD-2-Clause",
+    "BSD-3-Clause",
+    "ISC",
+    "Unicode-3.0",
+    "MPL-2.0",
+    "CC0-1.0",
+    "CDLA-Permissive-2.0",
+]
+confidence-threshold = 0.93
+
+[bans]
+multiple-versions = "warn"
+wildcards = "deny"
+highlight = "all"
+
+[sources]
+unknown-registry = "deny"
+unknown-git = "deny"
+allow-registry = ["https://github.com/rust-lang/crates.io-index"]

@@ -8,6 +8,8 @@ repository.workspace = true
 description = "SEC EDGAR SIC industry/sector taxonomy per ticker for Rust -- companion to indexkit"
 keywords = ["sec", "edgar", "sic", "sector", "taxonomy"]
 categories = ["finance", "api-bindings"]
+readme = "../../README.crates.md"
+exclude = ["/data", "/docs", "/.github", "/cli"]
 
 [dependencies]
 anyhow.workspace = true
@@ -24,5 +26,5 @@ arrow.workspace = true
 parquet.workspace = true
 
 [dev-dependencies]
-tokio = { version = "1.52.1", features = ["full", "test-util"] }
-tempfile = "3.27.0"
+tokio = { version = "1", features = ["full", "test-util"] }
+tempfile = "3"

@@ -1,14 +1,77 @@
 # sectorkit
 
-SEC EDGAR SIC industry/sector taxonomy per ticker for Rust. Companion to [`indexkit`](https://github.com/userFRM/indexkit): where `indexkit` answers "which tickers belong to a given index", this crate answers "which industry / sector does a given ticker belong to" using the only fully-open US public-market sector taxonomy: the SEC's Standard Industrial Classification (SIC) divisions.
+SEC EDGAR SIC industry/sector taxonomy per ticker for Rust. Served from bundled parquet with on-demand fetch and a local cache. No API keys. Offline after the first query.
 
-## Why SIC
+## Install
 
-GICS (S&P / MSCI) and ICB (FTSE) are the institutional sector standards but are licensed and cannot be redistributed. SIC is in the public domain, published by the US government, and remains the authoritative taxonomy SEC uses for every filer's cover-page metadata. It is coarser than GICS but is sufficient for breadth indicators, sector-rotation strength, McClellan oscillators, and other market-aggregate analytics that need a stable symbol-to-sector mapping.
+```toml
+[dependencies]
+sectorkit = "0.1"
+tokio = { version = "1", features = ["full"] }
+```
+
+To track unreleased changes, depend on the repository directly:
+
+```toml
+sectorkit = { git = "https://github.com/userFRM/sectorkit" }
+```
+
+## Quick start
+
+```rust,no_run
+use sectorkit::{SecSector, SectorTaxonomyCache, SnapshotSource};
+
+#[tokio::main]
+async fn main() -> sectorkit::Result<()> {
+    let cache = SectorTaxonomyCache::hydrate(SnapshotSource::LatestFromRepo).await?;
+
+    if let Some(row) = cache.resolve_ticker("AAPL") {
+        println!(
+            "{} (CIK {}) -> SIC {} {} -> {}",
+            row.ticker, row.cik, row.sic_code, row.sic_desc, row.sector
+        );
+    }
+
+    let financials = cache.resolve_sector(SecSector::FinanceInsuranceRealEstate);
+    println!("{} financials tracked", financials.len());
+
+    Ok(())
+}
+```
+
+## Client pattern
+
+Hydrate a `SectorTaxonomyCache` once from a `SnapshotSource`, then resolve against it in memory. `LatestFromRepo` pulls the most recent committed snapshot, `LocalFile` reads a Parquet or JSON file you point at, and `Embedded` uses the crate-bundled snapshot for offline use.
+
+```rust,no_run
+use std::path::PathBuf;
+use sectorkit::{SectorTaxonomyCache, SnapshotSource};
+
+async fn load() -> sectorkit::Result<()> {
+    // Offline: the crate-embedded snapshot, no network.
+    let cache = SectorTaxonomyCache::hydrate(SnapshotSource::Embedded).await?;
+
+    // Or a custom-curated snapshot from disk.
+    let cache = SectorTaxonomyCache::hydrate(SnapshotSource::LocalFile(
+        PathBuf::from("./data/2026-06-09/sectors.parquet"),
+    ))
+    .await?;
+
+    // Resolve against the in-memory index.
+    let row = cache.require_ticker("MSFT")?;
+    println!("{} -> {}", row.ticker, row.sector);
+
+    for (sector, count) in cache.sector_counts() {
+        println!("{sector}: {count}");
+    }
+
+    Ok(())
+}
+```
 
 ## Sectors
 
-`sectorkit` exposes the 10 top-level SEC divisions:
+`sectorkit` exposes the 10 top-level SEC SIC divisions as `SecSector`. SIC is in the public domain, published by the US government, and remains the authoritative taxonomy SEC records for every filer's cover-page metadata, so it can be redistributed where the licensed GICS and ICB standards cannot.
 
 | Division | Sector                                  | SIC range |
 |----------|-----------------------------------------|-----------|
@@ -25,75 +88,9 @@ GICS (S&P / MSCI) and ICB (FTSE) are the institutional sector standards but are 
 
 Boundaries follow SEC's published list at `https://www.sec.gov/info/edgar/siccodes.htm`.
 
-## Install
-
-```toml
-[dependencies]
-sectorkit = "0.1"
-tokio = { version = "1", features = ["full"] }
-```
-
-## Usage
-
-```rust
-use sectorkit::{SectorTaxonomyCache, SnapshotSource, SecSector};
-
-#[tokio::main]
-async fn main() -> sectorkit::Result<()> {
-    let cache = SectorTaxonomyCache::hydrate(SnapshotSource::LatestFromRepo).await?;
-
-    if let Some(row) = cache.resolve_ticker("AAPL") {
-        println!("{} (CIK {}) -> SIC {} {} -> {}",
-            row.ticker, row.cik, row.sic_code, row.sic_desc, row.sector);
-    }
-
-    let financials = cache.resolve_sector(SecSector::FinanceInsuranceRealEstate);
-    println!("{} financials tracked", financials.len());
-
-    Ok(())
-}
-```
-
-### Offline mode
-
-The crate ships an embedded fallback snapshot of the most-watched US large-caps so that downstream tests and offline scripts work without network access:
-
-```rust
-let cache = SectorTaxonomyCache::hydrate(SnapshotSource::Embedded).await?;
-```
-
-For a custom-curated snapshot, point at a local Parquet or JSON file:
-
-```rust
-use std::path::PathBuf;
-let cache = SectorTaxonomyCache::hydrate(
-    SnapshotSource::LocalFile(PathBuf::from("./data/2026-06-09/sectors.parquet"))
-).await?;
-```
-
-## Data refresh
-
-A nightly GitHub Actions workflow (`.github/workflows/nightly-refresh.yml`) walks every SEC ticker via the EDGAR submissions API, materializes the resolved taxonomy to `data/<YYYY-MM-DD>/sectors.{parquet,json}`, and commits the snapshot. Consumers using `SnapshotSource::LatestFromRepo` automatically pick up the most recent committed snapshot.
-
-The walk respects SEC's published policy:
-
-- Every request carries a descriptive `User-Agent` (override via `SECTORKIT_SEC_USER_AGENT`).
-- In-flight request concurrency is capped under SEC's published 10 req/s ceiling.
-
-## Methodology
-
-SIC = Standard Industrial Classification (US Department of Labor, OSHA, established 1937). SEC has published the SIC code of every registrant on the cover page of 10-K filings since 1939 and exposes the live value on the JSON submissions endpoint documented at `https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent`.
-
-Data sources:
-
-- `https://www.sec.gov/files/company_tickers.json` -- ticker -> CIK index.
-- `https://data.sec.gov/submissions/CIK<10-digit-padded>.json` -- per-filer `sicCode`, `sicDescription`, `name`.
-
-Division-range mapping follows the SEC SIC list at `https://www.sec.gov/info/edgar/siccodes.htm`.
-
 ## CLI
 
-```sh
+```bash
 cargo install sectorkit-cli
 
 sectorkit-cli resolve AAPL
@@ -102,6 +99,24 @@ sectorkit-cli summary
 sectorkit-cli hydrate --limit 100
 ```
 
+## Data
+
+Each snapshot maps every resolved SEC ticker to its CIK, 4-digit SIC code, SIC description, and top-level division. Snapshots are versioned by date under `data/<YYYY-MM-DD>/` as Parquet and JSON.
+
+The taxonomy is the SEC's Standard Industrial Classification, established 1937 by the US Department of Labor. SIC codes and descriptions are US government public-domain data sourced from SEC EDGAR.
+
+## Cache
+
+`SectorTaxonomyCache` holds the snapshot in memory after `hydrate`, indexed for `O(1)` ticker lookup and grouped by sector. Resolution methods (`resolve_ticker`, `require_ticker`, `resolve_sector`, `sector_counts`, `iter`) run against the in-memory index with no further network access.
+
+## API
+
+Full API reference is on [docs.rs](https://docs.rs/sectorkit).
+
 ## License
 
-Apache-2.0. See [LICENSE](LICENSE).
+Dual-licensed under either of [MIT](LICENSE-MIT) or [Apache-2.0](LICENSE-APACHE) at your option.
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md).
