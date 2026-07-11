@@ -4,5 +4,5 @@ on:
   workflow_dispatch: {}
 jobs:
   sweep:
-    uses: userFRM/kit-ci/.github/workflows/security-nightly.yml@28fc202d7ddafe5c5ee6886da01027f8342d3673
+    uses: kovagent/kit-ci/.github/workflows/security-nightly.yml@28fc202d7ddafe5c5ee6886da01027f8342d3673
     permissions: { issues: write, contents: read }

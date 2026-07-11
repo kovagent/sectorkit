@@ -4,4 +4,4 @@ on:
   pull_request: { branches: [main] }
 jobs:
   ci:
-    uses: userFRM/kit-ci/.github/workflows/ci.yml@28fc202d7ddafe5c5ee6886da01027f8342d3673
+    uses: kovagent/kit-ci/.github/workflows/ci.yml@28fc202d7ddafe5c5ee6886da01027f8342d3673
